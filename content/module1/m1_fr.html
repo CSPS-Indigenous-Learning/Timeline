@@ -1,0 +1,74 @@
+<link rel="stylesheet" href="./theme/timeline/animate.css" />
+<h1 class="wb-inv">Ligne de temps</h1>
+
+<section>
+	<div id="navAnchors" class="sticky">
+		<div class="mb-link">
+			<a href="#navAnchors-overlay" aria-controls="navAnchors-overlay" class="mb-navAnchors-link overlay-lnk" role="button">Ligne de temps - periodes</a>	
+		</div>		
+		
+		
+		<section id="navAnchors-overlay" class="outside-off wb-overlay modal-content overlay-def wb-panel-l anchors">
+			<header class="modal-header wb-inv">
+				<h2 class="modal-title">Ligne de temps - periodes</h2>
+			</header>
+			<div class="modal-body anchors">
+				<p><a href="#1492" class="active anchor">1492</a></p>
+				<p><a href="#1700" class="anchor">1700</a></p>
+				<p><a href="#1800" class="anchor">1800</a></p>
+				<p><a href="#1900" class="anchor">1900</a></p>
+				<p><a href="#2000" class="anchor">2000</a></p>
+			</div>
+			<div class="modal-footer visible-sm visible-xs">
+	           <button type="button" id="ftrClose" class="btn btn-sm overlay-close" style="" title="Fermer : Portable (touche d'échappement)">Fermer<span class="wb-inv">touche d'échappement</span></button>
+	       </div>
+		</section>
+	</div>
+	<div class="wb-filter">
+		<section class="it-events">
+			<ul class="list-unstyled wb-not-filtered"></ul>
+		</section>
+	</div>
+	
+	<!--<div class="survey">
+		<div class="icon"></div>
+		<div class="content">
+			<p class="title">Nous désirons obtenir vos commentaires!</p>
+			<p><a href="https://moodle.csps-efpc.gc.ca/moodle/mod/feedback/view.php?id=7892" target="_blank">Dites-nous ce que vous pensez de ce produit</a>.</p>
+		</div>
+	</div>
+	<div style="clear: both;"></div>-->
+	
+	<section id="popups"></section>
+	
+	<a href="#" class="topButton buttonHidden" aria-labelledby="topLabel" aria-hidden="true" tabindex="0"><i class="glyphicon glyphicon-chevron-up" aria-hidden="true"></i><span class="wb-inv" id="topLabel">Aller au haut de la page</span></a>
+		
+</section>
+
+<script>
+
+	$(".topButton").click(function(e){
+		e.preventDefault();
+		$(window).animate({scrollTop: 0});
+	});
+	
+	setInterval(checkScroll, 200);
+	
+	var on = true;
+	var off = false;
+	function checkScroll(){
+		if($(window).scrollTop() >= 700){
+			if(on){
+				$(".topButton").removeClass("buttonHidden").attr("aria-hidden", false);
+				on = false;
+				off = true;
+			}
+		}
+		else if(off){
+			$(".topButton").addClass("buttonHidden").attr("aria-hidden", true);
+			on = true;
+			off = false;
+		}
+	}
+
+</script>

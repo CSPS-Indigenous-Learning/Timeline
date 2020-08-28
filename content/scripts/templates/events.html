@@ -1,0 +1,21 @@
+{{#each this.events}} 
+<li class="it-event">
+	{{#if anchor}}	
+		<a id="{{this.anchorName}}"></a>	
+	{{/if}}
+	<button class="it-btn-event" data-mfp-src="#event{{@index}}"  data-effect="mfp-zoom-in">
+		{{#if this.imagesrc}} <img class="img-responsive image{{#if imgFR}} fr{{/if}}" src="content/medias/images/cercles/{{this.imagesrc}}.png" alt="{{this.imagealt}}">{{/if}}		
+		<div class="it-event-details">
+			<p class="date">{{{this.date}}}</p>									
+			<div class="it-event-body">
+				<p class="title">{{{this.title}}}</p>
+				<div class="snap-read-more">
+					<div class="snap-read-more-content">
+				    	{{{this.content}}}    
+					</div>				
+				</div>
+			</div>
+		</div>
+	</button>
+</li>
+{{/each}}

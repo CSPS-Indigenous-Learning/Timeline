@@ -1,0 +1,186 @@
+html, body{height:100%;}
+html[lang=fr] .launchpage{
+	 font-size: 0.8em;
+}
+.launchpage{
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	#wordmark, #canada-logo {
+		height: unset;
+		position: unset;
+		width: unset;
+		padding-left: 8px;
+		padding-right: 8px;
+		background-color: unset;
+	}
+	#splash-content{
+		font-size: inherit;
+		text-align: initial;
+		position: unset;
+		top: unset;
+		-webkit-transform: unset;
+		transform: unset;
+
+		background-image:url('timeline/splash.jpg'); 
+		background-size:contain;
+		background-repeat:no-repeat;
+		background-position:center center;
+		margin-right: auto;
+		margin-left: auto;
+		width:1170px;
+		//width: calc(100% - 30px);
+		height: calc(100vh - 65px);
+		display: flex;
+		flex-direction: column;
+		justify-content: center;  
+		#title-area{
+			margin-top: calc(100vh - 65%);
+			@include breakpoint-lt(large){			
+				margin-top: 6em;				
+			}
+			@include breakpoint-lt(medium){
+				width:90%;
+				font-size:1em;			
+			}
+		}
+		#coursename{		
+			width:100%;				
+			div:first-child{
+				//font-size:1em;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				font-family: 'BebasNeue-Bold';
+				line-height: 2.5em;	
+			}			
+			.hr {
+				background-image: url(timeline/dots.png);
+				height: 3px;
+				background-repeat: repeat-x;
+				position: relative;
+				background-position: -8px 0px;
+				flex-grow:1;			
+			}
+			.hr:after {
+				content: '';
+				width: 10px;
+				height: 10px;
+				border-radius: 20px;
+				background-color: #555;
+				position: absolute;
+				right: 0;
+				top: -3px;
+				z-index: 1;
+			}
+			.boxTitle{
+				padding-left:20px;
+				flex-grow:1;
+				display: block;
+				font-size:2em;
+			}
+		}
+		
+		.dottedBox_text{
+			position: relative;
+			font-family: 'News Gothic MT Bold';
+			padding-bottom: 2em;
+			font-size: 0.85em;
+			text-align: center;
+			/* 		vertical dots */
+			&:before{    		
+			content: "";
+			position: absolute;
+			top: -20px;
+			left: 0;
+			background: url(timeline/dots_vertical.png) 0 0 repeat;
+			display: inline-block;
+			width: 2px;
+			height: calc(100% + 15px);
+			background-position: 0 3px;
+			}
+			/* 		horizontal dots */
+			&:after{
+				content: "";
+				position: absolute;
+				bottom: 0px;
+				left: 0;
+				background: url(timeline/dots.png) 0 0 repeat;
+				display: inline-block;
+				width: calc(100% - 10px);
+				height: 2px;
+				background-position: 2px -0;
+				@include breakpoint-lt(medium){
+					width:calc(90% - 20px);
+				}
+				@include breakpoint-lt(small){
+					width: calc(90% - 32px);
+				}
+			}
+		}
+		h1{ color:#555;margin: 0;text-transform:uppercase;}
+		#title-welcome{display:none;}
+		#launch-placement > a {
+			width: 140px;
+			height: 140px;			
+			font-family: 'BebasNeue',arial;
+			font-size: 1.7em;
+			line-height: 1em;
+			background-color: rgba(211, 234, 248, 0.75);
+			border-radius: 50%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			text-transform: uppercase;
+			text-align: center;
+			font-weight: bold;
+			text-decoration: none;
+			position: relative;
+			margin-top: 32px;
+			color: #4D4D4F;
+			float:right;
+			left: 9%;
+			padding: 15px!important;
+			@include breakpoint-lt(medium){
+				width: 90px;
+    			height: 100px;
+			}
+			&:hover,&:focus{
+				color: #267ABA;	
+			}
+			&:before{
+				content: "";
+				position: absolute;
+				top: -36px;
+				left: 50%;
+				background: url(timeline/dots_vertical.png) 0 0 repeat;
+				display: inline-block;
+				width: 2px;
+				height: 36px;
+				background-position: 0 3px;	
+			}
+		}
+		@include breakpoint-lt(xlarge){			
+			width: 1170px; 			
+			.boxTitle{font-size: 2.5em;}		  
+		}
+		@include breakpoint-lt(large){			
+			 width: 970px;		
+			.boxTitle{font-size: 2.5em;}		  
+		}
+		@include breakpoint-lt(medium){
+			 width: 750px;
+		}		
+		@include breakpoint-lt(small){
+			width:90%;		
+		}
+	}
+}
+
+
+#splash-content 
+#title-area,#launch-area{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}

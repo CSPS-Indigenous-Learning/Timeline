@@ -1,0 +1,27 @@
+{{#each this.events}} 
+<section id="event{{@index}}" class="modal-dialog modal-content overlay-def mfp-with-anim it-event-popup">
+	<button title="{{../labels.closeOverlay}}" type="button" class="mfp-close">×<span class="wb-inv"> {{../labels.closeOverlay}}</span></button>
+	<div class="modal-body" data-period="{{this.period}}">
+		<div class="it-event-popup-detail{{#if this.wrap}} wrap{{/if}}">
+
+			{{#if this.wrap}}<h1>{{{this.date}}}</h1>{{/if}}
+			{{#if this.wrap}}<h2 class="title">{{{this.title}}}</h2>{{/if}}
+			{{#if this.imagesrc}}
+				<div class="img-container">					
+					<a class="zoom" href="content/medias/images/{{this.imagesrc}}.jpg" target="_blank"><span class="wb-inv">{{../labels.View_larger}}</span><img class="image{{#if imgFR}} fr{{/if}}" src="content/medias/images/{{this.imagesrc}}.jpg" alt="{{this.imagealt}}"></a>
+				</div>
+			{{/if}}		
+			<div>
+				{{#unless this.wrap}}<h1>{{{this.date}}}</h1>{{/unless}}
+				{{#unless this.wrap}}<h2 class="title">{{{this.title}}}</h2>{{/unless}}
+				{{{this.content}}}
+				
+			</div>		
+		</div>
+		{{#if this.mapUrl}}
+			<button class="it-map-btn" data-mfp-src="#map{{@index}}" data-mapUrl="{{this.mapUrl}}">{{../labels.View_map}}</button>					
+		{{/if}}
+	</div>
+</section>
+
+{{/each}}

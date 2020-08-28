@@ -1,0 +1,86 @@
+<link rel="stylesheet" href="./theme/timeline/animate.css" />
+<h1 class="wb-inv">Timeline</h1>
+
+<section>
+	<div id="navAnchors" class="sticky">
+		<div class="mb-link">
+			<a href="#navAnchors-overlay" aria-controls="navAnchors-overlay" class="mb-navAnchors-link overlay-lnk" role="button">Timeline periods</a>	
+		</div>		
+		
+		
+		<section id="navAnchors-overlay" class="outside-off wb-overlay modal-content overlay-def wb-panel-l anchors">
+			<header class="modal-header wb-inv">
+				<h2 class="modal-title">Timeline periods</h2>
+			</header>
+			<div class="modal-body anchors">
+				<p><a href="#1492" class="active anchor">1492</a></p>
+				<p><a href="#1700" class="anchor">1700</a></p>
+				<p><a href="#1800" class="anchor">1800</a></p>
+				<p><a href="#1900" class="anchor">1900</a></p>
+				<p><a href="#2000" class="anchor">2000</a></p>
+			</div>
+			<div class="modal-footer visible-sm visible-xs">
+	           <button type="button" id="ftrClose" class="btn btn-sm overlay-close" style="" title="Close (escape key)">Close<span class="wb-inv">(escape key)</span></button>
+	       </div>
+		</section>
+	</div>
+	
+	<div class="wb-filter">
+		<section class="it-events">
+			<ul class="list-unstyled wb-not-filtered"></ul>
+		</section>
+	</div>
+	
+	<!--<div class="survey">
+		<div class="icon"></div>
+		<div class="content">
+			<p class="title">We want to hear your feedback!</p>
+			<p><a href="https://moodle.csps-efpc.gc.ca/moodle/mod/feedback/view.php?id=7897" target="_blank">Tell us what you think about our product</a>.</p>
+		</div>
+	</div>
+	<div style="clear: both;"></div>-->
+	
+	<section id="popups"></section>
+	
+	<a href="#" class="topButton buttonHidden" aria-labelledby="topLabel" aria-hidden="true" tabindex="0"><i class="glyphicon glyphicon-chevron-up" aria-hidden="true"></i><span class="wb-inv" id="topLabel">Scroll to top of page</span></a>
+		
+</section>
+
+<script>
+
+	$(".topButton").click(function(e){
+		e.preventDefault();
+		$(window).animate({scrollTop: 0});
+	});
+	
+	setInterval(checkScroll, 200);
+	
+	var on = true;
+	var off = false;
+	function checkScroll(){
+		if($(window).scrollTop() >= 700){
+			if(on){
+				$(".topButton").removeClass("buttonHidden").attr("aria-hidden", false);
+				on = false;
+				off = true;
+			}
+		}
+		else if(off){
+			$(".topButton").addClass("buttonHidden").attr("aria-hidden", true);
+			on = true;
+			off = false;
+		}
+	}
+	
+	$('.lbx').magnificPopup({
+	removalDelay: 500,
+	callbacks: {
+		beforeOpen: function() {
+		   this.st.mainClass = this.st.el.attr('data-effect');
+		}
+	},
+	midClick: true
+});
+
+
+</script>

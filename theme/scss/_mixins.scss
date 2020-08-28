@@ -1,0 +1,29 @@
+@mixin floating($direction,$background) {
+       
+    #{$direction}: calc(((100vw - 1170px)/-2) - 5px);   
+    width: calc((100vw - 1170px)/2 + 5px);    
+ 
+    
+    @include breakpoint-lt(large) {       
+        #{$direction}: calc((100vw - 970px)/-2 - 20px);
+        width: calc((100vw - 970px)/2 + 20px); 
+    }	
+    @include breakpoint-lt(medium) {   
+    	width:0;          
+       //#{$direction}: calc((100vw - 750px)/-2 - 20px);
+        //width: calc((100vw - 750px)/2 + 20px); 
+    }	
+    @include breakpoint-lt(small) {  
+   		width:0;    	
+//     	#{$direction}: -25px;    	
+//     	width: calc(100vw - 100% - 40px);
+    }
+    @include breakpoint-lt(xxsmall) {      	          
+        width:0;
+
+    }
+    background-color:$background;
+    
+	@content; 	
+	
+}

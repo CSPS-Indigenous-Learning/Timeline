@@ -1,0 +1,11 @@
+{{#each this.events}}
+	{{#if mapUrl}}
+	<section id="map{{@index}}" class="modal-dialog modal-content overlay-def mfp-with-anim it-map-popup">	
+		<button title="{{../labels.Back_to_event_overlay}}" type="button" class="it-btn-event it-map-close" data-mfp-src="#event{{@index}}">×<span class="wb-inv">{{../labels.Back_to_event_overlay}}</span></button>
+		<div class="modal-body mapView" data-period="{{this.period}}">
+			<img src="{{this.mapUrl}}" class="img-responsive animated slideInLeft {{#if mapFR}}fr{{/if}}" alt="{{#if fr}}Carte du Canada avec {{this.mapAlt}} en évidence{{else}}Map of Canada with {{this.mapAlt}} highlighted{{/if}}">
+			<button class="it-btn-event" data-mfp-src="#event{{@index}}">{{../labels.Back_to_event}}</button>
+		</div>
+	</section>
+	{{/if}}
+{{/each}}
