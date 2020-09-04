@@ -54,13 +54,13 @@ define(['utils'], function (Utils) {
 				"The Names of the continents":
 				"",
 			"content": (Utils.lang === "en")?
-				"<p>The term “America” is derived from the name of Amerigo Vespucci, an Italian explorer. Europeans of that time credited him with recognizing that there were two distinct continents rather than one land mass across the Atlantic Ocean from Europe. To refer to these continents, German map-makers coined the name “America” in tribute to Vespucci. Today, the continents have become known as North and South America.</p><p>Obviously, the populations living in those territories did not refer to them by the name of an Italian explorer. One name that is common in Canada, coming from the Iroquois peoples, is <a href=\"#\" class=\"external\" data-ext=\"ext-wb-59\">Turtle Island</a>. Other nations have different stories and use different names.</p>":
+				"<p>The term &ldquo;America&rdquo; is derived from the name of Amerigo Vespucci, an Italian explorer. Europeans of that time credited him with recognizing that there were two distinct continents rather than one land mass across the Atlantic Ocean from Europe. To refer to these continents, German map-makers coined the name &ldquo;America&rdquo; in tribute to Vespucci. Today, the continents have become known as North and South America.</p><p>Obviously, the populations living in those territories did not refer to them by the name of an Italian explorer. One name that is common in Canada, coming from the Iroquois peoples, is <a href=\"#\" class=\"external\" data-ext=\"ext-wb-59\">Turtle Island</a>. Other nations have different stories and use different names.</p>":
 				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
-			"date":"1534-1576",
+			"date":"1534&nbsp;&ndash;&nbsp;1576",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
@@ -78,7 +78,7 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
-			"date":"1576–1578",
+			"date":"1576&nbsp;&ndash;&nbsp;1578",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
@@ -100,7 +100,7 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
         {
-			"date":"1600–1700",
+			"date":"1600&nbsp;&ndash;&nbsp;1700",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
@@ -203,7 +203,7 @@ define(['utils'], function (Utils) {
 				"The fur trade and the Royal Charter":
 				"La traite des fourrures et la Charte royale",
 			"content": (Utils.lang === "en")?	
-				"<p>In the 17th century, the fur trade emerged as a major commercial enterprise in North America, supplying the European demand for felt hats made from beaver fur. French traders <a href=\"#\" class=\"external\" data-ext=\"ext-wb-69\">Médard Chouart des Groseilliers</a> and <a href=\"#\" class=\"external\" data-ext=\"ext-wb-70\">Pierre-Esprit Radisson</a> were the first to propose the creation of a trading company that would send expeditions through Hudson Bay to the interior of the continent, from where there would be easier access to fur resources. </p><p>After failing to obtain French support, the two went to England in 1665 and approached Prince Rupert, a cousin of King Charles II. Rupert persuaded the King, along with several merchants and noblemen, to back the venture. Even though Indigenous Peoples already occupied the land, a Royal Charter was proclaimed on May 2, 1670, granting the “Governor and Company of Adventurers” extensive powers, including exclusive trading rights in the territory traversed by rivers flowing into Hudson Bay.</p><p>This territory was named <a href=\"#\" class=\"external\" data-ext=\"ext-wb-71\">Rupert’s Land</a>, a vast region over which the Company claimed ownership and which it administered for almost 200 years. The fur trade depended almost entirely on knowledge of the land collected by First Nations and Métis, and their labour was purchased in return for manufactured goods.</p>":
+				"<p>In the 17th century, the fur trade emerged as a major commercial enterprise in North America, supplying the European demand for felt hats made from beaver fur. French traders <a href=\"#\" class=\"external\" data-ext=\"ext-wb-69\">Médard Chouart des Groseilliers</a> and <a href=\"#\" class=\"external\" data-ext=\"ext-wb-70\">Pierre-Esprit Radisson</a> were the first to propose the creation of a trading company that would send expeditions through Hudson Bay to the interior of the continent, from where there would be easier access to fur resources. </p><p>After failing to obtain French support, the two went to England in 1665 and approached Prince Rupert, a cousin of King Charles II. Rupert persuaded the King, along with several merchants and noblemen, to back the venture. Even though Indigenous Peoples already occupied the land, a Royal Charter was proclaimed on May 2, 1670, granting the &ldquo;Governor and Company of Adventurers&rdquo; extensive powers, including exclusive trading rights in the territory traversed by rivers flowing into Hudson Bay.</p><p>This territory was named <a href=\"#\" class=\"external\" data-ext=\"ext-wb-71\">Rupert’s Land</a>, a vast region over which the Company claimed ownership and which it administered for almost 200 years. The fur trade depended almost entirely on knowledge of the land collected by First Nations and Métis, and their labour was purchased in return for manufactured goods.</p>":
 				"<p>La traite des fourrures devient une entreprise commerciale importante au cours du XVIIe siècle en Amérique du Nord, à la suite de la demande européenne de chapeaux de feutre faits de fourrure de castor. Les négociants français Médard Chouart des Groseilliers et Pierre Esprit Radisson sont les premiers à proposer de monter une société de négoce pour rejoindre l’intérieur du continent par la baie d’Hudson de façon à accéder plus facilement aux ressources en fourrures. N’ayant pas réussi à obtenir l’appui des Français, ils se rendent en Angleterre en 1665 pour se présenter devant le Prince Rupert, cousin de Charles <abbr title='deux'>II</abbr>. Le Prince Rupert convainc le roi, plusieurs marchands et membres de la noblesse de soutenir le projet. Proclamée le 2 mai 1670, la Charte royale octroie de larges prérogatives « au Gouverneur et à la Compagnie des aventuriers », y compris le monopole du commerce dans tout le territoire baigné par le bassin hydrographique de la baie d’Hudson. Ce territoire, possédé et géré par la Compagnie pendant près de 200 ans, portera le nom de « Terre de Rupert ». La traite des fourrures dépend presque entièrement de la connaissance qu’ont les Indiens et les Métis du territoire, ainsi que du travail qu’ils fournissent en échange de produits manufacturés.</p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
@@ -272,14 +272,14 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
-			"date":"1756–1763",
+			"date":"1754&nbsp;&ndash;&nbsp;1763",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"The Seven Years' War":
+				"The Seven Years’ War":
 				"La guerre de Sept Ans",
 			"content": (Utils.lang === "en")?	
-				"<p>The Seven Years' War (1756–63) was the first global war and it was fought in Europe, India, North America, and at sea. In North America, imperial rivals Britain and France struggled for supremacy. Early in the war, the French (aided by Canadian militia and Aboriginal allies) repelled several British attacks and captured a number of British forts. In 1758, the tide turned when the British captured Louisbourg, followed by Québec City in 1759, and Montréal in 1760. With the Treaty of Paris of 1763, France formally ceded Canada to the British. The Seven Years’ War therefore laid the bicultural foundations of modern Canada. The military support of local Indigenous nations was critical to both sides in the conflict, particularly for the French. In the end, it was their neutrality (which was provided in exchange for treaty agreements) that proved decisive for the British.</p>":
+				"<p>The first global war, the Seven Years’ War was fought in Europe, India, North America and at sea. In North America, imperial rivals Britain and France struggled for supremacy. Early in the war, the French (aided by the Canadian militia and Indigenous allies) repelled several British attacks and captured a number of British forts. The tide turned when the British captured Louisbourg in 1758, followed by Quebec City in 1759 and Montréal in 1760.</p><p>Under the Treaty of Paris in 1763, France formally ceded Canada to the British. The Seven Years’ War therefore laid the bicultural foundations of modern Canada. Military support from local Indigenous Peoples was critical to both sides in the conflict. The British and Indigenous Peoples negociated indigenous neutrality in exchange for treaty agreements. In the end, this proved decisive for the British.</p>":
 				"<p>La guerre de Sept Ans (de 1756 à 1763) est la première guerre d’envergure mondiale. Elle est menée en Europe, en Inde et en Amérique du Nord, ainsi qu’en mer. En Amérique du Nord, la Grande-Bretagne et la France, empires rivaux, luttent pour leur suprématie. Dès le début de la guerre, les Français, aidés par la milice canadienne et par leurs alliés autochtones, repoussent plusieurs attaques et prennent un certain nombre de forts britanniques. Le vent tourne quand les Britanniques prennent Louisbourg en 1758, Québec en 1759 et Montréal en 1760. Par le Traité de Paris de 1763, la France cède officiellement le Canada aux Britanniques. La guerre de Sept Ans pose la fondation biculturelle du Canada moderne. L’appui militaire des nations autochtones locales aura été crucial pour les deux camps, mais particulièrement pour les Français. Au final, c’est leur neutralité (assurée en échange d’ententes de traités) qui s’avère décisive pour les Britanniques.</p>",
 			"imagesrc":"12-1754",
 			"imagealt": (Utils.lang === "en")?
@@ -293,11 +293,24 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"The First Indian Department":
+				"The first Indian department":
 				"Le premier ministère des Indiens",
 			"content": (Utils.lang === "en")?	
-				"<p>The Indian Department was established to oversee the relationship between the British colonies and Indigenous peoples. The British were desperate for military assistance; they wanted to strengthen alliances with the Iroquois Confederacy, and calm fears of colonial fraud and abuses against First Nations people and their lands along the colonial frontier.</p>":
+				"<p>The Indian Department was established to oversee the relationship between the British colonies and Indigenous Peoples. The British were desperate for military assistance; they wanted to strengthen alliances with the Iroquois Confederacy. To do that, they needed to calm their allies’ fears of fraud and abuses on the part of colonists against First Nations people and their lands along the frontier.</p>":
 				"<p>Le ministère des Indiens est mis en place pour superviser les relations entre les colonies britanniques et les peuples autochtones. Les Britanniques ont désespérément besoin d’une aide militaire; ils veulent renforcer leurs alliances avec la Confédération iroquoise et apaiser les craintes de fraudes et de mauvais traitements de la part des colonies à l’endroit des membres des Premières Nations et des terres qu’ils possèdent le long des frontières coloniales.</p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1755",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"James Murray and the Huron-Wendat":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>In September 1760, during the last days before the capitulation of Montréal, the chief of the Huron of Lorette negotiated a treaty with British General James Murray. This treaty ended their previous alliance with the French and guaranteed safe passage for the British to their territory near Quebec City. More importantly, the treaty recognized the Huron-Wendat as a distinct nation. It also guaranteed that the British would not interfere in that nation’s internal affairs, including its trade, customs and system of justice.</p><p>Over time, the agreement was ignored by federal and provincial governments. However, in May 1990, the Government of Canada legally recognized the treaty after François Vincent Kiowarini of Wendake, Quebec, discovered the original document and presented it in federal court as part of the Sioui trial.</p>":
+				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -306,10 +319,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Pontiac’s War":
+				"Obwandiyag’s (Pontiac’s) War":
 				"La guerre de Pontiac",
 			"content": (Utils.lang === "en")?	
-				"<p>Pontiac's War was the most successful First Nations resistance to the European invasion in our history. Though it failed to oust the British from Native lands, the conflict forced British authorities to recognize Native rights, with far-reaching consequences, even to the present day. The war had its origins in the changing relationships between First Nations and whites after the British conquest of New France in 1763. The footprint of the French had been light, with just a few small posts and missions. The French learned the First Nations languages and customs and intermarried. The haughty condescension of General Jeffery Amherst, the British commander-in-chief, was in stark contrast. Amherst sold off Native lands with impunity, crushed any opposition with force, and forbade the giving of gifts, which had great symbolic significance to First Nations people.</p>":
+				"<p>Obwandiyag’s War was the most successful First Nations resistance to the European invasion. At one point, Obwandiyag’s forces took control of nine forts and held siege to Detroit for several months. Although it failed to oust the British from First Nations lands, the conflict forced British authorities to recognize Aboriginal rights. This step had far-reaching consequences, even to the present day.</p><p>The war had its origins in the changing relationships between First Nations and Europeans after the British conquest of New France in 1763. The footprint of the French had been light, with only a few small posts and missions. Quite often, the French learned the First Nations languages and customs, and intermarried. The haughty condescension of General Jeffery Amherst, the British commander-in-chief, presented a stark contrast. Amherst sold off First Nations lands with impunity, crushed any opposition with force and forbade the exchange of gifts, which had great symbolic significance to First Nations.</p>":
 				"<p>La guerre de Pontiac est la résistance la plus fructueuse des Premières Nations contre l’invasion européenne dans notre histoire. Bien qu’elle ne réussisse pas à évincer les Britanniques des territoires autochtones, elle impose à ces derniers le respect des droits des Autochtones. La portée des conséquences s’étendra jusqu’à nos jours. L’origine de la guerre remonte au changement survenu dans les relations des Premières Nations avec les Blancs après la conquête de la Nouvelle France par les Britanniques en 1763. Les quelques missions et petits postes établis par les Français ont laissé peu de marques. Les Français ont appris les langues et les coutumes des autochtones et se sont mariés avec eux, une attitude qui contraste fortement avec la condescendance hautaine du commandant en chef britannique, le général Jeffery Amherst. Ce dernier vend les terres autochtones de façon inconsidérée, écrase toute opposition et interdit la présentation de cadeaux, geste qui revêt une importance symbolique pour les Premières Nations.</p>",
 			"imagesrc":"14-1762",
 			"imagealt": (Utils.lang === "en")?
@@ -323,10 +336,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Royal Proclamation":
+				"The Royal Proclamation":
 				"Proclamation royale",
 			"content": (Utils.lang === "en")?	
-				"<p>The Royal Proclamation was issued by King George <abbr title='3'>III</abbr> to establish a basis of government administration in the North American territories formally ceded by France to Britain in the Treaty of Paris following the Seven Years’ War. It established the constitutional framework for the negotiation of treaties with the Aboriginal inhabitants of large sections of Canada, and it is referenced in section 25 of the Constitution Act, 1982. As such, it has been labelled an “Indian Magna Carta” or “Indian Bill of Rights.”</p><p>The Proclamation is also significant because it contributed to the outbreak of the American Revolution in 1775. It legally defined the North American interior west of the Appalachian Mountains as a vast Aboriginal reserve, thus angering inhabitants of the Thirteen Colonies, who desired western expansion.</p><p>“And whereas it is just and reasonable, and essential to our Interest, and the Security of our Colonies, that the several Nations or Tribes of Indians with whom We are connected, and who live under our Protection, should not be molested or disturbed in the Possession of such Parts of Our Dominions and Territories as, not having been ceded to or purchased by Us, are reserved to them, or any of them, as their Hunting Grounds.” (Excerpt from the Royal Proclamation)</p>":
+				"<p>The Royal Proclamation was issued by King George III to establish the basis for governing the North American territories formally ceded by France to Britain in the Treaty of Paris following the Seven Years’ War. The Proclamation established the constitutional framework for the negotiation of treaties with the Aboriginal inhabitants of large sections of Canada, and it is referenced in section 25 of the Constitution Act, 1982. It has been labelled an &ldquo;Indian Magna Carta&rdquo; or &ldquo;Indian Bill of Rights.&rdquo;</p><p>The Proclamation is also significant because it contributed to the outbreak of the American Revolution in 1775. It legally defined the North American interior west of the Appalachian Mountains as a vast Aboriginal reserve. This angered inhabitants of the Thirteen Colonies, who desired western expansion.</p><p>&ldquo;And whereas it is just and reasonable, and essential to Our Interest, and the Security of Our Colonies, that the several Nations or Tribes of Indians with whom We are connected, and who live under Our Protection, should not be molested or disturbed in the Possession of such Parts of Our Dominions and Territories as, not having been ceded to or purchased by Us, are reserved to them, or any of them, as their Hunting Grounds …&rdquo; (Excerpt from the Royal Proclamation)</p>":
 				"<p>Le roi George <abbr title='trois'>III</abbr> publie la Proclamation royale pour jeter les bases d’une administration gouvernementale dans les territoires nord-américains officiellement cédés par la France à la Grande-Bretagne par le Traité de Paris à l’issue de la guerre de Sept Ans. Cette proclamation établit le cadre constitutionnel qui régit la négociation de traités avec les populations autochtones de vastes régions du Canada, et elle est mentionnée à l’article 25 de la Loi constitutionnelle de 1982. C’est pourquoi elle a été appelée la « grande charte des Indiens » ou la « déclaration des droits des Indiens ».</p><p>Ce document est aussi important, car il contribue à la Révolution américaine en 1775 et désigne une grande partie de la région intérieure ouest des Appalaches de l’Amérique du Nord comme réserve autochtone, ce qui met en colère les habitants des treize colonies qui souhaitaient une expansion vers l’ouest.</p><p>« Attendu qu’il est juste, raisonnable et essentiel pour Notre intérêt et la sécurité de Nos colonies de prendre des mesures pour assurer aux nations ou tribus sauvages qui sont en relations avec Nous et qui vivent sous Notre protection, la possession entière et paisible des parties de Nos possessions et territoires qui ont été ni concédées ni achetées et ont été réservées pour ces tribus ou quelques-unes d’entre elles comme territoires de chasse […] ». (Extrait de la Proclamation royale)</p>",
 			"imagesrc":"15-1763",
 			"imagealt": (Utils.lang === "en")?
@@ -335,15 +348,28 @@ define(['utils'], function (Utils) {
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
-		{
+        {
+			"date":"1796",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Jay’s Treaty":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>Jay’s Treaty was named for John Jay, first Chief Justice of the United States and signatory to the document signed between Great Britain and the United States of America. The treaty was proclaimed on February 29, 1796.</p><p>The treaty stipulated that merchants from both the United States and British North America would have free access to lands on either side of the border. This included Indigenous Peoples, who were allowed to freely cross the international border, and to live and work freely in Canada and the United States. The provision was included so that Montréal fur trade companies’ ties to Indigenous Peoples in the northern Mississippi Valley would not be severed.</p><p>Jay’s Treaty also exempted Indigenous Peoples from having to pay duty on goods carried across the border. The negotiations and final agreement marked the revival of arbitration in international relations, since commissioners were appointed to settle outstanding boundary problems caused by the peace of 1783. </p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+		/*{
 			"date":"1764-1862",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"The First Land Cessation Treaties and the Mississauga and Other Upper Canadian Treaties":
+				"The first land surrender treaties—Mississauga and Upper Canada Treaties":
 				"Premiers traités de cession territoriale, Traité de Mississauga et autres traités du Haut-Canada",
 			"content": (Utils.lang === "en")?	
-				"<p>The first of these treaties was signed in 1764. When the Loyalists moved to Quebec in the years after the American Revolution, the provisions of the Royal Proclamation were loosely applied in obtaining permission of the Mississauga peoples for the influx. This migration resulted in the division of Quebec into two jurisdictions: Lower Canada and Upper Canada. In some of the earliest agreements, it was understood that the Indian signatories would be allowed to continue to live, hunt, and fish in the unsettled areas as the growth of settlement was slow. However, in the years following the War of 1812, settlement increased rapidly and the harvesting concerns of Indigenous groups were entered into the minutes of the negotiations.</p><p>Although the results of these concerns were not written into future agreements until 1850, the courts have interpreted the minutes as part of the treaty and some of these first agreements now protect harvesting rights. By the mid-1830s, treaties covered most of the arable lands in Upper Canada. These treaties involved an initial distribution of goods and money, with promises of small annual payments. The idea that agreements should include the allocation of reserves only developed gradually.</p>":
+				"<p>The first of the land surrender treaties was signed in 1764. When the Loyalists moved to what was then Quebec in the years after the American Revolution, the provisions of the Royal Proclamation were loosely applied in obtaining permission from the Mississauga peoples for the influx. The migration led to the division of Quebec into two jurisdictions: Lower Canada and Upper Canada. In some of the earliest agreements, it was understood that the Indian signatories would be allowed to continue to live, hunt and fish in the unsettled areas since the growth of settlement was slow. However, in the years following the War of 1812, settlement increased rapidly and the harvesting concerns of Indigenous groups were entered into the minutes of treaty negotiations.</p><p>Although the indigenous groups’ harvesting concerns were not reflected into future agreements until 1850, the courts have interpreted the minutes as part of the treaty and some of these first agreements now protect harvesting rights. By the mid-1830s, treaties covered most of the arable lands in Upper Canada. The treaties involved an initial distribution of goods and money, with promises of small annual payments. The idea that agreements should include the allocation of reserves developed only gradually.</p>":
 				"<p>Le premier de ces traités est signé en 1764. Dans les années qui suivent la Révolution américaine, au moment où les loyalistes viennent s’installer au Québec, les dispositions de la Proclamation royale sont appliquées sans trop de rigueur pour obtenir des peuples Mississauga la permission d'accommoder cette migration. Celle-ci mène à la division du Québec en deux juridictions : le Bas-Canada et le Haut-Canada. Dans certains des premiers traités, il est entendu que les signataires indiens pourront continuer d’habiter, de chasser et de pêcher dans les zones non colonisées, puisque l’établissement progresse lentement. Toutefois, dans les années qui suivent la guerre de 1812, l’établissement s’accélère rapidement, et les inquiétudes des groupes Autochtones quant aux récoltes sont inscrites dans les comptes rendus des négociations.</p><p>Même si ces inquiétudes ne seront pas inscrites dans les ententes avant 1850, les tribunaux ont interprété que les comptes rendus font partie intégrante des traités. Ainsi, certains de ces premiers traités protègent aujourd’hui les droits de récolte. Au milieu des années 1830, les traités couvrent déjà la plus grande partie des terres arables du Haut-Canada. Ces traités prévoient une distribution initiale de produits et d’argent aux Autochtones, accompagnée de promesses de petits paiements annuels. Ce n’est que graduellement que le principe d’allocation de réserves s’inscrit dans les termes de ces ententes.</p>",
 			"imagesrc":"16-1764",
 			"imagealt": (Utils.lang === "en")?
@@ -356,9 +382,9 @@ define(['utils'], function (Utils) {
 			"mapFR":true,
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
-		},
+		},*/
 		{
-			"date":"1812–1814",
+			"date":"1812&nbsp;&ndash;&nbsp;1814",
 			"anchor":true,
 			"anchorName":"1800",
 			"period":1,
@@ -366,7 +392,7 @@ define(['utils'], function (Utils) {
 				"The War of 1812":
 				"La guerre de 1812",
 			"content": (Utils.lang === "en")?
-				"<p>The War of 1812 was a military conflict between the United States and Great Britain. As a colony of Great Britain, Canada was swept up in the War of 1812 and invaded a number of times by the Americans. Some 10 000 First Nations warriors and Métis soldiers fought alongside British troops and Canadian militia against invading American forces during the War of 1812.</p><p>In Canada, the war resulted in a growing sense of national identity. By contrast, the First Nations allies of the British and Canadian cause suffered because of the war; not only did they lose many warriors (including the great Tecumseh), they also lost any hope of halting American expansion in the west, and their contributions were quickly forgotten by their British and Canadian allies. After the War of 1812, British attitudes towards Indigenous peoples started to shift. Instead of seeing First Nations as important military allies, they were now viewed as impediments to colonial development and encouraged to adopt a European agricultural lifestyle.</p>":
+				"<p>The War of 1812 was a military conflict between the United States and Great Britain. As a colony of Great Britain, Canada was swept up in the conflict and invaded a number of times by the Americans. Some 10,000 First Nations warriors and Métis soldiers fought alongside British troops and Canadian militia against invading American forces during the war.</p><p>In Canada, the War of 1812 resulted in a growing sense of national identity. By contrast, the First Nations allies of the British and Canadians suffered because of the war: not only did they lose many warriors (including the great Tecumseh), but they also lost any hope of halting American expansion westward, and their contributions were quickly forgotten by the British and Canadians. After the War of 1812, British attitudes toward Indigenous Peoples started to shift. Instead of being seen as important military allies, First Nations were now viewed as impediments to colonial development and encouraged to adopt a European agricultural lifestyle.</p>":
 				"<p>La guerre de 1812 est un conflit militaire qui oppose alors les États Unis à la Grande-Bretagne. Comme colonie britannique, le Canada est entraîné dans la guerre de 1812 et envahi à maintes reprises par les Américains. Près de 10 000 guerriers des Premières Nations et soldats métis se battent aux côtés des troupes britanniques et de la milice canadienne contre l’invasion des forces américaines pendant la guerre de 1812.</p><p>Au Canada, cette guerre contribue à accroître le sentiment d’identité nationale. Par contraste, les alliés autochtones des Britanniques et des Canadiens souffrent énormément de la guerre; ils perdent non seulement de nombreux guerriers (dont le grand Tecumseh), mais aussi l’espoir d’enrayer l’expansion américaine dans l’Ouest. D’ailleurs, leurs contributions sont rapidement reléguées aux oubliettes par leurs alliés britanniques et canadiens. Après la guerre de 1812, l’attitude des Britanniques à l’égard des peuples autochtones commence à changer. Au lieu de voir les Premières Nations comme des alliés militaires de premier ordre, ils les perçoivent dorénavant comme des obstacles au développement de la colonie et les incitent à adopter le mode de vie agricole des Européens.</p>",
 			"imagesrc":"17-1812",
 			"imagealt": (Utils.lang === "en")?
@@ -376,13 +402,49 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
+			"date":"1812",
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Laura Secord":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p><a href=\"#\" class=\"external\" data-ext=\"ext-wb-78\">Laura Secord</a> trekked 30 kilometres from Queenston to Beaver Dams, bringing precious information that enabled the Kahnawake Mohawks to prevent an American invasion.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1814",
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Pemmican Proclamation":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>Pemmican is dried meat, traditionally bison, pounded into coarse powder and mixed with an equal amount of melted fat, and occasionally with saskatoon berries, cranberries and even cherries, currants, chokeberries or blueberries. It became a dietary staple in the fur trade and a main economic opportunity for the Métis.</p><p>In 1814, the governor of the Red River Colony issued the Pemmican Proclamation on behalf of the Hudson’s Bay Company, forbidding the sale of pemmican to anyone other than the Hudson’s Bay Company. The proclamation angered the Métis because it severely limited their ability to profit from their work producing and selling pemmican. The proclamation ultimately led to the Battle of Seven Oaks.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
 			"date":"1816",
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Parry Expedition":
+				"Battle of Seven Oaks":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>In the early 1800s, there was fierce rivalry between the Hudson’s Bay Company and the North West Company over the fur trade. The Hudson’s Bay Company had strong links with the British colony on the Red River. It used those connections to manipulate the laws in its favour, to the disadvantage of the North West Company. The Métis provided provisions and services to both companies, and were economically harmed by the British attempts to limit sales of pemmican and furs to other parties.</p><p>On June 19, 1816, a conflict erupted at Seven Oaks when the governor of the Hudson’s Bay Company and 28 men stopped a load of goods being escorted by Métis and First Nations men. In the end, the governor and 20 of his men were killed, as well as a 16-year-old Métis man, Joseph Letendre.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1821&nbsp;&ndash;&nbsp;1823",
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Parry expedition":
 				"L’expédition de William Edward Parry",
 			"content": (Utils.lang === "en")?	
-				"<p>A British Naval Expedition (1821‒23) led by Admiral Parry provided the first informed, sympathetic, and well-documented account of the economic, social, and religious life of Inuit. Parry stayed in what is now Igloolik over the second winter.</p>":
+				"<p>A British naval expedition led by <a href=\"#\" class=\"external\" data-ext=\"ext-wb-79\">William Edward Parry</a> provided the first informed, sympathetic and well-documented account of the economic, social and religious life of Inuit. Parry stayed in what is now Igloolik over the second winter of the expedition.</p>":
 				"<p>Dans le cadre d’une expédition navale britannique (de 1821 à 1823) dirigée par l’amiral sir William Edward Parry, la vie économique, sociale et religieuse des Inuits est décrite pour la première fois dans un compte rendu éclairé, favorable et bien documenté. Parry s’installe pour un second hiver dans un endroit aujourd’hui appelé Igloolik.</p>",
 			"imagesrc":"18-1816",
 			"imagealt": (Utils.lang === "en")?
@@ -396,10 +458,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
-				"The First Residential School":
+				"The first Residential School":
 				"Le premier pensionnat",
 			"content": (Utils.lang === "en")?	
-				"<p>The Mohawk Institute (called “Mush Hole” by its survivors) was the oldest continuously operated Anglican residential school in Canada. It was established as the Mechanics’ Institute, a day school for Native boys from the Six Nations Reserve in present-day Brantford, Ontario. Three years later, the school took in boarders and girls were later admitted. Over time, pupils were drawn from other reserves such as neighbouring New Credit and more distant Moraviantown, Sarnia, Walpole Island, Muncey, Scugog, Stoney Point, Saugeen, Bay of Quinte, and Caughnawaga.</p>":
+				"<p>The Mohawk Institute (called &rdquo;Mush Hole&rdquo; by its survivors) was the oldest continuously operated Anglican Residential School in Canada, closing in 1972. It was established as the Mechanics’ Institute, a day school for boys from the Six Nations Reserve in present-day Brantford, Ontario. Three years later, the school took in boarders, and girls were later admitted. Over time, pupils were drawn from other reserves, such as neighbouring New Credit and the more distant Moraviantown, Sarnia, Walpole Island, Muncey, Scugog, Stony Point, Saugeen, Bay of Quinte, and Caughnawaga (now Kahnawake).</p>":
 				"<p>Le Mohawk Institute (surnommé « Mush Hole » par les survivants) sera le pensionnat anglican le plus longtemps en activité au Canada. Alors appelé Mechanic’s Institute, c’est une école de jour pour les garçons autochtones de la réserve des Six-Nations, actuellement à Brantford, en Ontario. L’école commence à accepter des pensionnaires trois ans après sa création et les filles sont admises par la suite. Au cours des années suivantes, les élèves y viennent d’autres réserves, comme la réserve avoisinante de New Credit, ainsi que de réserves plus distantes comme Moraviantown, Sarnia, Walpole Island, Muncey, Scugog, Stoney Point, Saugeen, Baie de Quinte et Caughnawaga.</p>",
 			"imagesrc":"19-1828",
 			"imagealt": (Utils.lang === "en")?
@@ -410,15 +472,28 @@ define(['utils'], function (Utils) {
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
+        {
+			"date":"1849",
+			"anchor":false,
+			"period":2,
+			"title": (Utils.lang === "en")?
+				"Pierre-Guillaume Sayer":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>The Hudson’s Bay Company was struggling to compete against American fur traders who were willing to offer more for Métis goods. The company had laws passed that dictated how trading could be undertaken on its lands. This was an attempt to regain complete control of the fur trade in the area.</p><p>In 1849, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-80\">Pierre-Guillaume Sayer</a> and three other Métis men were arrested and brought to trial for illegal trading in furs. In protest, 500 armed Métis surrounded the courthouse and demanded the men’s release. Bowing to their pressure, the court found the men guilty but imposed no penalty.</p>":
+				"<p></p>",
+			"wrap": true,
+			"fr": (Utils.lang === "en")? false: true
+		},
 		{
 			"date":"1850",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Indian Protection Act":
+				"<em>Indian Protection Act</em>":
 				"Loi portant sur la protection des Indiens",
 			"content": (Utils.lang === "en")?	
-				"<p>The 1850 Act for the Better Protection of the Lands and Property of the Indians in Lower Canada was one of the first pieces of legislation that included a set of requirements for a person to be considered a legal Indian—a precursor to the concept of “status.”</p>":
+				"<p>The 1850 <em>Act for the better protection of the Lands and Property of the Indians in Lower Canada</em> was one of the first pieces of legislation that included a set of requirements for a person to be legally considered an Indian. This was a precursor to the concept of &ldquo;status,&rdquo; that is, &ldquo;legal recognition of a person’s First Nations heritage, which affords certain rights.&rdquo; – REF Canadian Encyclopedia</p>":
 				"<p>En 1850, l’Acte pour mieux protéger les terres et les propriétés de « sauvages » dans le Bas Canada est l’un des premiers textes de loi qui comprend un ensemble d’exigences à respecter pour qu’une personne soit considérée comme ayant le statut d’Indien – c’est un prélude à la notion d’« Indien inscrit ».</p>",
 			"mapUrl":"content/medias/images/maps/12map_1859.jpg",
 			"mapAlt": (Utils.lang === "en")?
@@ -428,25 +503,7 @@ define(['utils'], function (Utils) {
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
-		{
-			"date":"1850–1854",
-			"anchor":false,
-			"period":1,
-			"title": (Utils.lang === "en")?
-				"Douglas Treaties":
-				"Les traités Douglas",
-			"content": (Utils.lang === "en")?	
-				"<p>Between 1850 and 1854, James Douglas, on behalf of the British Crown, negotiated 14 land purchases on Vancouver Island, which are known to this day as the Douglas Treaties. Controversy remains over whether these were actual “treaties,” what was agreed to within them, and who was covered by them.</p>":
-				"<p>De 1850 à 1854, James Douglas négocie l’achat de 14 terrains sur l’île de Vancouver au nom de la Couronne britannique. On désigne encore aujourd’hui ces terrains comme les traités Douglas. Encore aujourd’hui, on remet en question la légitimité de ces traités, la nature même de ce qui a été convenu ainsi que les personnes couvertes par ces traités.</p>",
-			"mapUrl":"content/medias/images/maps/10map_1850-54.jpg",
-			"mapAlt": (Utils.lang === "en")?
-			"Vancouver Island":
-			"l'Île de Vancouver",
-			"mapFR":true,
-			"wrap": false,
-			"fr": (Utils.lang === "en")? false: true
-		},
-		{
+        {
 			"date":"1850",
 			"anchor":false,
 			"period":1,
@@ -454,7 +511,7 @@ define(['utils'], function (Utils) {
 				"Robinson Treaties":
 				"Les traités Robinson",
 			"content": (Utils.lang === "en")?	
-				"<p>Two treaties were negotiated and signed for the north shores of lakes Superior and Huron. Part of the early northern expansion of what would become Ontario, the Robinson Treaties opened up the area's natural resources to initial exploration and exploitation. The Robinson Treaties also became a loose model for future Numbered Treaties in Western Canada.</p>":
+				"<p>Two treaties were negotiated and signed for the north shores of Lake Superior and Lake Huron. Part of the early northern expansion of what would become Ontario, the Robinson Treaties opened up the area’s natural resources to initial exploration and exploitation. The Robinson Treaties also became a loose model for future Numbered Treaties in Western Canada.</p>":
 				"<p>Les traités Robinson sont négociés et signés, cédant ainsi le littoral nord des lacs Supérieur et Huron. Dans le cadre de l’expansion vers le nord de la future province de l’Ontario, les traités Robinson donnent lieu aux premières explorations dans la région, ainsi qu’à l’exploitation de ses ressources naturelles. Les traités Robinson deviennent aussi un modèle général pour les futurs traités numérotés dans l’Ouest du Canada.</p>",
 			"imagesrc":"22-1850",
 			"imagealt": (Utils.lang === "en")?
@@ -469,15 +526,46 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
+			"date":"1850&nbsp;&ndash;&nbsp;1854",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Douglas Treaties":
+				"Les traités Douglas",
+			"content": (Utils.lang === "en")?
+				"<p>James Douglas was Chief Factor of the Hudson’s Bay Company when Vancouver Island was declared a British Crown colony in 1849. He was appointed governor of the colony in 1851. He negotiated 14 land purchases on Vancouver Island, first as Chief Factor and then as Governor. Today, these are known as the Douglas Treaties.</p><p>Controversy remains over whether these were actual &ldquo;treaties,&rdquo; as well as what was agreed to within them and who was covered by them. The terms of the agreements were left blank at the time of signing, with the clauses filled in at a later date. According to First Nations oral history, many of the signatories assumed they were signing a peace treaty to share, not cede, their lands. They reportedly thought that the <em>X</em> they were asked to sign was the symbol of the Christian cross, which they perceived as a spiritual gesture. Others assumed that the agreements were a confirmation of the title to their agricultural lands and village sites.</p>":
+				"<p>De 1850 à 1854, James Douglas négocie l’achat de 14 terrains sur l’île de Vancouver au nom de la Couronne britannique. On désigne encore aujourd’hui ces terrains comme les traités Douglas. Encore aujourd’hui, on remet en question la légitimité de ces traités, la nature même de ce qui a été convenu ainsi que les personnes couvertes par ces traités.</p>",
+			"mapUrl":"content/medias/images/maps/10map_1850-54.jpg",
+			"mapAlt": (Utils.lang === "en")?
+			"Vancouver Island":
+			"l'Île de Vancouver",
+			"mapFR":true,
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+		{
 			"date":"1857",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Gradual Civilization Act":
+				"<em>Gradual Civilization Act</em>":
 				"L’Acte pour encourager la civilisation graduelle",
 			"content": (Utils.lang === "en")?	
-				"<p>This Act was adopted by the colonial legislature of Canada to encourage First Nations to enfranchise and abandon their traditional ways of life by offering lands to those who qualify. Under the Act, a debt-free, “educated Indian” who was of “good moral character” could apply for a land grant from the federal government. Only one person was voluntarily enfranchised under this law.</p>":
+				"<p>The <a href=\"#\" class=\"external\" data-ext=\"ext-wb-83\"><em>Gradual Civilization Act</em></a> was adopted by the colonial legislature of Canada. It encouraged First Nations to enfranchise and abandon their traditional ways of life, offering lands to those who qualified. Under the Act, a debt-free, &ldquo;educated Indian&rdquo; who was of &ldquo;good moral character&rdquo; and who could read or write in English or French could apply for a land grant from the federal government. Only one person was voluntarily enfranchised under this law.</p>":
 				"<p>Cet Acte est adopté par les autorités législatives coloniales de la Province du Canada pour encourager les Premières Nations à s’émanciper et à abandonner leurs coutumes en offrant des terres à ceux qui sont admissibles. Selon l’Acte, un « Indien éduqué », sans dette et de « bonne moralité » peut faire la demande d’une concession de terre auprès du gouvernement fédéral. Une seule personne s’est émancipée volontairement aux termes de cette loi.</p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1864",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Tsilhqot’in War":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>The Tsilhqot’in People, who are located in what is now west-central British Columbia, live between the Fraser River and the Coast Mountains. During early contact with European settlers, they were quite reserved in their dealings and guarded their territory diligently. </p><p>During the mid-1800s, to access gold-mining activities, settlers undertook construction of a wagon trail for business interests. Even though there had been no agreement on the part of the Tsilhqot’in, the road infringed on <a href=\"#\" class=\"external\" data-ext=\"ext-wb-84\">Tsilhqot’in land</a>. To protect their territory, a number of Tsilhqot’in warriors attacked the trail construction crew and killed most of the men. Several Tsilhqot’in chiefs were wrongfully convicted as murderers and hanged.</p><p>One of the chiefs was famously quoted as defending the action by saying they were waging war, not committing murder. </p><p>In 2014, the Government of British Columbia recognized that the actions taken were those of two nations at war, not murder. This was reiterated in 2018, when the Prime Minister of Canada recognized this historic injustice.</p><p>There has never been a treaty signed between Canada and the Tsilhqot’in. However, in 2014, the Supreme Court of Canada recognized the Tsilhqot’in Nation’s title to its traditional land. This was the first recognition of Aboriginal title in Canada.</p>":
+				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -486,10 +574,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Canadian Confederation – Quebec, Ontario, Nova Scotia, and New Brunswick":
+				"Canadian Confederation&nbsp;&ndash;&nbsp;Quebec, Ontario, Nova Scotia, and New Brunswick":
 				"La confédération canadienne – Québec, Ontario, Nouvelle-Écosse et Nouveau-Brunswick",
 			"content": (Utils.lang === "en")?	
-				"<p>The Dominion of Canada was created under the terms of the British North America Act (<abbr>BNA</abbr>), Canada’s first constitution. Section 91(24) of the <abbr>BNA</abbr> Act also established federal jurisdiction over “Indians and lands reserved for the Indians.” The <abbr>BNA</abbr> was drafted in part to provide policy “teeth” for Sir John A. MacDonald’s “New Indian Policy.” The Act specified how First Nations peoples were put “under the protection” of the Crown. It provided the legal basis for treaties and emphasized the government’s central priorities of “assimilation, enfranchisement and civilization.”</p>":
+				"<p>The Dominion of Canada was created under the terms of the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-85\"><em>British North America Act</em></a>, Canada’s first constitution (now referred to as the Constitution Act, 1867). Section 91(24) of the Act also established federal jurisdiction over &ldquo;Indians and lands reserved for the Indians.&rdquo;</p><p>The Act was drafted in part to provide policy teeth for Sir John A. MacDonald’s Indian policy. The Act specified how First Nations peoples were put &ldquo;under the protection&rdquo; of the Crown. It provided the legal basis for treaties and emphasized the government’s central priorities of &ldquo;assimilation, enfranchisement and civilization.&rdquo;</p>":
 				"<p>Le Dominion du Canada est créé en vertu de l’Acte de l’Amérique du Nord britannique (<abbr>AANB</abbr>), la première Constitution du Canada. Le paragraphe 91(24) de l’<abbr>AANB</abbr> indique également que « les Indiens et les terres réservées pour les Indiens » relèvent du gouvernement fédéral. L’<abbr>AANB</abbr> a été rédigé en partie de façon à donner plus de force à la « nouvelle politique sur les Indiens » de sir John A. Macdonald. L’Acte précise que les peuples autochtones sont soumis à la « protection » de la Couronne. Il établit également le fondement juridique des traités, et souligne les priorités du gouvernement en ce qui concerne « l’assimilation, l’émancipation et la civilisation ». </p>",
 			"imagesrc":"24-1867",
 			"imagealt": (Utils.lang === "en")?
@@ -503,15 +591,15 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Enfranchisement Act":
+				"<em>Enfranchisement Act</em>":
 				"L’Acte pourvoyant à l’émancipation graduelle des Sauvages",
 			"content": (Utils.lang === "en")?	
-				"<p>The Enfranchisement Act was designed to give greater “incentives” to First Nations individuals to abandon their communities and traditional way of life. It established the first foundations of the chief-and-council system and the extremely limited “self-governing” powers, which were controlled by the Dominion government. It also started the era of “Status” and “Non-Status” Indians, whereby women who marry non-Indian men would lose their Indian identity, as would their children. In the decades to follow, First Nations people experienced compulsory enfranchisement and legal loss of Indian status and access to benefits and rights associated with recognized status if they graduated from university, became Christian ministers, achieved professional designations as doctors or lawyers, or served in the military.</p><p><a class='external' href='#' data-ext='ext-wb-2'>Enfranchisement Act</a></p>":
+				"<p>The <a href=\"#\" class=\"external\" data-ext=\"ext-wb-86\"><em>Enfranchisement Act</em></a> was designed to give greater incentives to First Nations individuals to abandon their communities and traditional way of life. It established the first foundations of the chief-and-council system and the extremely limited self-governing powers, which were controlled by the Dominion government. It also started the era of Status and Non-Status Indians, whereby women who married non-Indian men would lose their Indian identity, as would their children. </p><p>In the decades following adoption of the Act, First Nations peoples experienced compulsory enfranchisement and legal loss of Indian status if they graduated from university, became Christian ministers, achieved professional designations as doctors or lawyers, or served in the military. In such cases, they also lost access to the benefits and rights associated with recognized status.</p>":
 				"<p>L’Acte pourvoyant à l’émancipation graduelle des Sauvages est conçu pour « inciter » davantage les membres des Premières Nations à abandonner leurs communautés et leurs modes de vie traditionnels. Il établit les premiers fondements du système de chef et de conseil et leur « autonomie gouvernementale » extrêmement limitée, contrôlée par le gouvernement du Dominion. Cet acte constitue également le début de l’ère des Indiens « inscrits » et « non-inscrits », dans le cadre duquel une femme qui épouse un non Indien n’est plus considérée comme étant une Indienne, tout comme leurs enfants. Au cours des décennies qui suivront, les peuples des Premières Nations subiront des pressions en vue de s’émanciper et perdront leur statut d’Indien ainsi que les avantages et les droits associés au statut dans le cadre de la loi s’ils décrochent un diplôme universitaire, deviennent un pasteur chrétien, obtiennent un titre professionnel tel que médecin ou avocat, ou servent dans l’armée.</p><p><a href='#' class='external' data-ext='ext-wb-2'>Acte pourvoyant à l’émancipation graduelle des Sauvages</a></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
-		{
+		/*{
 			"date":"1870",
 			"anchor":false,
 			"period":1,
@@ -531,8 +619,8 @@ define(['utils'], function (Utils) {
 			"les Territoires du Nord-Ouest et la Terre de Rupert combinés",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
-		},
-		{
+		},*/
+		/*{
 			"date":"1870",
 			"anchor":false,
 			"period":1,
@@ -550,9 +638,9 @@ define(['utils'], function (Utils) {
 			"mapAlt": (Utils.lang === "en")?
 			"Manitoba":
 			"Le Manitoba",
-			"wrap": false,
+			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
-		},		
+		},*/
 		{
 			"date":"1870",
 			"anchor":false,
@@ -561,7 +649,7 @@ define(['utils'], function (Utils) {
 				"Manitoba emerges out of the Red River Resistance":
 				"Le Manitoba émerge de la rébellion de la rivière Rouge",
 			"content": (Utils.lang === "en")?	
-				"<p>The uprising in the Red River Colony was sparked by the transfer of the vast territory of Rupert's Land to the new nation of Canada. The colony of farmers and hunters, many of them Métis, occupied a corner of Rupert's Land and feared for their culture and land rights under Canadian control. The Métis mounted a rebellion and declared a provisional government to negotiate terms for entering Confederation. The uprising led to the creation of the province of Manitoba, and the emergence of Métis leader Louis Riel—a hero to his people and many in Quebec, but an outlaw in the eyes of the Canadian government. Although the insurrection had ostensibly won its major objectives—a distinct province with land and cultural rights guaranteed—the victory was hollow.</p><p>The Métis soon found themselves so disadvantaged in Manitoba that they moved farther west, where they would again attempt—more violently and tragically this time—to assert their nationality under Riel in the North-West Rebellion of 1885.They established many new settlements throughout Saskatchewan and Alberta, including Batoche and St. Albert.</p>":
+				"<p>The uprising in the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-87\">Red River Colony</a> was sparked by the transfer of the vast territory of Rupert’s Land to the new Dominion of Canada. The colony of farmers and hunters, many of them Métis, occupied a corner of Rupert’s Land. They feared for their culture and land rights under Canadian control. The Métis declared a provisional government to negotiate terms for entering Confederation, with Louis Riel as their representative. Canada did not recognize the provisional government. The result was an uprising and the creation of the province of Manitoba. Louis Riel emerged as the Métis leader, a hero to his people and many in Quebec. At the same time, he was declared a traitor and an outlaw by the Canadian government. The insurrection ostensibly won its major objectives: a distinct province with land and the recognition of a Métis culture. Nevertheless, the victory was hollow.</p><p>The Métis soon found themselves facing discrimination and unequal treatment in Manitoba. As a result, they moved further west, establishing many new settlements throughout Saskatchewan and Alberta, including Batoche and St. Albert. There they made another, more violent, attempt to assert their nationality under Riel during the North-West Rebellion of 1885. The outcome was tragic and Louis Riel was hanged for treason on November 16, 1885, at the North-West Mounted Police barracks in Regina. Today, Louis Riel is widely recognized a Father of Confederation and the Métis celebrate February 17 as Louis Riel Day. </p>":
 				"<p>Le transfert du vaste territoire appelé « Terre de Rupert » à la nouvelle nation du Canada est à l’origine de la rébellion dans la colonie de la rivière Rouge. Cette colonie, composée de fermiers et de chasseurs, dont la plupart sont des Métis, occupe un coin de la Terre de Rupert. Ses habitants craignent de perdre leur culture et leurs droits fonciers sous le contrôle canadien. Les Métis fomentent une rébellion et déclarent un gouvernement provisoire qui négociera les conditions selon lesquelles le territoire entrera dans la Confédération. Le soulèvement mène à la création de la province du Manitoba et à l’émergence du chef métis Louis Riel : un héros aux yeux de son peuple et de plusieurs Québécois, mais considéré comme un hors-la-loi par le gouvernement canadien. Bien que la soi-disant victoire après l’insurrection réussisse à atteindre ses grands objectifs (créer une province distincte, avec terres et droits garantis), il s’agit d’une victoire creuse.</p><p>Les Métis se trouvent bientôt tellement désavantagés au Manitoba qu’ils déménagent plus loin vers l’ouest, où ils essaieront de nouveau, cette fois-ci de façon plus violente et tragique, d’affirmer leur nationalité sous la direction de Louis Riel, lors de la Rébellion du Nord Ouest, en 1885. Ils établissent de nombreuses communautés en Saskatchewan et en Alberta, dont Batoche et St. Albert.</p>",
 			"imagesrc":"28-1870",
 			"imagealt": (Utils.lang === "en")?
@@ -576,15 +664,46 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 			
 		},
+        {
+			"date":"1871",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"First Métis members of the House of Commons":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>Both <a href=\"#\" class=\"external\" data-ext=\"ext-wb-88\">Pierre Delorme</a> and <a href=\"#\" class=\"external\" data-ext=\"ext-wb-89\">Angus McKay</a> were Métis politicians elected to represent Manitoba in the Canadian House of Commons in March 1871. Pierre Delorme was elected in the riding of Provencher and served until October 1872. Angus McKay was elected in the riding of Marquette and served until July 1872. Both men were Métis, but Pierre Delorme supported Louis Riel, while Angus McKay opposed him. The two share the honour of being the first Métis elected to the House of Commons.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+
+		},
+        {
+			"date":"1870<span class='small'>s</span>&nbsp;&ndash;&nbsp;1920<span class='small'>s</span>",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Métis Scrip":
+				"Les certificats des Métis",
+			"content": (Utils.lang === "en")?
+				"<p>The scrip system was designed to extinguish the Aboriginal title of the Métis in Western Canada, much as the land surrender treaties did in the case of First Nations. Under the <em>Manitoba Act</em> and the </em>Dominion Lands Act</em>, individual Métis were encouraged to exchange their Aboriginal title for a certificate, or &ldquo;scrip,&rdquo; redeemable for land or money (whichever the individual chose). Initial scrip offerings were for 160 acres or 160 dollars but these figures varied over time and in different places.</p><p>Scrip Commissioners travelled to Métis communities to distribute scrip certificates but certificates often had to be redeemed at land offices long distances away. The land available was also often far from where the Métis people lived. Many people chose money scrip, rather than land. Either choice would suit the land speculators and other traders who followed the Scrip Commissioners, offering to buy the certificates for a fraction of their real value. Between speculation, fraud and theft, few Metis were able to benefit as they should have from the scrip system. In fact, large numbers of Métis were left with neither land nor money. </p>":
+				"<p>Les certificats sont conçus pour abolir le titre de Métis, plus que les traités de concessions de terre ne l’ont fait avec les Premières Nations. Cependant, l’affaire des Métis est réglée sur une base individuelle, contrairement à l’extinction collective des titres entreprise dans le cadre du processus des traités. Tout comme dans le cas des traités numérotés, les commissaires aux titres se déplacent dans les communautés métisses et tiennent des séances dans les différents endroits où les Métis se réunissent pour remplir leurs demandes de certificats. L’idée de base est de mettre fin au titre ancestral en donnant aux Métis un certificat échangeable pour des terres ou de l’argent – le choix appartient aux demandeurs – 160 ou 240 acres ou des dollars, en fonction de leur âge et de leur statut. La mise en œuvre des certificats rencontre de nombreuses difficultés, particulièrement en ce qui concerne le caractère échangeable des certificats.</p><p>Dans le but de s’acquitter de dettes ou pour des raisons frauduleuses, bon nombre de certificats se retrouvent dans d’autres mains. L’attribution des terres n’est jamais précisée; elles ne peuvent être échangées que dans les limites des terres du Dominion qui sont « ouvertes à la colonisation », et pas toujours là où les Métis vivent. Si la valeur des terres s’accroît, la valeur nominale des certificats reste la même, et il devient difficile pour les Métis d’acquérir suffisamment de terres pour subvenir à leurs besoins.</p><p><a href='#' class='external' data-ext='ext-wb-7'>Certificats des Métis</a></p>",
+			"imagesrc":"37-1870",
+			"imagealt": (Utils.lang === "en")?
+			"A Métis Scrip":
+			"Un certificats des Métis",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
 		{
-			"date":"1871–1921",
+			"date":"1871&nbsp;&ndash;&nbsp;1921",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
 				"Numbered Treaties":
 				"Les traités numérotés",
 			"content": (Utils.lang === "en")?	
-				"<p>Following the form established by the 1850 Robinson Treaties, the Crown negotiated 11 treaties between 1871 and 1921. These treaties covered the area between the Lake of the Woods to the Rocky Mountains and the Beaufort Sea. Similar to the Robinson Treaties, the so-called “Numbered Treaties” promised reserve lands, annuities, and the continued right to hunt and fish on unoccupied Crown lands in exchange for Aboriginal title. All treaties had clauses for schools or teachers to educate children, and agricultural implements were promised. At their core, the treaties were land-surrenders on a huge scale.</p><p>The first 20 years of treaty-making on the prairies saw the collapse of the bison population and their subsequent replacement by imported cattle and their transmissible diseases. Illness spread to wildlife and human populations alike, resulting in malnutrition and famine. Unusually severe climatic conditions also contributed to weakening the Indigenous populations, meaning treaty negotiations were completed with First Nations leaders and elders under duress to get help for their people. From the beginning, there were First Nations complaints that treaty agreements were not being honoured, in whole or in part. There are still ongoing legal disputes about the oral and written versions of the treaties to this day as well as: issues related to non-fulfillment of promises; later reserve land annexations by the Crown; fraudulent practices by Crown agents; and disagreements over hunting, fishing and trapping rights, among other things.</p>":
+				"<p>Following the model of the 1850 Robinson Treaties, the Crown negotiated 11 treaties between 1871 and 1921. The treaties covered the area extending from the Lake of the Woods to the Rocky Mountains and the Beaufort Sea. Similar to the Robinson Treaties, the so-called &ldquo;Numbered Treaties&rdquo; promised reserve lands, annuities, and the continued right to hunt and fish on unoccupied Crown lands in exchange for Aboriginal title. All treaties had clauses for schools or teachers to educate children, and agricultural implements were promised. Fundamentally, the treaties were land surrenders on a huge scale.</p><p>The first 20 years of treaty making on the Prairies saw the collapse of the bison population, and the subsequent introduction of imported cattle subject to transmissible diseases. Illness spread to wildlife and human populations alike, resulting in malnutrition and famine. Unusually severe climatic conditions also were a factor in weakening the Indigenous populations. Consequently, the treaty negotiations took place at a time when First Nations leaders and Elders were under pressure to get help for their people.</p><p>From the beginning, there were First Nations complaints that treaty agreements were not being honoured, wholly or in part. There are still ongoing legal disputes about the oral and written versions of the treaties to this day. Other issues concern non-fulfillment of promises; later reserve land annexations by the Crown; fraudulent practices by Crown agents; and disagreements over hunting, fishing and trapping rights.</p>":
 				"<p>Utilisant le modèle des traités de Robinson de 1850, la Couronne négocie 11 traités entre 1871 et 1921. Ces traités concernent la région du triangle délimité par le lac des Bois, les montagnes Rocheuses et la mer de Beaufort. Comme les traités Robinson, les traités numérotés promettent en échange de titres ancestraux des terres de réserve, des annuités et le droit permanent de chasser et de pêcher sur les terres de la Couronne inoccupées. Les traités comportent des dispositions sur les écoles ou les professeurs afin d’assurer l’éducation des enfants, et ils promettent le versement de fournitures agricoles. À la base, les traités constituaient des actes de cession de terres à une très grande échelle.</p><p>Les 20 premières années de conclusions de traités sur les Prairies entraînent l’effondrement de la population de bisons et son remplacement par des bovins importés qui apportent des maladies transmissibles. Celles-ci se répandent dans la faune sauvage tout comme dans les populations humaines, entraînant malnutrition et famine. Des conditions climatiques inhabituelles et particulièrement difficiles contribuent aussi à l’affaiblissement des populations autochtones, ce qui signifie que la négociation des traités avec les chefs et les aînés des Premières Nations s’effectue sous la contrainte, eux qui cherchent à obtenir de l’aide pour leur peuple. D’entrée de jeu, des peuples des Premières Nations se plaignent du fait que les ententes issues des traités ne sont pas honorées ou qu’elles ne le sont qu’en partie. Encore aujourd’hui, des litiges judiciaires sont toujours en cours à l’égard des versions orales et écrites des traités, ainsi que des questions relatives au non-respect des promesses, à l’annexion ultérieure de terres de la réserve par la Couronne, aux pratiques frauduleuses des agents de la Couronne, et aux désaccords sur les droits de chasse, de pêche et de piégeage, entre autres.</p>",
 			"imagesrc":"29-1871",
 			"imagealt": (Utils.lang === "en")?
@@ -594,7 +713,7 @@ define(['utils'], function (Utils) {
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
-		{
+		/*{
 			"date":"1873",
 			"anchor":false,
 			"period":1,
@@ -615,8 +734,8 @@ define(['utils'], function (Utils) {
 			"mapFR":true,
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
-		},	
-		{
+		},	*/
+		/*{
 			"date":"1876",
 			"anchor":false,
 			"period":1,
@@ -632,7 +751,7 @@ define(['utils'], function (Utils) {
 			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
-		},
+		},*/
 		/*{
 			"date":"1880",
 			"anchor":false,
@@ -644,7 +763,7 @@ define(['utils'], function (Utils) {
 				"<p>Cree chief Big Bear, and Crowfoot, a leading chief of the Blackfoot, establish an Aboriginal confederacy to try to solve their people's grievances.</p>":
 				"contenu français ...",
 		},*/
-		{
+		/*{
 			"date":"1883",
 			"anchor":false,
 			"period":1,
@@ -660,8 +779,8 @@ define(['utils'], function (Utils) {
 			"Un pensionnats indiens",
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
-		},
-		{
+		},*/
+		/*{
 			"date":"1884–85",
 			"anchor":false,
 			"period":1,
@@ -682,8 +801,8 @@ define(['utils'], function (Utils) {
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 			
-		},
-		{
+		},*/
+		/*{
 			"date":"1884",
 			"anchor":false,
 			"period":1,
@@ -695,8 +814,8 @@ define(['utils'], function (Utils) {
 				"<p>Cet Acte permet l’introduction des conseils de bande élus dans les communautés consentantes. Ses dispositions seront par la suite intégrées à la Loi sur les Indiens, ce qui permettra aux Affaires indiennes d’imposer des conseils élus à toutes les collectivités.</p><p><a href='#' class='external' data-ext='ext-wb-6'>Acte de l’avancement des Sauvages</a> (Disponible uniquement en anglais) </p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
-		},
-		{
+		},*/
+		/*{
 			"date":"1895",
 			"anchor":false,
 			"period":1,
@@ -716,8 +835,8 @@ define(['utils'], function (Utils) {
 			"le Yukon",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
-		},
-		{
+		},*/
+		/*{
 			"anchor":true,
 			"anchorName":"1900",
 			"date":"1905",
@@ -734,38 +853,35 @@ define(['utils'], function (Utils) {
 			"la Saskatchewan et l'Alberta",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
-		},
+		},*/
 		{
-			"date":"1870<span class='small'>s</span>–1920<span class='small'>s</span>",
-			"anchor":false,
-			"period":1,
-			"title": (Utils.lang === "en")?
-				"Métis Scrip":
-				"Les certificats des Métis",
-			"content": (Utils.lang === "en")?	
-				"<p>Scrip was designed to extinguish Métis Aboriginal title, much like the land cessation treaties did for First Nations. However, the Métis were dealt with on an individual basis as opposed to the collective extinguishment of title pursued through the treaty process. As with the numbered treaties, though, scrip commissioners travelled to Métis communities and held sittings at various locations where Métis gathered to fill out applications for their entitlement. The basic premise was to extinguish Aboriginal title by giving Métis a redeemable certificate for land or money—the choice was the applicant’s—of either 160 or 240 acres or dollars, depending on their age and status. The implementation of scrip was plagued with difficulties, especially relative to the redeemable nature of the certificates.</p><p>To settle debts or by fraud, many certificates wound up in the hands of others. Land allotments were never specified; they could only be redeemed in Dominion lands, which were “open for settlement” and not always where Métis lived. And as land values rose, the face value of the scrip stayed the same, making it difficult for Métis to acquire sufficient land to sustain them.</p>":
-				"<p>Les certificats sont conçus pour abolir le titre de Métis, plus que les traités de concessions de terre ne l’ont fait avec les Premières Nations. Cependant, l’affaire des Métis est réglée sur une base individuelle, contrairement à l’extinction collective des titres entreprise dans le cadre du processus des traités. Tout comme dans le cas des traités numérotés, les commissaires aux titres se déplacent dans les communautés métisses et tiennent des séances dans les différents endroits où les Métis se réunissent pour remplir leurs demandes de certificats. L’idée de base est de mettre fin au titre ancestral en donnant aux Métis un certificat échangeable pour des terres ou de l’argent – le choix appartient aux demandeurs – 160 ou 240 acres ou des dollars, en fonction de leur âge et de leur statut. La mise en œuvre des certificats rencontre de nombreuses difficultés, particulièrement en ce qui concerne le caractère échangeable des certificats.</p><p>Dans le but de s’acquitter de dettes ou pour des raisons frauduleuses, bon nombre de certificats se retrouvent dans d’autres mains. L’attribution des terres n’est jamais précisée; elles ne peuvent être échangées que dans les limites des terres du Dominion qui sont « ouvertes à la colonisation », et pas toujours là où les Métis vivent. Si la valeur des terres s’accroît, la valeur nominale des certificats reste la même, et il devient difficile pour les Métis d’acquérir suffisamment de terres pour subvenir à leurs besoins.</p><p><a href='#' class='external' data-ext='ext-wb-7'>Certificats des Métis</a></p>",
-			"imagesrc":"37-1870",
-			"imagealt": (Utils.lang === "en")?
-			"A Métis Scrip":
-			"Un certificats des Métis",
-			"wrap": false,
-			"fr": (Utils.lang === "en")? false: true
-		},
-		{
-			"date":"1914–1918",
-			"anchor":false,
+			"date":"1914&nbsp;&ndash;&nbsp;1918",
+			"anchor":true,
+			"anchorName":"1900",
 			"period":1,
 			"title": (Utils.lang === "en")?
 				"First World War":
 				"La Première Guerre mondiale",
 			"content": (Utils.lang === "en")?	
-				"<p>While not all Canadian First Nations supported involvement in the war, some 4000 First Nation men did voluntarily enlist in the Canadian Expeditionary Force, despite having no rights of citizenship. This works out to an estimated one in three able-bodied Canadian Indian men of age to serve who enlisted. An unknown number of Métis also enlisted as did at least 15 Inuit, from Labrador. Indigenous women also served, including Nurse Edith Anderson, a Mohawk woman from the Six Nations of the Grand River Reserve. She joined the Army Nurse Corps of the American Expeditionary Force and worked at an American hospital base in Vittel, France.</p><p>The exact number of Indigenous persons who were killed in action is not known. At least 50 were decorated for acts of bravery or heroism. Notwithstanding the glowing official reports about enthusiastic “Indian” support for the war effort, the policy of enfranchisement under the Indian Act meant that many returning First Nations soldiers lost their Indian status. Most veterans also did not receive the same benefits and support after the war as their non-Indigenous comrades.</p><p>“I have pleasure in drawing attention to the fact that the participation of Great Britain in the war has occasioned expressions of loyalty from the Indians, and the offer of contributions from their funds toward the general expenses of the war or toward the Patriotic Fund. Some bands have also offered the services of their warriors if they should be needed.” (Department of Indian Affairs, Annual Report, 1913-1914, <abbr title=\"page\">p.</abbr> <abbr title='27'>xxvii</abbr>)</p>":
+				"<p>Not all First Nations supported involvement in the First World War but some 4,000 First Nations men voluntarily enlisted in the Canadian Expeditionary Force, even though they had no rights of citizenship. This represents an estimated enlistment rate of one in three able-bodied First Nations men who were of age to serve. An unknown number of Métis also enlisted, as did at least 15 Inuit from Labrador. Indigenous women served as well. One of them was Nurse Edith Anderson Monture, a Mohawk woman from the Six Nations of the Grand River Reserve. She joined the Army Nurse Corps of the American Expeditionary Force and worked at an American hospital base in Vittel, France.</p><p>The exact number of Indigenous persons who were killed in action is not known. At least 50 were decorated for acts of bravery or heroism. In spite of the glowing official reports about enthusiastic “Indian” support for the war effort, the policy of enfranchisement had a significantly adverse impact on returning First Nations soldiers: they lost their Indian status and their access to government programs for First Nations members, and at the same time they were denied programs intended for veterans. This meant that they did not receive the same benefits and support after the war as their non-Indigenous comrades.</p>":
 				"<p>Alors que la participation du Canada à la guerre ne fait pas l’unanimité au sein des Premières Nations, près de 4 000 de leurs hommes s’engagent volontairement dans le Corps expéditionnaire canadien, même s’ils n’ont pas de droits de citoyenneté. Selon les estimations, un Indien canadien valide sur trois, en âge de servir dans l’armée, s’enrôle. Un nombre indéterminé de Métis s’enrôlent aussi, ainsi qu’au moins 15 Inuits du Labrador. Des femmes autochtones s’engagent, par exemple l’infirmière Edith Anderson, une Mohawk de la réserve des Six Nations de la rivière Grand, qui rejoint l’Army Nurse Corps de l’American Expeditionary Force et travaille dans un hôpital américain situé à Vittel, en France.</p><p>Le nombre exact d’Autochtones morts au combat est indéterminé. Au moins 50 d’entre eux sont décorés pour bravoure ou héroïsme. Malgré les rapports officiels élogieux sur l’enthousiasme des « Indiens » qui ont appuyé l’effort de guerre, la politique d’émancipation appliquée en vertu de la Loi sur les Indiens fait en sorte que les soldats des Premières Nations qui rentrent au pays perdent leur « statut » d’Indien. Par ailleurs, la plupart de ceux qui ont combattu ne reçoivent pas après la guerre les mêmes avantages ni le même soutien que leurs compagnons d’armes non autochtones.</p><p>« Je suis heureux d’attirer l’attention sur le fait que la participation de la Grande-Bretagne à la guerre a suscité des expressions de loyauté de la part des Indiens, qui ont offert de verser des contributions à l’égard des dépenses générales de guerre ou du Fonds patriotique. Certaines bandes ont également offert les services de leurs guerriers si nous en avions besoin. » (Rapport annuel du ministère des Affaires indiennes, 1913-1914, <abbr title='page'>p.</abbr> <abbr title='27'>xxvii</abbr>)</p>",
 			"imagesrc":"38-1914",
 			"imagealt": (Utils.lang === "en")?
 			"":
 			"",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1917",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"&ldquo;Eskimo Murder Trial&rdquo;":
+				"",
+			"content": (Utils.lang === "en")?	
+				"<p>The first Inuit to be brought to trial for murder under Canadian law were <a href=\"#\" class=\"external\" data-ext=\"ext-wb-90\">Sinnisiak (died ca. 1930) and Uluksuk (died 1924)</a>, Inuit hunters from the Coppermine region of the Northwest Territories. In 1913, they had been hired by two Oblate missionaries, Jean-Baptiste Rouvière and Guillaume Le Roux, to act as guides and sled drivers. When Le Roux threatened the two men with a rifle and subsequently struck Sinnisiak, the two Inuit killed both priests, ate part of Le Roux’s liver (a custom to ensure that the man did not come back to life), and took some of their goods.</p><p>A mounted police expedition headed by Inspector Charles Dearing La Nauze arrested both men in 1916. They were tried in Edmonton in August 1917 for the murder of Rouvière but were acquitted. The prosecutor and judge felt that the jury had been biased against the Catholic priests, and they allowed for a second trial to be held in Calgary. At the Calgary trial later in August, the two men were convicted of murdering Le Roux. The death sentences were commuted to life imprisonment at Fort Resolution in the Northwest Territories, and after two years the men were released.</p><p>This case allowed the Canadian government to demonstrate that its law applied in the North, supporting the Canadian claim to sovereignty. The case also exposed Inuit to the force of Canadian law and the Canadian government’s expectations for Inuit behaviour. By commuting the sentence, the government demonstrated the potential for mercy in the judicial system that Inuit were expected to follow.</p>":
+				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -777,7 +893,7 @@ define(['utils'], function (Utils) {
 				"League of Indians of Canada":
 				"La Ligue des Indiens du Canada",
 			"content": (Utils.lang === "en")?	
-				"<p>The League of Indians of Canada was formed by Frederick Ogilvie Loft, a Mohawk man from the Six Nations of the Grand River Reserve near Brantford, Ontario. Loft was a veteran of the First World War who had served in France. The League of Indians of Canada was the first national Aboriginal political organization in Canada. Its main goals were to protect the rights and improve the living conditions of First Nations People in Canada. Their offers to work with the Department of Indian Affairs were rebuffed.</p><p>The League of Indians of Canada and its war veteran supporters did not accomplish everything they had hoped. However, the League has been credited with improving some of the more oppressive elements of the Indian Act after the 1950s. In 1951, the government removed the bans on political organization, traditional spirituality, and restrictions on off-reserve travel. In 1960, all Status Indians in Canada were given the legal right to vote in federal elections.</p>":
+				"<p>The League of Indians of Canada was formed by Frederick Ogilvie Loft, a Mohawk man from the Six Nations of the Grand River Reserve near Brantford, Ontario. Loft was a veteran of the First World War, during which he had served in France. The League of Indians of Canada was the first national Aboriginal political organization in Canada. Its main goals were to protect the rights and improve the living conditions of First Nations people in Canada. The League’s offers to work with the Department of Indian Affairs were rebuffed.</p><p>The League of Indians of Canada and its war veteran supporters did not accomplish everything they had hoped. However, the League has been credited with improving some of the more oppressive elements of the <em>Indian Act</em> from the 1950s. In 1951, the government removed the bans on political organization and traditional spirituality, and lifted restrictions on off-reserve travel. In 1960, all Status Indians in Canada were given the legal right to vote in federal elections.</p>":
 				"<p>La Ligue des Indiens du Canada est créée par Frederick Ogilvie Loft, un Mohawk de la réserve des Six-Nations de la rivière Grand située près de Brantford, en Ontario. Ancien combattant de la Première Guerre mondiale, Loft a combattu en France. La Ligue des Indiens du Canada est la première organisation politique nationale autochtone au Canada. Son principal objectif est de protéger les droits et d’améliorer les conditions de vie des peuples autochtones au Canada. Ses propositions de travailler avec le ministère des Affaires indiennes sont refusées.</p><p>La Ligue des Indiens du Canada et ses partisans parmi les anciens combattants n’ont pas accompli tout ce qu’ils auraient souhaité. Toutefois, on reconnaît à la Ligue le mérite d’avoir amélioré certains des éléments les plus oppressifs de la Loi sur les Indiens, après les années 1950. En 1951, le gouvernement lève les interdictions touchant l’organisation politique et la spiritualité traditionnelle ainsi que les restrictions touchant les déplacements hors réserve. En 1960, tous les Indiens inscrits du Canada obtiennent le droit de vote aux élections fédérales.</p>",
 			"imagesrc":"39-1919",
 			"imagealt": (Utils.lang === "en")?
@@ -794,7 +910,7 @@ define(['utils'], function (Utils) {
 				"A National Crime":
 				"Un crime national",
 			"content": (Utils.lang === "en")?	
-				"<p>Indian Affairs medical officer, Dr. Peter Bryce, cited numerous problems within residential schools including overcrowding, poor nutrition and abuse. His report was ignored and Dr. Bryce was removed from his position. He eventually published his findings in an article called “The Story of a National Crime.”</p><p><a href='#' class='extenal' data-ext='ext-wb-8'>The Story of a National Crime</a></p>":
+				"<p>Indian Affairs medical officer <a href=\"#\" class=\"external\" data-ext=\"ext-wb-91\">Dr. Peter Bryce</a> noted numerous problems within Residential Schools, including overcrowding, poor nutrition and abuse. A 1907 report written by him was ignored and Dr. Bryce was removed from his position. He eventually published his findings in a publication called <em>The Story of a National Crime</em>.</p>":
 				"<p>Médecin militaire aux Affaires indiennes, le Dr Peter Bryce fait part de nombreux problèmes au sein des pensionnats, notamment des problèmes liés à la surpopulation, à l’alimentation inadéquate et aux mauvais traitements. Son rapport est ignoré et le Dr Bryce est démis de ses fonctions. Il publiera plus tard ses constatations dans un article intitulé « L’histoire d’un crime national ».</p><p><a href='#' class='external' data-ext='ext-wb-8'>The Story of a National Crime</a> (Disponible uniquement en anglais) </p>",
 			"imagesrc":"42-1922",
 			"imagealt": (Utils.lang === "en")?
@@ -811,7 +927,7 @@ define(['utils'], function (Utils) {
 				"Williams Treaties signed in Ontario":
 				"Les traités Williams signés en Ontario",
 			"content": (Utils.lang === "en")?	
-				"<p>In 1916, a Commission of Inquiry jointly created by Ontario and Canada proposed that a new treaty be negotiated in the region between Georgian Bay, the Ottawa River, Lake Simcoe, and the lands west of the Bay of Quinte. A number of irregularities in the early land surrenders of the 19th century were causing considerable confusion and problems for the region's First Nations population. The 1923 Williams Treaties, taking the name of the head of the Royal Commission, ceded all lands in the region to the Crown for a fixed one-time cash payment. Unlike the numbered treaties, which had recently been completed, these treaties extinguished hunting, fishing, harvesting, trapping, and gathering rights. Brought to the courts in 2012 by the signatories, the case of Alderville v. <abbr>HMTQ</abbr> et al is ongoing. It argues that the Crown disregarded the signatories’ harvesting rights in relying on the circumstances prevailing at the time of negotiation and took unfair advantage of the First Nations.</p>":
+				"<p>In 1916, a commission of inquiry jointly created by the governments of Ontario and Canada proposed that a new treaty be negotiated for the region between Georgian Bay, the Ottawa River, Lake Simcoe and the lands west of the Bay of Quinte. A number of irregularities in the early land surrenders of the 19th century were causing considerable confusion and problems for the region’s First Nations population. The 1923 Williams Treaties, named for the head of the commission, ceded all lands in the region to the Crown for a fixed one-time cash payment.</p><p>Unlike the Numbered Treaties, which had recently been completed, the Williams Treaties extinguished hunting, fishing, harvesting, trapping and gathering rights. The First Nations signatories brought suit in 2012, and the case is still before the courts. The plaintiffs argue that the Crown disregarded the signatories’ harvesting rights in relying on the circumstances prevailing at the time of negotiation, and took unfair advantage of the First Nations.</p>":
 				"<p>En 1916, une commission d’enquête est instituée conjointement par l’Ontario et le Canada; elle propose qu’un nouveau traité soit négocié dans la région qui s’étend entre la Baie Georgienne, la rivière des Outaouais, le lac Simcoe et les terres à l’ouest de la baie de Quinte. En effet, des irrégularités entourant les premières cessions de terres au XIXe siècle causent de la confusion et des problèmes chez les Premières Nations de la région. Les traités Williams de 1923, du nom du chef de la Commission royale, cèdent des terres de la région à la Couronne pour un unique paiement en espèces fixe. Contrairement aux traités numérotés, qui viennent d’être signés, les traités Williams entraînent l’annulation des droits de chasse, de pêche, de récolte, de piégeage et de cueillette. Porté devant les tribunaux en 2012 par les signataires, le cas Alderville c. La Reine et coll. est encore en cours. Il y est avancé que la Couronne n’a pas tenu compte des droits de récolte des signataires en se fondant sur les circonstances qui avaient cours au moment des négociations et qu’elle a tiré un avantage indu au détriment des Premières Nations.</p>",
 			"mapUrl":"content/medias/images/maps/20map_1923.jpg",
 			"mapAlt": (Utils.lang === "en")?
@@ -822,14 +938,14 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
-			"date":"1924–1939",
+			"date":"1924&nbsp;&ndash;&nbsp;1939",
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
-				"Inuit “a Federal Responsibility”":
+				"Inuit &ldquo;a federal responsibility&rdquo;":
 				"Les Inuits, une « responsabilité fédérale »",
 			"content": (Utils.lang === "en")?	
-				"<p>By the early 20th century, many within the Canadian government were questioning Inuit status—unsure if they should be considered Canadian citizens or wards of the state, like First Nations. A bill was passed to amend the Indian Act, assigning responsibility for Inuit to the Department of Indian Affairs, but ensuring that Inuit would remain Canadian citizens. This bill was repealed, however, making the Northwest Territories Council in Ottawa responsible for Inuit. The Royal Canadian Mounted Police, by default of their presence, was delegated to administer relief (food and ammunition) in the north. Then the Supreme Court pronounced their judgement in the Re Eskimo case (1939), stating that, constitutionally, Inuit were classified as Indians in Canada. This distinction made Inuit the legal responsibility of the Canadian government.</p>":
+				"<p>By the early 20th century, many within the federal government were questioning Inuit status, raising doubts about whether Inuit should be considered Canadian citizens or wards of the state, like First Nations. A bill was passed to amend the <em>Indian Act</em>, assigning responsibility for Inuit to the Department of Indian Affairs but ensuring that Inuit would remain Canadian citizens. This bill was repealed, however, making the Northwest Territories Council in Ottawa responsible for Inuit. Because of its presence in the North, the Royal Canadian Mounted Police was delegated to administer relief (food and ammunition) in the area. In <em>Reference Re Eskimos</em> (1939), the Supreme Court found that, constitutionally, Inuit were to be classified as Indians in Canada. This decision made Inuit the legal responsibility of the Government of Canada.</p>":
 				"<p>Au début du XXe siècle, de nombreuses personnes au sein du gouvernement du Canada s’interrogent sur le statut des Inuits, se demandant s’ils sont citoyens canadiens ou pupilles de l’État, comme les Premières Nations. On adopte une loi modifiant la Loi sur les Indiens, en vertu de laquelle les Inuits relèvent de la responsabilité du ministère des Affaires indiennes, mais qui garantit qu’ils demeureront des citoyens canadiens. Cette loi est abrogée, et le Conseil des Territoires du Nord Ouest, à Ottawa, devient responsable des Inuits. La Gendarmerie royale du Canada, à défaut d’être présente, est déléguée pour approvisionner le Nord en nourriture et en munitions. En 1939, la Cour suprême rend sa décision à l’égard du cas Re Eskimo en affirmant que, constitutionnellement, les Inuits sont considérés comme des Indiens du Canada. La distinction établie dans cette décision fait en sorte que le gouvernement du Canada devient légalement responsable des Inuits.</p>",
 			"imagesrc":"41-1924",
 			"imagealt": (Utils.lang === "en")?
@@ -843,23 +959,23 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
-				"<i>Indian Act</i> Amendment":
+				"<em>Indian Act</em> Amendment":
 				"Les modifications apportées à la Loi sur les Indiens",
 			"content": (Utils.lang === "en")?	
-				"<p>These amendments prevented anyone from soliciting funds to represent First Nations. This effectively prevented Indigenous peoples from legal action and representation for many decades.</p>":
+				"<p>The <em>Indian Act</em> was amended, preventing anyone from soliciting funds to represent First Nations. This effectively prevented Indigenous Peoples from initiating legal action and finding representation for many decades.</p>":
 				"<p>Ces modifications visent à interdire à quiconque de solliciter des fonds pour représenter les Premières Nations, ce qui empêchera pendant de nombreuses décennies les peuples autochtones d’entreprendre des actions en justice et d’être représentés par un avocat.</p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
-			"date":"1930–1960<span class='small'>s</span>",
+			"date":"1930<span class='small'>s</span>&nbsp;&ndash;&nbsp;1960<span class='small'>s</span>",
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
 				"Tuberculosis in the Arctic":
 				"La tuberculose en Arctique",
 			"content": (Utils.lang === "en")?	
-				"<p>The first cases of tuberculosis were reported amongst Inuit. By the mid-1940s, and lasting into the 1960s, there was a tuberculosis epidemic, with some regions reporting up to 25% of the population infected. Over these decades, many Inuit were sent to the South for treatment, sometimes for several years. Many of these patients never returned and relatives were not informed about what happened to them.</p>":
+				"<p>The first cases of tuberculosis were reported among Inuit in about 1850. By the mid-1940s and well into the 1960s, there was a tuberculosis epidemic in the Arctic, with some regions reporting up to 25 percent of the population as bring infected. In those decades, many Inuit were sent to the South for treatment, sometimes for several years. Many of these patients never returned and relatives were not informed about what happened to them.</p>":
 				"<p>Les premiers cas de tuberculose sont déclarés chez les Inuits. Une épidémie de tuberculose se répand au milieu des années 1940 et plus tard dans les années 1960, certaines régions indiquent que 25 % de la population est infectée. Au cours de ces décennies, de nombreux Inuits sont envoyés vers le sud pour recevoir un traitement; parfois pendant plusieurs années. Bon nombre de ces patients ne reviendront pas, et leurs proches ne sauront jamais pourquoi.</p>",
 			"imagesrc":"44-1930",
 			"imagealt": (Utils.lang === "en")?
@@ -869,27 +985,40 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
-			"date":"1939–1945",
+			"date":"1939&nbsp;&ndash;&nbsp;1945",
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
 				"Second World War":
 				"La Seconde Guerre mondiale",
 			"content": (Utils.lang === "en")?	
-				"<p>At least 3000 Status (Treaty) Indians—including 72 women—enlisted in the Canadian Forces during <abbr>WWII</abbr>, as well as an unknown number of Inuit, Métis and other Natives. The actual numbers were no doubt much higher. At least 17 decorations for bravery in action were earned. Just as in <abbr>WWI</abbr>, many veterans returned to find they had lost their Indian Status and denied the benefits that were provided to other Canadian veterans. The war also brought further incursions into the Arctic, as Allies established military posts along the Eastern Arctic to facilitate flying routes from North America to Europe. Military posts are built in Northern Québec at Fort Chimo and Baffin Island at Frobisher Bay (present-day Iqaluit).</p>":
+				"<p>At least 3,000 Status (Treaty) Indians&nbsp;&ndash;&nbsp;including 72 women&nbsp;&ndash;&nbsp;enlisted in the Canadian Forces during the Second World War, as well as an unknown number of Inuit, Métis and other First Nations. The actual numbers were no doubt much higher. At least 17 decorations for bravery in action were earned. Just as in the First World War, many veterans returned to find that they had lost their Indian status and were denied the benefits provided to other Canadian veterans. The war also brought further incursions into the Arctic, as military posts were established along the Eastern Arctic to facilitate flying routes from North America to Europe. Military posts were built in northern Quebec at Fort Chimo, and on Baffin Island at Frobisher Bay (present-day Iqaluit).</p>":
 				"<p>Au moins 3 000 Indiens inscrits (visés par un traité), dont 72 femmes ainsi que des Inuits, des Métis et d’autres Autochtones dont le nombre reste inconnu, s’enrôlent dans les Forces canadiennes pendant la Deuxième Guerre mondiale. Leur nombre est sans doute beaucoup plus élevé. Au moins 17 d’entre eux recevront des décorations pour des actes de bravoure au combat. Tout comme après la Première Guerre mondiale, de nombreux anciens combattants découvrent en rentrant chez eux qu’ils ont perdu leur statut d’Indien et qu’on leur refuse les avantages dont bénéficieront les autres combattants canadiens. La guerre entraîne également d’autres incursions en Arctique, lorsque les Alliés établissent des postes militaires sur l’Est de l’Arctique pour ouvrir des liaisons aériennes entre l’Amérique du Nord et l’Europe. Les postes militaires sont construits dans le Nord du Québec, à Fort Chimo, et sur l’île de Baffin, à Frobisher Bay (actuellement Iqaluit).</p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
+        {
+			"date":"1942&nbsp;&ndash;&nbsp;present",
+			"anchor":false,
+			"period":2,
+			"title": (Utils.lang === "en")?
+				"Canadian Rangers Program":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>The <a href=\"#\" class=\"external\" data-ext=\"ext-wb-92\">Canadian Rangers</a> (often mistakenly called Arctic Rangers) are a branch of the military, created in 1942. The Rangers are primarily local Indigenous individuals who bring their traditional skills to the job. The Rangers were originally formed to monitor the country’s northern and Pacific coasts during the Second World War. Today, the Rangers exist as part of the army’s Reserve Force, and operate from the Atlantic to the Pacific. </p><p>The Rangers’ early mandate focused on protecting Canada’s Arctic sovereignty from neighbouring nations, such as the United States and Russia. Since then, the mandate has expanded. Because many Rangers live in the communities they serve, they often become first responders in places where other help is not at hand. </p><p>In their bright red baseball caps, T-shirts and hooded sweatshirts, the Rangers have become the most recognizable symbol of Canada’s military presence in the North, embodying a spirit of co-operation between Northern communities and the Armed Forces.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
 		{
-			"date":"1940<span class='small'>s</span>&nbsp;–&nbsp;1970<span class='small'>s</span>",
+			"date":"1940<span class='small'>s</span>&nbsp;&ndash;&nbsp;1970<span class='small'>s</span>",
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
 				"E-Numbers":
 				"Les numéros esquimaux",
 			"content": (Utils.lang === "en")?	
-				"<p>Responding to the growing need for administration of Inuit issues as well as difficulties with Inuktitut, government officials established the “Eskimo Identification disk” system, which created a registry of Inuit that replaced names with identification numbers. This system is widely viewed as dehumanizing and is abandoned in the 1970s.</p>":
+				"<p>Because of the growing need for administration of Inuit issues as well as unfamiliarity with the Inuktitut language, government officials established the &ldquo;Eskimo identification disc&rdquo; system. This created a registry of Inuit that replaced names with identification numbers. The system was widely viewed as dehumanizing and was abandoned in the 1970s.</p>":
 				"<p>Afin de répondre au besoin croissant de gérer les questions concernant les Inuits et de pallier les difficultés liées à l’inuktitut, les représentants du gouvernement établissent le système d’« identification par numéro des Esquimaux » qui enregistre les Inuits en remplaçant leurs noms par des numéros d’identification. Généralement vu comme étant déshumanisant, le système est abandonné dans les années 1970.</p>",
 			"imagesrc":"46-1940",
 			"imagealt": (Utils.lang === "en")?
@@ -921,14 +1050,14 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
-			"date":"1950<span class='small'>s</span>&nbsp;–&nbsp;1960<span class='small'>s</span>",
+			"date":"1950<span class='small'>s</span>&nbsp;&ndash;&nbsp;1960<span class='small'>s</span>",
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
-				"Inuit Education":
+				"Inuit education":
 				"L’éducation des Inuits",
 			"content": (Utils.lang === "en")?	
-				"<p>Government officials began establishing schools for Inuit children, both hosteling schools and residential schools. Linked to other programs and benefits, these schools lead to the greater settlement of Inuit into permanent communities.</p>":
+				"<p>Government officials began establishing schools for Inuit children, both hostelling schools and Residential Schools. Linked to other programs and benefits, the schools led to the increased settlement of Inuit in permanent communities.</p>":
 				"<p>Les représentants du gouvernement créent des écoles pour les enfants des Inuits, en foyer et en pensionnat. Rattachées à d’autres programmes et avantages, les écoles amènent les Inuits à se regrouper en plus grand nombre en communautés permanentes.</p>",
 			"imagesrc":"48-1950",
 			"imagealt": (Utils.lang === "en")?
@@ -945,7 +1074,7 @@ define(['utils'], function (Utils) {
 				"Inuit relocation to the High Arctic":
 				"Le déplacement des Inuits dans l’Extrême-Arctique",
 			"content": (Utils.lang === "en")?	
-				"<p>In August 1953, seven or eight families from Inukjuak, northern Quebec (then known as Port Harrison) were transported to Grise Fiord on the southern tip of Ellesmere Island and to Resolute on Cornwallis Island. The families, who had been receiving welfare payments, were promised better living and hunting opportunities in new communities in the High Arctic. The government’s official explanation was that these volunteer families had agreed to participate in a program to reduce areas of perceived overpopulation and poor hunting in northern Quebec, to reduce their dependency on welfare, and to resume a subsistence lifestyle.</p><p>By contrast, however, the Inuit reported the relocations as being forced and motivated by a desire to reinforce Canadian sovereignty in the Arctic archipelago through the creation of settlements in the area.</p><p>The Inuit families were taken on the Eastern Arctic patrol ship <abbr>CGS</abbr> C.D. Howe to areas on Cornwallis and Ellesmere islands (Resolute and Grise Fiord), both large barren islands in the hostile polar north. While on the boat, the families learned that they would not be living together but would be left at three separate locations. In Relocation to the High Arctic, Alan R. Marcus proposes that the relocation not only served as an experiment, but as an answer to the “Eskimo problem.”</p><p>For its part, the federal government stressed that the “Eskimo problem” was linked to Inuit reluctance to give up their nomadic ways and went so far as to provide detailed accounts of poor hunting seasons and starvation within the Inukjuak area as a direct result of overpopulation. This despite the fact the government knew the area in question was experiencing a poor trapping season due to the end of a four-year fox cycle.</p><p><a href='#' class='external' data-ext='ext-wb-9'>Broken Promises - The High Arctic Relocation</a></p>":
+				"<p>In August 1953, seven or eight families from Inukjuak, in northern Quebec (then known as Port Harrison), were transported to Grise Fiord on the southern tip of Ellesmere Island and to Resolute on Cornwallis Island. The families had been receiving welfare payments; they were promised better living and hunting opportunities in new communities in the High Arctic. The federal government’s official explanation was that the families had volunteered for the program. The stated aim of the program was to reduce areas of perceived overpopulation and poor hunting in northern Quebec, to reduce volunteer families’ dependence on welfare, and to help them return to a subsistence lifestyle.</p><p>The Inuit had a different view of the program. They reported that the relocations had been forced and that the program’s aim was to assert Canadian sovereignty in the Arctic archipelago through the creation of settlements in the area.</p><p>Travelling on the Eastern Arctic patrol ship <abbr>CGS</abbr> <em>C.D. Howe</em>, the Inuit families were taken to areas on Cornwallis and Ellesmere islands (Resolute and Grise Fiord), both large barren islands in the hostile polar North. While aboard the vessel, the families learned that they would not be living together but would be left at three separate locations. In <em>Out In The Cold</em>, Alan R. Marcus suggests that the relocation was intended to be an experiment as well as an answer to the &ldquo;Eskimo problem.&rdquo;</p><p>For its part, the federal government stressed that the &ldquo;Eskimo problem&rdquo; was linked to Inuit reluctance to give up their nomadic ways. The government even provided detailed accounts of poor hunting seasons and starvation within the Inukjuak area, as a direct result of overpopulation. In fact, the government knew that the area in question was experiencing a poor trapping season because of the end of a four-year fox cycle.</p>":
 				"<p>En août 1953, sept ou huit familles inuites originaires d’Inukjuak (à l’époque Port Harrison), au nord du Québec, sont déportées à Grise Fiord sur la pointe sud de l’île d’Ellesmere ainsi qu’à Resolute sur l’île Cornwallis. Le gouvernement promet à ces familles, qui recevaient des allocations sociales, qu’elles trouveront un endroit idéal pour la chasse et une meilleure qualité de vie dans les nouvelles collectivités de l’Extrême Arctique. Le gouvernement affirme que ces familles se sont portées volontaires et ont accepté de participer à un programme visant à réduire les zones du nord du Québec qui semblent surpeuplées et où la chasse est mauvaise, pour qu’elles puissent se départir de leur dépendance envers l’aide sociale et reprendre leurs activités de subsistance. Les Inuits déclarent en revanche que les délocalisations étaient forcées et motivées par le désir de renforcer la souveraineté canadienne dans l’archipel arctique en y installant des collectivités. C’est à bord du navire de patrouille<abbr> C.G.S.</abbr> C.D. Howe en route vers l’arctique orientale que les Inuits sont transportés vers les îles Cornwallis et d’Ellesmere (Resolute et Grise Fiord), deux grandes îles désertiques situées en plein nord polaire hostile. Sur le navire, les familles apprennent qu’elles ne vivront pas ensemble, mais séparément dans trois endroits différents. Dans «&nbsp;Relocation to the High Arctic&nbsp;» (La délocalisation dans l’Extrême Arctique), Alan R. Marcus propose que la délocalisation des Inuits serve non seulement d’expérience, mais également de solution au problème des Esquimaux. Le gouvernement fédéral souligne que le problème des Esquimaux est lié à la réticence des Inuits à abandonner leur mode de vie nomade dans les régions supposément surpeuplées, et va même jusqu’à faire des récits détaillés de mauvaises saisons de chasse et de famine dans la région d’Inukjuak en raison de la surpopulation. De plus, le gouvernement fédéral sait que la région en question était au milieu d’une basse saison pour le piégeage en raison de la fin d’un cycle de quatre ans pour les renards.</p><p>Les Inuits déclarent en revanche que les délocalisations sont forcées et motivées par le désir de renforcer la souveraineté canadienne dans l’archipel arctique en y installant des communautés.</p><p>C’est à bord du navire de patrouille de la garde côtière C.D. Howe en route vers l'Arctique de l'Est que les Inuits sont transportés vers les îles Cornwallis et d’Ellesmere (Resolute et Grise Fiord), deux grandes îles désertiques situées en plein nord polaire hostile. Sur le navire, les familles apprennent qu’elles ne vivront pas ensemble, mais séparément dans trois endroits différents. Dans un article intitulé Relocation to the High Arctic (réinstallation dans l'Extrême Arctique), Alan R.Marcus propose que la délocalisation des Inuits dans l’Extrême Arctique a servi non seulement d’expérience, mais également de solution au problème des Esquimaux.</p><p>De son côté, le gouvernement fédéral souligne que le problème des Esquimaux est lié à la réticence des Inuits à abandonner leur mode de vie nomade, et va même jusqu’à faire des récits détaillés de mauvaises saisons de chasse et de famine dans la région d’Inukjuak en raison de la surpopulation. Le gouvernement fédéral sait pourtant que la région en question était alors au milieu d’une basse saison pour le piégeage en raison de la fin d’un cycle de quatre ans pour les renards.</p><p><a href='#' class='external' data-ext='ext-wb-9'>Broken Promises - The High Arctic Relocation</a> (Cette vidéo est disponible uniquement en anglais)</p>",
 			"imagesrc":"49-1953",
 			"imagealt": (Utils.lang === "en")?
@@ -959,6 +1088,23 @@ define(['utils'], function (Utils) {
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
+			"date":"1958",
+			"anchor":false,
+			"period":2,
+			"title": (Utils.lang === "en")?
+				"First Nations individual appointed to the Canadian Senate":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>In 1958, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-93\">James Gladstone</a> (1887–1971), a member of the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-94\">Kainai</a> (Blood) First Nation, became Canada’s first senator of First Nations origin. He entered the Senate before Status Indians had won the right to vote. Gladstone was a tireless advocate for Indigenous causes such as voting rights, better educational systems and modernized farming. He helped create awareness of Indigenous issues and the need to reduce the marginalization of Indigenous people in Canada.</p><p>In 2019, Gladstone’s portrait appeared on the new 10-dollar bill issued to mark the 150th anniversary of Canada’s creation in 1867.</p>":
+				"<p></p>",
+            "imagesrc":"james_gladstone",
+			"imagealt": (Utils.lang === "en")?
+			"":
+			"",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
 			"date":"1959",
 			"anchor":false,
 			"period":2,
@@ -966,7 +1112,7 @@ define(['utils'], function (Utils) {
 				"The Sixties Scoop":
 				"La rafle des années soixante",
 			"content": (Utils.lang === "en")?	
-				"<p>In 1959, only 1% of the children in the care of social services in Canada were of Indigenous ancestry. By the end of the 1960s, however, 30‒40% of children in care were Aboriginal, even though they only constituted 4% of Canada’s population. In what is called the “Sixties Scoop” (but which continued into the 1980s), thousands of children across Canada were fostered or adopted out to predominantly white families in Canada and also in the U.S. and Europe. In addition to the loss of birth names and tribal identity, cultural identity, and loss of Indian status, many children suffered sexual, physical and/or mental abuse at the hands of their adoptive or foster families. Manitoba is alone among the provinces and the federal government to have formally apologized for what happened to the children it apprehended.</p><p><a href='#' class='external' data-ext='ext-wb-10'>Information on Sixties Scoop</a></p>":
+				"<p>In 1959, only 1 percent of the children in the care of social services in Canada were of Indigenous ancestry. By the end of the 1960s, however, 30 to 40 percent of children in care were of Aboriginal descent, even though Indigenous people constituted only 4 percent of Canada’s population. In what is called the &ldquo;<a href=\"#\" class=\"external\" data-ext=\"ext-wb-95\">Sixties Scoop</a>&rdquo; (but which continued into the 1980s), thousands of children across Canada were fostered or adopted out to predominantly white families in Canada, and also in the United States and Europe. In addition to losing their birth names, cultural identity and Indian status, many children suffered sexual, physical and/or mental abuse at the hands of their adoptive or foster families. Of the 10 provincial governments and the federal government, only Manitoba has formally apologized for what happened to the children it took from their homes.</p>":
 				"<p>En 1959, seulement 1 % des enfants confiés aux services sociaux canadiens sont d’origine autochtone. À la fin des années 1960, cette proportion sera de 30 à 40 %, malgré le fait que les Autochtones ne comptent que pour 4 % de la population canadienne. Dans le cadre de ce qui a été appelé « La rafle des années soixante » (qui continuera jusqu’aux années 1980), des milliers d’enfants de partout au Canada sont accueillis ou adoptés par des familles à prédominance blanche, non seulement au Canada, mais également aux États-Unis et en Europe. En plus de perdre leur nom de famille et leur identité tribale, leur identité culturelle et leur statut d’Indien, de nombreux enfants sont victimes de violence sexuelle, physique ou mentale de la part de leur famille d’accueil ou adoptive. Le Manitoba et le gouvernement fédéral sont les seuls à s’être officiellement excusés de ce qui est arrivé aux enfants.</p><p><a href='#' class='external' data-ext='ext-wb-10'>Information sur la Rafle des années soixante</a></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
@@ -976,10 +1122,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
-				"First Nations Granted the Right to Vote":
+				"First Nations granted the right to vote":
 				"Les Premières Nations obtiennent le droit de vote",
 			"content": (Utils.lang === "en")?	
-				"<p>The Indian Act and Canada Elections Act were amended to grant Status Indians full voting rights, and therefore, full Canadian citizenship. Métis had never been denied these rights. Voting rights had been extended to Inuit in 1948, although little attempt was made to ensure their votes were collected until the early 1960<span class='small'>s</span>.</p>":
+				"<p>The <em>Indian Act</em> and the <em>Canada Elections Act</em> were amended to grant Status Indians full voting rights, and therefore full Canadian citizenship. Métis had never been denied these rights. Voting rights had been extended to Inuit in 1948, although little attempt was made to ensure their votes were collected until the early 1960s.</p>":
 				"<p>La Loi sur les Indiens et la Loi électorale sont modifiées pour accorder aux Indiens inscrits le plein droit de vote, et par conséquent, la citoyenneté canadienne complète. Ce droit n'a jamais été refusé aux Métis. Le droit de vote est étendu aux Inuits en 1948, mais avant le début des années 1960, peu d’efforts sont faits pour s’assurer que leurs votes sont recueillis.</p>",
 			"imagesrc":"51-1960",
 			"imagealt": (Utils.lang === "en")?
@@ -988,16 +1134,55 @@ define(['utils'], function (Utils) {
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
-		{
-			"date":"1970–1971",
+        {
+			"date":"1968",
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
-				"Organizing to Advocate for Rights and Interests":
+				"First Status Indian elected to Canadian House of Commons":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p><a href=\"#\" class=\"external\" data-ext=\"ext-wb-96\">Leonard Marchand</a> (1933–2016) was born in Vernon, British Columbia, and was a member of the Okanagan Indian Band. After a career as a public servant, he became the first Status Indian to be elected to Canada’s House of Commons in 1968 as member for the riding of Kamloops–Cariboo. He later became the first Indigenous person to serve in the federal Cabinet. Subsequently, in 1984, he was appointed to the Canadian Senate.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+		{
+			"date":"1970&nbsp;&ndash;&nbsp;1971",
+			"anchor":false,
+			"period":2,
+			"title": (Utils.lang === "en")?
+				"Organizing to advocate for rights and interests":
 				"S’organiser pour défendre les droits et les intérêts",
 			"content": (Utils.lang === "en")?	
-				"<p>The National Indian Brotherhood was established to represent the interests of Status and Treaty First Nations. Over time, the National Indian Brotherhood evolved into the Assembly of First Nations, the national political organization that advocates on behalf of First Nations on issues such as treaties, Indigenous rights, and land and resources.</p><p>In 1971, Inuit Tapirisat of Canada (now called <abbr>ITK</abbr> – Inuit Tapariit Kanatami) was established to work toward the greater interest of all Inuit in Canada. The Native Council of Canada was also established to represent the needs and interests of Métis and non-Status Indians in Canada, those individuals who had lost their status due to forced enfranchisement. This group became a leading voice in the movement to recognize Métis rights in Canada and later split into two new organizations, the Métis National Council and the Congress of Aboriginal Peoples.</p>":
+				"<p>The National Indian Brotherhood was established to represent the interests of Status and Treaty First Nations. Over time, the Brotherhood evolved into the Assembly of First Nations, the national political organization that advocates on behalf of First Nations on issues such as treaties, Indigenous rights, and land and resources.<|p><p>In 1971, the Inuit Tapirisat of Canada (now called Inuit Tapariit Kanatami) was established to work toward the greater interest of all Inuit in Canada. The Native Council of Canada was also established to represent the needs and interests of Métis and Non-Status Indians in Canada (those individuals who had lost their status as a result of forced enfranchisement). This group became a leading voice in the movement to recognize Métis rights in Canada. It later split into two new organizations, the Métis National Council and the Congress of Aboriginal Peoples.</p>":
 				"<p>La Fraternité nationale des Indiens est créée pour représenter les intérêts liés aux statuts et aux traités des Premières Nations. Elle se développera au fil du temps jusqu’à devenir l’Assemblée des Premières Nations, une organisation politique nationale qui défend les intérêts des Premières Nations en ce qui a trait aux questions concernant notamment les traités, les droits des Autochtones, les terres et les ressources.</p><p>En 1971, l’Inuit Tapirisat du Canada (aujourd’hui l’<abbr>ITK</abbr> : Inuit Tapariit Kanatami) est établie pour défendre les intérêts au sens large de tous les Inuits du Canada. Le Conseil des Autochtones du Canada est aussi créé pour représenter les besoins et les intérêts des Métis et des Indiens non inscrits au Canada (les Autochtones qui ont perdu leur statut après leur émancipation forcée). Ce groupe deviendra un chef de file du mouvement visant à faire reconnaître les droits des Métis au Canada, et se scindera plus tard en deux organisations, soit le Ralliement national des Métis et le Congrès des peuples autochtones.</p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1972",
+			"anchor":false,
+			"period":2,
+			"title": (Utils.lang === "en")?
+				"Sapporo Winter Olympics":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>At the 1972 Olympic Winter Games held in Sapporo, Japan, the only medal won by a Canadian was Karen Magnussen’s silver medal in figure skating. However, Canada’s representation at the Games was remarkable because on its cross-country ski team, six of the eight members were from the Gwich’in First Nation in Inuvik, Northwest Territories.</p><p>Two of the skiers, twins <a href=\"#\" class=\"external\" data-ext=\"ext-wb-97\">Shirley and Sharon Firth</a>, were the first First Nations women to represent Canada at the Olympics. They both received the Order of Canada in 1987 and were inducted into Canada’s Sports Hall of Fame in 2015.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1973",
+			"anchor":false,
+			"period":2,
+			"title": (Utils.lang === "en")?
+				"<em>Calder</em> case":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>In 1967, the Nisga’a Tribal Council in British Columbia brought an action against the British Columbia government, asserting that the title to their ancestral lands had never been ceded. Nisga’a Chief Frank Calder led the action, which became known as the <em>Calder</em> case. The case was appealed to the Supreme Court of Canada, which ultimately did not find in favour of the Nisga’a. Nevertheless, the Court recognized the concept of Indigenous title as a legal right based on occupation of traditional territory. </p><p>This newly articulated concept led the federal government to create and release a policy on comprehensive land claims in 1973. It also led directly to the beginning of a negotiation process with the Nisga’a, which bore fruit when the Nisga’a Treaty was signed in 1998.</p><p>The <em>Calder</em> decision later influenced the inclusion of land rights in section 35 of the <em>Constitution Act, 1982</em>. It was a significant and far-reaching case that continues to influence Canadian law and legal decisions today.</p><p>Aside from his role during the court case, Frank Calder was a trailblazer with a long list of accomplishments. He was the first Status Indian to attend the University of British Columbia, the first First Nations person elected to a Canadian legislature (the British Columbia Legislative Assembly), and the first First Nations person appointed a Minister of the Crown.</p>":
+				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1005,11 +1190,23 @@ define(['utils'], function (Utils) {
 			"date":"1973",
 			"period":3,
 			"title": (Utils.lang === "en")?
-				"The Era of Modern Treaties":
+				"The era of modern treaties":
 				"L’ère des traités modernes",
 			"content": (Utils.lang === "en")?	
-				"<p>A series of court decisions, most notably the Calder decision along with Malouf and Paulette, recognized ongoing and existing Aboriginal rights in many parts of Canada. This led to the establishment of the Government of Canada’s Comprehensive Claims Policy and the beginning of modern treaty negotiations over new land settlements; it eventually included self-government agreements. Since 1973, Canada and its negotiating partners have signed 26 comprehensive land claims and four self-government agreements. Of the 26 signed agreements, 18 included provisions related to self-government. These settlements have provided:</p><ul><li>Aboriginal ownership over 600 000 km² of land (almost the size of Manitoba);</li><li>Capital transfers of over $3.2 billion;</li><li>Protection of traditional ways of life;</li><li>Access to resource-development opportunities;</li><li>Participation in land and resource management decisions;</li><li>Certainty with respect to Aboriginal land rights in approximately 40% of Canada's land mass; and</li><li>Associated self-government rights and political recognition</li></ul>":
+				"<p>A series of court decisions, most notably the <em>Calder</em> decision along with <em>Malouf</em> and <em>Paulette</em>, recognized ongoing and existing Aboriginal rights in many parts of Canada. This led to the establishment of the Government of Canada’s Comprehensive Claims Policy, the beginning of modern treaty negotiations over new land settlements, and eventually the signing of self-government agreements. From 1973 to 2020, Canada and its negotiating partners have signed 26 comprehensive land claims and 4 self-government agreements. Of the 26 signed agreements, 18 included provisions related to self-government. The settlements have provided the following:</p><ul><li>Aboriginal ownership over 600,000 square kilometres of land (almost the size of Manitoba)</li><li>capital transfers of over $3.2 billion</li><li>protection of traditional ways of life</li><li>access to resource development opportunities</li><li>participation in land and resource management decisions</li><li>certainty with respect to Aboriginal land rights in approximately 40 percent of Canada’s land mass</li><li>associated self-government rights and political recognition</li></ul>":
 				"<p>Une série de décisions judiciaires, notamment la décision Calder, ainsi que les décisions Malouf et Paulette, reconnaissent les droits existants et ancestraux des Autochtones dans de nombreuses régions du Canada. Le gouvernement du Canada adoptera par la suite sa Politique sur les revendications territoriales globales et entamera des négociations sur les traités modernes relativement aux nouvelles revendications territoriales, qui comporteront plus tard des ententes sur l’autonomie gouvernementale. Depuis 1973, 26 accords de règlement de revendications territoriales globales et quatre accords d’autonomie gouvernementale ont été conclus. Parmi les 26 accords conclus, 18 comprennent des dispositions liées à l’autonomie gouvernementale. Ces accords contiennent les éléments suivants :</p><ul><li>des droits de propriété aux Autochtones sur plus de 600 000 km² de territoire (presque la superficie du Manitoba);</li><li>des transferts de capitaux de plus de 3,2 milliards de dollars;</li><li>la protection des modes de vie traditionnels;</li><li>l’accès aux possibilités d’exploitation des ressources;</li><li>la participation aux décisions sur la gestion des terres et des ressources;</li><li>des certitudes concernant les droits fonciers des Autochtones sur environ 40 % de la masse terrestre du Canada;</li><li>des droits connexes en matière d'autonomie gouvernementale et une reconnaissance politique.</li></ul>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1974",
+			"period":3,
+			"title": (Utils.lang === "en")?
+				"Berger Report on the Mackenzie River Pipeline":
+				"L’ère des traités modernes",
+			"content": (Utils.lang === "en")?
+				"<p>In 1974, Jean Chrétien, Canada’s Minister of Indian Affairs and Northern Development, faced a dilemma. Oil companies planned to build a pipeline through the western Arctic, which would carry oil and gas from the Prudhoe Bay field in Alaska south through the Mackenzie River Valley to the United States. Chrétien asked Justice Thomas Berger of the Supreme Court of British Columbia to lead what is now known as the Mackenzie Valley Pipeline Inquiry.</p><p>Berger organized an inquiry that was markedly different from those of the past. For the first time, environmental and Indigenous organizations received funding for their own expert witnesses at the formal hearings. The University of British Columbia organized hearings in more than 30 Dene, Inuit and non-Indigenous communities across the Northwest Territories. The Canadian Broadcasting Corporation created an Indigenous news team that broadcast nightly reports on the inquiry in six languages. Finally, there were hearings in cities across southern Canada so that all Canadians could express their views. </p><p>In the end, Berger proposed that no construction take place for 10 years so that Inuvialuit, Dene and Métis land claims could be settled. This was significant since his recommendations and the supporting evidence provided a basis for Northern land claims negotiations to take place for over a quarter-century. Berger also concluded that the northern Yukon was too susceptible to environmental harm for a project of such magnitude to pass through that part of the route.</p>":
+				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1018,10 +1215,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":2,
 			"title": (Utils.lang === "en")?
-				"James Bay and Northern Québec Agreement":
+				"James Bay and Northern Quebec Agreement":
 				"La Convention de la baie James et du Nord québécois",
 			"content": (Utils.lang === "en")?	
-				"<p>The James Bay and Northern Quebec Agreement (<abbr>JBNQA</abbr>) was signed in 1975. It was the first major comprehensive land claims agreement in northern Canada, heralding a new era in Aboriginal land claims. In 1971, the Government of Quebec announced the James Bay Hydroelectric Development Project, dubbed the “project of the century.”</p><p>The rights of Inuit and Cree who lived in northern James Bay and northern Quebec were ignored. Former senator Charlie Watt assembled a group of Inuit and created the Northern Quebec Inuit Association (<abbr>NQIA</abbr>). Joining forces with the Quebec Association of Indians, they applied to the Quebec Superior Court in 1972 for an injunction to stop the project. The ruling in their favour was quickly overturned. However, events had been unleashed that led to an out-of-court settlement, which was the historic Northern Quebec Agreement. The Northern Quebec Agreement provided $225 million in compensation to the James Bay Cree and Inuit of Northern Quebec to be paid by Canada and Quebec. Compensation funding for the Cree was paid to the Cree Regional Authority and for Inuit it was paid to Makivik Corporation.</p><p>In addition to settling Native land claims and providing financial compensation, the agreements defined Aboriginal rights and established regimes for future relations between Aboriginal peoples and non-Aboriginals in the region and among local, regional, provincial, and federal governments. Harvesting rights were provided, land categories set out, and resource management regimes set up. School boards were created, health services were restructured, and regional governments were established.</p><p><a href='#' class='external' data-ext='ext-wb-12'>The James Bay and Northern Quebec Agreement (<abbr>JBNQA</abbr>)</a></p>":
+				"<p>The James Bay and Northern Quebec Agreement was signed in 1975. It was the first major comprehensive land claims agreement in northern Canada, heralding a new era in Aboriginal land claims.</p><p>In 1971, the Government of Quebec had announced the James Bay Hydroelectric Development Project, dubbed the “project of the century.” </p><p>The rights of Inuit and Cree who lived in northern James Bay and northern Quebec were ignored. Former senator <a href=\"#\" class=\"external\" data-ext=\"ext-wb-99\">Charlie Watt</a> assembled a group of Inuit and created the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-100\">Northern Quebec Inuit Association</a>. It joined forces with the Quebec Association of Indians, and together they applied to the Quebec Superior Court in 1972 for an injunction to stop the project.</p><p>The ruling in their favour was quickly overturned. However, events had been set in motion that led to an out-of-court settlement, which was the historic James Bay and Northern Quebec Agreement. The agreement provided $225 million in compensation to the James Bay Cree and Inuit of northern Quebec, to be paid by the governments of Canada and Quebec. Compensation funding for the Cree was paid to the Cree Regional Authority; compensation for Inuit was paid to the Makivik Corporation. </p><p>In addition to settling land claims and providing financial compensation, the agreement defined Aboriginal rights. It also established regimes for future relations between Indigenous and non-Indigenous Peoples in the region, as well as between local, regional, provincial and federal governments. Harvesting rights were provided, land categories set out and resource management regimes set up. School boards were created, health services were restructured and regional governments were established.</p>":
 				"<p>La Convention de la baie James et du Nord québécois (<abbr>CBJNQ</abbr>) est signée en novembre 1975. Il s’agit du tout premier règlement général de revendications territoriales du Nord canadien qui annonce une ère nouvelle pour les revendications territoriales autochtones. En 1971, le gouvernement du Québec annonce le Projet hydroélectrique de la baie James, qu’on qualifiera de « projet du siècle ».</p><p>Cependant, les droits des Inuits et des Cris qui vivent au Nord de la baie James et dans le Nord québécois n’ont pas été pris en compte. Le jeune Charlie Watt, aujourd’hui ancien sénateur, rassemble un groupe d’Inuits et fonde la Société des Inuits du Nord québécois (SINQ). Cette dernière se joint à l’Association des Indiens du Québec pour demander en 1972 une injonction à la Cour supérieure du Québec afin de mettre un frein au projet. L’injonction leur est accordée, mais cette décision sera cassée peu après. Cependant, ces événements permettent d’entamer des négociations qui donneront lieu à un règlement hors cour, soit la <abbr>CBJNQ</abbr>. Dans le cadre de la <abbr>CBJNQ</abbr>, le Canada et le Québec ont versé 225 millions de dollars en compensations financières aux Cris de la baie James et aux Inuits du Nord québécois, soit à l’Administration régionale crie et à la Société Makivik, respectivement.</p><p>En plus de régler des revendications territoriales autochtones et de fournir des compensations financières, la <abbr>CBJNQ</abbr> aura permis de définir les droits des Autochtones et d’établir des régimes définissant les relations futures entre les peuples autochtones et les allochtones dans la région, ainsi qu’entre les administrations locales, les administrations régionales, les gouvernements provinciaux et le gouvernement fédéral. La <abbr>CBJNQ</abbr> aura prévu des droits de récolte, et établi des catégories de terres et des régimes de gestion des ressources. Elle aura également permis de créer des commissions scolaires, de restructurer les services de santé et de mettre sur pied des administrations régionales.</p><p><a href='#' class='external' data-ext='ext-wb-12'>Convention de la baie James et du Nord québécois (<abbr>CBJNQ</abbr>)</a></p>",
 			"mapUrl":"content/medias/images/maps/23map_1975.jpg",
 			"mapAlt": (Utils.lang === "en")?
@@ -1032,7 +1229,7 @@ define(['utils'], function (Utils) {
 			"":
 			"",
 			"mapFR":true,
-			"wrap": false,
+			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
