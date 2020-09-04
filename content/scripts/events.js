@@ -10,7 +10,7 @@ define(['utils'], function (Utils) {
 				"Contact":
 				"Prise de contact",
 			"content": (Utils.lang === "en")?	
-				"<p>Although likely not the first time Indigenous peoples had come into contact with others, the Norse had established outposts in what is now Newfoundland circa 1000 <abbr>CE</abbr>—it was Christopher Columbus’s “discovery” of the New World that would launch a long era of devastation for the Indigenous peoples of South, Central, and North America. Rampant diseases against which Indigenous Americans had no immunity, wars, and starvation due to loss of land decimated populations before they rebounded in the present day. “By 1600, after some twenty waves of pestilence had swept through the Americas, less than a tenth of the original population remained.”</p>":
+				"<p>It was probably not the first time Indigenous Peoples had come into contact with others: the Norse had established outposts in what is now Newfoundland circa 1000 <abbr>CE</abbr>. However, it was Christopher Columbus’s &ldquo;discovery&rdquo; of the &ldquo;New World&rdquo; that would launch a long era of European colonization, with devastating effects on Indigenous Peoples of South, Central and North America. These included the rampant spread of diseases against which Indigenous Peoples had no immunity, wars, and starvation as a result of loss of land. Indigenous populations were decimated, and many communities are still recovering today. </p>":
 				"<p>Bien qu’alors ce ne soit probablement pas la première fois que les peuples autochtones entrent en contact avec d’autres peuples (les postes avancés établis par les Scandinaves à ce qui s’appelle aujourd’hui Terre-Neuve datent des environs de l’an 1000 de notre ère), c’est la « découverte » du Nouveau Monde par Christophe Colomb qui marque l’origine d’une longue période de destruction pour les peuples autochtones de l’Amérique du Sud, de l’Amérique centrale et de l’Amérique du Nord. Les maladies endémiques contre lesquelles les Amérindiens ne sont aucunement immunisés, les guerres et les famines causées par la perte des terres déciment les populations qui ne reprendront vigueur qu’à l’époque actuelle. « En 1600, moins d’un dixième de la population d’origine a survécu à la vingtaine de pandémies de peste qui s’est repandue à travers les Amériques. »</p>",
 			
 			"imagesrc":"2-1492",
@@ -25,23 +25,49 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Doctrines of Discovery and <i>Terra Nullius</i>":
+				"The Doctrine of Discovery and <em>terra nullius</em>":
 				"La doctrine de la découverte et le concept de terra nullius",
 			"content": (Utils.lang === "en")?	
-				"<p>Pope Alexander issued a Papal Bull recognizing Spain’s claim to the newly discovered land in the Americas. This was the first in a series of Roman Catholic laws that would come to be the source of the ideas behind what is now referred to as the Doctrine of Discovery and of Terra Nullius, which in Latin means “‘empty land.” The concept of Terra Nullius was used by colonial nations to assert their “right” to absorb any barren or uninhabited territory encountered by explorers. Over time, this concept was expanded to include lands not occupied by “civilized” peoples or those not being put to “civilized use.” </p><p>In R v Van der Peet, the concept of Terra Nullius was rejected as a valid concept in the Canadian context due to the recognition of Indigenous rights in the Royal proclamation of 1763.</p><p>In March 2016, the Conference of Canadian Bishops and other Catholic leaders in Canada issued a statement repudiating the doctrine as part of their response to the Truth and Reconciliation Commission’s Calls to Action, saying that “Now is an appropriate time to issue a public statement in response to the errors and falsehoods perpetuated, often by Christians, during and following the so-called Age of Discovery.”</p>":
+				"<p>Pope Alexander VI issued a papal bull (a religious proclamation issued with the authority of the Catholic Church), recognizing Spain’s claim to the newly discovered land soon to be called the Americas. This was the first in a series of Church laws that became the source of the ideas behind what is now referred to as the Doctrine of Discovery and the concept of <em>terra nullius</em>, a Latin phrase that means &ldquo;empty land.&rdquo;</p><p><em>Terra nullius</em> was used by colonial nations to assert a right to occupy any barren or uninhabited territory encountered by explorers. A territory or land was deemed uninhabited if the population residing there was not Christian and therefore not considered to be human beings. Over time, the concept was expanded to include lands not occupied by &ldquo;civilized&rdquo; peoples or not being put to &ldquo;civilized use.&rdquo;</p><p>In <em>R. v. Van der Peet, terra nullius</em> was rejected as a valid concept in the Canadian context in view of the recognition of Indigenous rights in the Royal Proclamation of 1763.</p><p>In March 2016, the Canadian Conference of Catholic Bishops and other Catholic leaders in Canada issued a statement repudiating the doctrine in their response to the Truth and Reconciliation Commission’s Calls to Action, as follows: &ldquo;Now is an appropriate time to issue a public statement in response to the errors and falsehoods perpetuated, often by Christians, during and following the so-called Age of Discovery.&rdquo;</p><p>Even today, this recognition has not changed the reality that the land was taken from the Indigenous populations.</p>":
 				"<p>Le pape Alexandre émet une bulle pontificale qui donne le droit à l’Espagne de s’approprier toutes les terres nouvellement découvertes dans les Amériques. Il s’agit du premier d’une série d’actes juridiques catholiques romains qui seraient à l’origine des idées véhiculées par ce qu’on appelle aujourd’hui la doctrine de la découverte et le concept de terra nullius, qui signifie « terres inhabitées » en latin. Les pays colonisateurs utilisaient la notion de terra nullius pour affirmer leur « droit » d’annexer tout territoire aride ou inhabité que trouvaient les explorateurs. Au fil du temps, la notion est élargie et s’applique également aux terres qui ne sont pas occupées par des peuples « civilisés », ou qui ne servent pas à des fins « civilisées ».</p><p>Dans l’affaire R. c. Van der Peet, la notion de terra nullius sera écartée à titre de concept valide dans le contexte canadien, étant donné la reconnaissance des droits des Autochtones dans la Proclamation royale de 1763. R. c. Van der Peet, [1996] 2 SCR 507, 1996 CanLII 216 (CSC).</p><p>En mars 2016, la Conférence des évêques et d’autres dirigeants catholiques du Canada feront une déclaration dénonçant la doctrine, dans le cadre de leur réponse aux appels à l’action de la Commission de vérité et réconciliation, en affirmant que « l'heure est venue de publier une déclaration pour répondre aux erreurs et aux contre-vérités transmises, souvent par des chrétiens, depuis l'époque dite des grandes découvertes ».</p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
-		{
-			"date":"1534",
+        {
+			"date":"1496",
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Early exploration of Canada":
+				"John Cabot":
+				"La doctrine de la découverte et le concept de terra nullius",
+			"content": (Utils.lang === "en")?
+				"<p>John Cabot (Italian Giovanni Caboto) was commissioned by King Henry VII of England to seek out a new route to the Orient. While he never found such a route, he was the first European since the time of the Norse to explore the northeastern parts of the North American shoreline. The exact route of his travels is a matter of debate, but it is generally accepted that his first successful voyage included what is now Newfoundland and Labrador.</p><p>Cabot did not return from a later voyage of exploration in 1498, but some records indicate that he may have ventured as far south as modern New England and Long Island before disappearing.</p><p>John Cabot was given the mandate to explore and exploit areas unknown to Christian monarchs. He was to &ldquo;find, discover and investigate whatsoever islands, countries, regions or provinces of heathens and infidels, in whatsoever part of the world placed, which before this time were unknown to all Christians.&rdquo; In following years, the British used Cabot’s voyages to justify their claims to North America.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1507",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"The Names of the continents":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>The term “America” is derived from the name of Amerigo Vespucci, an Italian explorer. Europeans of that time credited him with recognizing that there were two distinct continents rather than one land mass across the Atlantic Ocean from Europe. To refer to these continents, German map-makers coined the name “America” in tribute to Vespucci. Today, the continents have become known as North and South America.</p><p>Obviously, the populations living in those territories did not refer to them by the name of an Italian explorer. One name that is common in Canada, coming from the Iroquois peoples, is <a href=\"#\" class=\"external\" data-ext=\"ext-wb-59\">Turtle Island</a>. Other nations have different stories and use different names.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+		{
+			"date":"1534-1576",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Jacques Cartier":
 				"Première exploration du Canada",
 			"content": (Utils.lang === "en")?	
-				"<p>Jacques Cartier made his first expedition from France to the St. Lawrence River. On a second expedition in 1535‒36, the Iroquois saved his men from scurvy by feeding them boiled spruce bark, which contains vitamin C.</p>":
+				"<p><a href=\"#\" class=\"external\" data-ext=\"ext-wb-60\">Jacques Cartier</a> was sent to the northern lands across the ocean by King François I of France to seek out riches and a route to the Orient. He made his first expedition from France to the St. Lawrence River in 1534. He had mixed relations with the local population. On a second expedition in 1535‒1536, the local First Nation (<a href=\"#\" class=\"external\" data-ext=\"ext-wb-61\">Huron-Wendat</a>) saved his men from scurvy by feeding them boiled spruce bark, which contains vitamin C. However, other interactions were much more negative and violent, and his efforts to start a colony during his third voyage in 1541 ended after a conflict with the Iroquois.</p><p>Cartier is credited with coining the name &ldquo;Canada,&rdquo; although this Algonquin term actually referred only to the area around what is now Quebec City (see <a href=\"#\" class=\"external\" data-ext=\"ext-wb-62\">Heritage Minute</a>).</p>":
 				"<p>Jacques Cartier fait sa première expédition à partir de la France jusqu’au fleuve Saint-Laurent. Lors d’une deuxième expédition en 1535-1536, les Iroquois réussissent à guérir ses hommes du scorbut en leur donnant de l’écorce d’épinette bouillie, une source de vitamine C.</p>",
 			"mapUrl":"content/medias/images/maps/1map_1534.jpg",
 			"mapAlt": (Utils.lang === "en")?
@@ -59,7 +85,7 @@ define(['utils'], function (Utils) {
 				"Inuit encounters with Frobisher":
 				"Les Inuits rencontrent Frobisher",
 			"content": (Utils.lang === "en")?	
-				"<p>First encounters of Inuit are reported by Martin Frobisher on his expeditions to Baffin Island. He subsequently kidnapped an Inuk and took him back to London, where he perished shortly thereafter. On a second expedition he took another three Inuit captives, who also died.</p>":
+				"<p><a href=\"#\" class=\"external\" data-ext=\"ext-wb-63\">Martin Frobisher</a> went to the Arctic to search for the Northwest Passage to Asia and to look for precious metals. He made three trips to the Arctic in the area now known as <a href=\"#\" class=\"external\" data-ext=\"ext-wb-64\">Baffin Island</a> (Qikiqtaaluk).</p><p>After the disappearance of five of Frobisher’s crew, he took an Inuk hostage with the hope of getting his crew members back. When this did not occur, Frobisher went back to England with the captive Inuk, who passed away shortly after arrival.</p><p>On his next voyage, Frobisher again forcibly took hostage an Inuit family of three and brought them back to England, where they perished. He believed that he had found gold and brought tonnes of ore back to England, where it was found to be iron.</p>":
 				"<p>Martin Frobisher fait état des premières rencontres avec les Inuits lors de ses expéditions à l’île de Baffin. Par la suite, il ramène à Londres un Inuit qu’il a kidnappé et qui mourra peu de temps après. Lors de sa deuxième expédition, il capture trois autres Inuits, qui ne survivront pas non plus.</p>",
 			"imagesrc":"5-1576",
 			"imagealt": (Utils.lang === "en")?
@@ -73,7 +99,37 @@ define(['utils'], function (Utils) {
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
+        {
+			"date":"1600–1700",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Early Treaties":
+				"Les premiers traités",
+			"imagesrc":"wampum",
+			"imagealt": (Utils.lang === "en")?
+			"Early Treaties":
+			"Les premiers traités",
+			"content": (Utils.lang === "en")?
+				"<p>British and Dutch colonies in the northern part of the Atlantic Seaboard began to grow. Starting in the early 1600s, Indigenous leaders and the heads of the colonies reached formal agreements to deal with settlement and trade issues, as well as the violence that sometimes erupted between colonists and their Indigenous neighbours. Examples include a series of significant peace and friendship agreements between British settlers and Mi’kmaq tribes throughout the region, starting from 1725. These are still honoured and recognized today, although differences remain on how to interpret them (see <a href=\"#\" class=\"external\" data-ext=\"ext-wb-65\"><em>Marshall</em></a> decision, 1999).</p><p>Another series of important agreements were reached between the British colonies and the Haudenosaunee peoples (also known as Iroquois). Often referred to as the Covenant Chain, the agreements bound multiple parties into an alliance. The Covenant Chain is an example of the long tradition of diplomatic relations in North America. It is still an important cornerstone of modern relationships.</p>":
+				"<p>Comme les colonies britanniques et hollandaises du littoral nord-est, installées au début des années 1600, commencent à prendre de l’expansion, les chefs autochtones et les gouverneurs des colonies concluent plusieurs accords officiels sur le règlement, le commerce, et la violence qui éclate parfois entre eux. Parmi ces accords, on compte un bon nombre de traités de paix et d’amitié, signés entre les colons britanniques et les tribus micmaques de la côte Est à partir de 1725. Ces traités sont toujours respectés et reconnus aujourd’hui, bien qu’il y ait des disparités au sujet de leur interprétation (voir la décision Mashall de 1999).</p><p>Les colonies britanniques et les nations Haudenosaunee (également appelées les Iroquois) signent aussi une série d’importants traités, souvent appelés La chaîne d’alliance. Cette chaîne lie plusieurs parties entre elles pour former une alliance, et elle est le reflet de la longue tradition des relations diplomatiques en Amérique du Nord. Elle reste une importante pierre de touche dans les relations modernes.</p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
 		{
+			"date":"1604",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Passamaquoddy leaders welcome the French":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>The winter of 1604–1605 on Saint Croix Island (located on what is now the border between the state of Maine and the province of New Brunswick) was a cruel one for French explorer Pierre Dugua de Mons and his crew. Iced in by freezing temperatures and cut off from fresh water and game, the expedition lost 35 of 79 men. As spring arrived and the Passamaquoddy people living in the area traded game for bread, the health of the survivors improved. The expedition moved on by summer, but their stay marked the beginning of the French presence in North America.</p>":
+				"<p></p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
 			"date":"1605",
 			"anchor":false,
 			"period":1,
@@ -81,7 +137,7 @@ define(['utils'], function (Utils) {
 				"Mi’kmaq leader welcomes the French":
 				"Le chef des Micmacs accueille les Français",
 			"content": (Utils.lang === "en")?	
-				"<p>Mi’kmaq Grand Chief Membertou welcomed the French, who wished to build a permanent settlement at Port Royal on the Bay of Fundy. On June 24, 1610, Grand Chief Membertou was the first Indigenous person in what would become Canada to be baptized as a Christian. Membertou was signaling his desire for peaceful relations with the European nations.</p>":
+				"<p>Mi’kmaq Grand Chief Membertou welcomed and supported the French explorers who wished to build a permanent settlement at Port Royal, on the Bay of Fundy. On June 24, 1610, Membertou was the first Indigenous person in what would become Canada to be baptized a Christian. Membertou was signalling his desire for peaceful relations with the European newcomers.</p><p>There is debate on what Membertou’s motives were, but his baptism can be seen as the start of efforts to convert First Nations populations to Christianity. </p><p>This is a process that continues to the present day.</p>":
 				"<p>Le grand chef micmac Membertou accueille les Français, qui souhaitent s’établir de façon permanente à Port-Royal, dans la baie de Fundy. Le 24 juin 1610, le grand chef Membertou devient le premier Autochtone à être baptisé dans ce qui va devenir le Canada. Membertou montre ainsi sa volonté d’établir des liens pacifiques avec les nations européennes.</p>",
 			"imagesrc":"6-1605",
 			"imagealt": (Utils.lang === "en")?
@@ -103,7 +159,7 @@ define(['utils'], function (Utils) {
 				"Settling New France":
 				"S’établir en Nouvelle France",
 			"content": (Utils.lang === "en")?	
-				"<p>The founding of the Habitation de Québec by Samuel de Champlain officially marked the start of New France. Over the course of his career in Canada, Champlain developed a vast trade network by forming and consolidating alliances with the Montagnais (Innu) of the St. Lawrence, the nations on the Ottawa River, and the Hurons of the Great Lakes.</p>":
+				"<p>The long-term colonization of the continent began with the construction of the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-66\">Habitation de Québec</a> by Samuel de Champlain. This officially marked the start of New France. The Europeans focused on the fur trade, although they remained interested in finding a passage to the Orient. Over the course of his career in Canada, Champlain developed a vast trade network by forming and consolidating alliances with the Montagnais (Innu) of the St. Lawrence, the nations on the Ottawa River and the Hurons of the Great Lakes.</p>":
 				"<p>La fondation de l’Habitation de Québec par Samuel de Champlain marque officiellement le début de la Nouvelle-France. Au cours de sa carrière au Canada, Champlain développe un vaste réseau commercial en formant et en consolidant des alliances avec les Montagnais (Innus) du Saint-Laurent, avec les nations de la rivière des Outaouais et avec les Hurons des Grands Lacs.</p>",
 			"imagesrc":"7-1608",
 			"imagealt": (Utils.lang === "en")?
@@ -122,10 +178,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"Pushing through to Hudson’s Bay":
+				"Pushing through to Hudson Bay":
 				"Jusqu’à la baie d’Hudson",
 			"content": (Utils.lang === "en")?	
-				"<p>Some of the first encounters between the Cree people and Europeans were during Henry Hudson's search for the Northwest Passage, leading him to “discover” James Bay and Hudson Bay.</p>":
+				"<p>Continuing the search for the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-67\">Northwest Passage</a>, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-68\">Henry Hudson</a> encountered a great expanse of salt water far to the north. This body of water later became known as Hudson Bay. Although Henry Hudson was set adrift after a mutiny and never seen again, the existence of this body of water reinvigorated the search for the Northwest Passage. Some of the first contacts between the Cree and Europeans were during Henry Hudson’s search.</p>":
 				"<p>C’est dans sa recherche du passage du Nord-Ouest, qui l’amènera à « découvrir » la baie James et la baie d’Hudson, qu’Henry Hudson vit quelques-unes des premières rencontres entre les Cris et les Européens.</p>",
 			"imagesrc":"8-1610",
 			"imagealt": (Utils.lang === "en")?
@@ -136,23 +192,6 @@ define(['utils'], function (Utils) {
 			"Hudson Bay and James Bay area Quebec":
 			"la région de la Baie d'Hudson et de la Baie James, Québec",
 			"mapFR":true,
-			"wrap": false,
-			"fr": (Utils.lang === "en")? false: true
-		},
-		{
-			"date":"1600–1700",
-			"anchor":false,
-			"period":1,
-			"title": (Utils.lang === "en")?
-				"Early Treaties":
-				"Les premiers traités",
-			"imagesrc":"wampum",
-			"imagealt": (Utils.lang === "en")?
-			"Early Treaties":
-			"Les premiers traités",
-			"content": (Utils.lang === "en")?	
-				"<p>As the British and Dutch colonies of the North Eastern Seaboard begin to grow, starting in the early 1600s, Indigenous leaders and the heads of these colonies reached a number of formal agreements to deal with settlement and trade as well as the violence that sometimes erupted between them. Among these agreements were a series of significant peace and friendship agreements signed between British settlers and Mi’kmaq tribes throughout the Eastern Seaboard, starting from 1725, which are still honoured and recognized today, although differences continue about their interpretation (See Marshall Decision 1999). </p><p>Another series of important agreements were between the British colonies and the Haudenosaunee peoples (also known as Iroquois). Often referred to as the Covenant Chain, they represent the binding of multiple parties into an alliance and represent the long tradition of diplomatic relations in North America. It is still an important touchstone in modern relationships.</p>":
-				"<p>Comme les colonies britanniques et hollandaises du littoral nord-est, installées au début des années 1600, commencent à prendre de l’expansion, les chefs autochtones et les gouverneurs des colonies concluent plusieurs accords officiels sur le règlement, le commerce, et la violence qui éclate parfois entre eux. Parmi ces accords, on compte un bon nombre de traités de paix et d’amitié, signés entre les colons britanniques et les tribus micmaques de la côte Est à partir de 1725. Ces traités sont toujours respectés et reconnus aujourd’hui, bien qu’il y ait des disparités au sujet de leur interprétation (voir la décision Mashall de 1999).</p><p>Les colonies britanniques et les nations Haudenosaunee (également appelées les Iroquois) signent aussi une série d’importants traités, souvent appelés La chaîne d’alliance. Cette chaîne lie plusieurs parties entre elles pour former une alliance, et elle est le reflet de la longue tradition des relations diplomatiques en Amérique du Nord. Elle reste une importante pierre de touche dans les relations modernes.</p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
