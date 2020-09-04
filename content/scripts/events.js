@@ -200,29 +200,74 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"The Fur Trade and the Royal Charter":
+				"The fur trade and the Royal Charter":
 				"La traite des fourrures et la Charte royale",
 			"content": (Utils.lang === "en")?	
-				"<p>In the 17th century, the fur trade emerged as a major commercial enterprise in North America due to European demand for felt hats made from beaver fur. French traders Médard Chouart des Groseilliers and Pierre-Esprit Radisson were the first to propose a trading company to reach the interior of the continent through Hudson Bay to gain easier access to its fur resources. After failing to obtain French support, they went to England in 1665 and approached Prince Rupert, cousin of Charles <abbr title='2'>II</abbr>. Rupert persuaded the king, several merchants and noblemen to back the venture. The royal charter was proclaimed on May 2, 1670, granting the “Governor and Company of Adventurers” extensive powers, including exclusive trading rights in the territory traversed by rivers flowing into Hudson Bay. This vast region was named Rupert's Land, which the Company owned and administered for almost 200 years. The fur trade depended almost entirely upon Indian and Métis knowledge of the land, and their labour, in return for manufactured goods.</p>":
+				"<p>In the 17th century, the fur trade emerged as a major commercial enterprise in North America, supplying the European demand for felt hats made from beaver fur. French traders <a href=\"#\" class=\"external\" data-ext=\"ext-wb-69\">Médard Chouart des Groseilliers</a> and <a href=\"#\" class=\"external\" data-ext=\"ext-wb-70\">Pierre-Esprit Radisson</a> were the first to propose the creation of a trading company that would send expeditions through Hudson Bay to the interior of the continent, from where there would be easier access to fur resources. </p><p>After failing to obtain French support, the two went to England in 1665 and approached Prince Rupert, a cousin of King Charles II. Rupert persuaded the King, along with several merchants and noblemen, to back the venture. Even though Indigenous Peoples already occupied the land, a Royal Charter was proclaimed on May 2, 1670, granting the “Governor and Company of Adventurers” extensive powers, including exclusive trading rights in the territory traversed by rivers flowing into Hudson Bay.</p><p>This territory was named <a href=\"#\" class=\"external\" data-ext=\"ext-wb-71\">Rupert’s Land</a>, a vast region over which the Company claimed ownership and which it administered for almost 200 years. The fur trade depended almost entirely on knowledge of the land collected by First Nations and Métis, and their labour was purchased in return for manufactured goods.</p>":
 				"<p>La traite des fourrures devient une entreprise commerciale importante au cours du XVIIe siècle en Amérique du Nord, à la suite de la demande européenne de chapeaux de feutre faits de fourrure de castor. Les négociants français Médard Chouart des Groseilliers et Pierre Esprit Radisson sont les premiers à proposer de monter une société de négoce pour rejoindre l’intérieur du continent par la baie d’Hudson de façon à accéder plus facilement aux ressources en fourrures. N’ayant pas réussi à obtenir l’appui des Français, ils se rendent en Angleterre en 1665 pour se présenter devant le Prince Rupert, cousin de Charles <abbr title='deux'>II</abbr>. Le Prince Rupert convainc le roi, plusieurs marchands et membres de la noblesse de soutenir le projet. Proclamée le 2 mai 1670, la Charte royale octroie de larges prérogatives « au Gouverneur et à la Compagnie des aventuriers », y compris le monopole du commerce dans tout le territoire baigné par le bassin hydrographique de la baie d’Hudson. Ce territoire, possédé et géré par la Compagnie pendant près de 200 ans, portera le nom de « Terre de Rupert ». La traite des fourrures dépend presque entièrement de la connaissance qu’ont les Indiens et les Métis du territoire, ainsi que du travail qu’ils fournissent en échange de produits manufacturés.</p>",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"1670",
+			"anchor":false,
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Emergence of the Métis":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>The growth of the fur trade required close relations between the First Nations who were trapping the furs and the European traders who wished to acquire them. These interactions led to personal relationships and the birth of children with shared European and First Nations ancestry. European authorities and trading companies tried to discourage the relationships, but they continued to be formed and children continued to be born.</p><p>Over time, people who did not identify as European or First Nations joined together to form communities of their own, and the Métis came into being. The Métis possess a distinct socio-cultural identity and heritage, and a sense of self-identification. Numerous well-known towns and cities were originally settled by Métis, including Detroit, Sault Ste. Marie and Chicago.</p>":
+				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
 			"anchor":true,
 			"anchorName":"1700",
+			"date": (Utils.lang === "en")?
+                "<span style=\"margin-left: 10px;\">Early 18th century</span>":
+                "<span style=\"margin-left: 10px;\">Early 18th century</span>",
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"Iroquois Confederacy (Haudenosaunee) and the Great Law of Peace":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>After many wars and conflicts, the Iroquois Confederacy, more appropriately known as the Haudenosaunee or the People of the Longhouse, came into existence. The Confederacy was an alliance of six nations: the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-72\">Mohawk</a>, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-73\">Onondaga</a>, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-74\">Oneida</a>, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-75\">Cayuga</a>, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-76\">Seneca</a> and Tuscarora peoples. This alliance dating from the early 18th century was governed by the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-77\">Great Law of Peace</a> (Kaianere’ko:wa), which provided a political and cultural structure for the Haudenosaunee.</p>":
+				"<p></p>",
+			"imagesrc":"11-1701",
+			"imagealt": (Utils.lang === "en")?
+			"The Great Peace of Montreal":
+			"La Grande Paix de Montréal",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"anchor":false,
 			"date":"1701",
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"The Great Peace of Montreal":
+				"The Great Peace of Montréal":
 				"La Grande Paix de Montréal",
 			"content": (Utils.lang === "en")?	
-				"<p>The French colonists of New France also established their own formal relations with First Nations people. The Great Peace of Montreal was a peace treaty between New France and 40 First Nations of North America. It was signed on August 4, 1701, by Louis-Hector de Callière, governor of New France, and 1200 representatives of 40 First Nations from northeastern North America. It brought an end to more than 50 years of conflict between them and was followed by many years of economic harmony and wealth, mutual respect, and a commitment by the French—alone among the European colonists of North America—not to exterminate or enslave Indigenous peoples. Intermarriage was not forbidden in New France.</p>":
+				"<p>The French colonists of New France also established their own formal relations with First Nations. The Great Peace of Montréal was a peace treaty between New France and 40 First Nations of North America. The two architects of the initiative were Louis-Hector de Callière, Governor of New France, and Kondiaronk, Grand Chief of the Huron-Wendat Nation. The treaty was signed on August 4, 1701, by the Governor of New France and 1,200 representatives of 40 First Nations in northeastern North America.</p><p>The Great Peace brought an end to more than 50 years of conflict. Signing of the treaty was followed by many years of economic harmony, wealth and mutual respect. In addition, the French undertook not to exterminate or enslave Indigenous Peoples; they were the first European colonists in North America to make such a commitment. Intermarriage was not forbidden in New France.</p>":
 				"<p>Les colons français arrivés en Nouvelle-France établissent également des relations officielles avec les Premières Nations. La Grande Paix de Montréal est un traité de paix conclu entre la Nouvelle-France et 40 peuples autochtones de l’Amérique du Nord. Il est signé le 4 août 1701 par Louis Hector de Callière, gouverneur de la Nouvelle-France, et les 1 200 représentants des 40 peuples autochtones du nord-est de l’Amérique du Nord. Cette signature met fin à plus de 50 ans de conflits et marque le début d’une période de respect mutuel ainsi que d’harmonie et de richesse économique. Les Français seront les seuls colonisateurs européens de l’Amérique du Nord à s’engager à ne pas exterminer les peuples autochtones et à ne pas les réduire en esclavage. Les mariages mixtes ne sont pas interdits en Nouvelle-France.</p>",
 			"imagesrc":"11-1701",
 			"imagealt": (Utils.lang === "en")?
 			"The Great Peace of Montreal":
 			"La Grande Paix de Montréal",
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"anchor":false,
+			"date":"1740",
+			"period":1,
+			"title": (Utils.lang === "en")?
+				"The Iron Confederacy (Nehiyaw Pwat)":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>The Plains Cree, the Saulteaux (Plains Ojibwa), the Nakoda, the Métis and some Iroquois formed a political and military alliance in the Northern Plains. The confederacy often acted as middlemen for the fur companies, that is, the Hudson’s Bay Company and the North West Company. It also controlled the entry and distribution of European goods, such as guns and ammunition.</p><p>This complex political entity acted as guardian of Indigenous control of the Northern Plains. The decline of the fur trade and the collapse of the bison herds weakened the confederacy to the point that it could no longer withstand the pressures of westward expansion from Canada and the United States (1860s).</p>":
+				"<p></p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
