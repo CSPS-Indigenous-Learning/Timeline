@@ -2164,7 +2164,7 @@ define(['utils'], function (Utils) {
 				"Anishinabek Nation Education Agreement":
 				"L’entente sur l’éducation de la Nation Anishinabek",
 			"content": (Utils.lang === "en")?	
-				"<p>On August 16, 2017, the Government of Canada and 23 Anishinabek Nation First Nations (<abbr>ANEA</abbr>) signed a historic self-government agreement on education. Achieved after over 20 years of negotiations, the Anishinabek Nation Education Agreement is a self-government agreement that recognizes First Nations control over junior kindergarten to grade 12 education, both on and off-reserve. The <abbr>ANEA</abbr> is the first of its kind in Ontario and it is the largest education-related self-government agreement in Canada due to the number of First Nations involved. The <abbr>ANEA</abbr> supports the Anishinabek Nation’s vision of a quality Anishinabek Education System (<abbr>AES</abbr>) that promotes Anishinaabe culture and language and improves education outcomes for Anishinabek students.</p><p><a href='#' class='external' data-ext='ext-wb-54'>Anishinabek Nation Education Agreement</a></p>":
+				"<p>On August 16, 2017, the Government of Canada and 23 Anishinabek First Nations signed a historic <a href=\"#\" class=\"external\" data-ext=\"ext-wb-132\">self-government agreement</a> on education. Achieved after over 20 years of negotiations, the Anishinabek Nation Education Agreement recognizes First Nations control over education from junior kindergarten to Grade 12, both on and off reserve. The Agreement is the first of its kind in Ontario and it is the largest education-related self-government agreement in Canada, reflecting the large number of First Nations involved. The Agreement supports the Anishinabek Nation’s vision of a high-quality Anishinabek Education System that promotes Anishinaabe culture and language, and improves education outcomes for Anishinabek students.</p>":
 				"<p>Le 16 août 2017, le gouvernement du Canada et 23 Premières Nations Anishinabek signent une entente historique sur l’autonomie gouvernementale en matière d’éducation. Obtenue au terme de plus de 20 ans de négociations, l’Entente sur l’éducation de la Nation Anishinabek portant sur l’autonomie gouvernementale reconnaît aux Premières Nations le droit d’exercer leur plein pouvoir dans les salles de classe, de la maternelle au secondaire, tant sur les réserves qu’ailleurs. L’entente est la première de ce type en Ontario, et la plus importante entente sur l’autonomie gouvernementale en matière d’éducation jamais conclue au Canada compte tenu du nombre de Premières Nations concernées. Elle appuie la vision de la Nation Anishinabek pour un système d’éducation de qualité qui fait la promotion de la culture et de la langue Anishinabek et améliore les résultats scolaires des élèves Anishinabek.</p><p><a href='#' class='external' data-ext='ext-wb-53'>Infographique de l'Entente sur l'éducation de la Nation Anishinabek</a></p>",
 			/*"imagesrc":"118-2017",*/
 			"wrap": false,
@@ -2175,10 +2175,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":3,
 			"title": (Utils.lang === "en")?
-				"Creation of the Department of Crown-Indigenous Relations and Northern Affairs Canada, and Indigenous Services Canada ":
+				"Creation of Crown-Indigenous Relations and Northern Affairs Canada, and Indigenous Services Canada":
 				"La création des ministères Relations Couronne-Autochtones et Affaires du Nord, et Services aux Autochtones Canada ",
 			"content": (Utils.lang === "en")?	
-				"<p>In August 2017, the government implemented a recommendation of the Royal Commission on Aboriginal Peoples (1996) by dissolving the department and replacing it with two new departments: Crown-Indigenous Relations and Northern Affairs Canada, and Indigenous Services Canada.</p><p>The Department of Crown-Indigenous Relations and Northern Affairs oversees Indigenous‒government relations, including matters pertaining to treaty rights and self-government, and northern affairs. The Department of Indigenous Services works toward improving the quality of services delivered to Indigenous peoples, with the eventual goal of having many, if not all, of these services delivered by Indigenous nations rather than the Crown. The federal government described the restructuring as a “next step” to abolishing the Indian Act.</p>":
+				"<p>In August 2017, the federal government implemented a recommendation in the 1996 report of the Royal Commission on Aboriginal Peoples. It dissolved Indigenous and Northern Affairs Canada, and replaced it with two new departments: Crown-Indigenous Relations and Northern Affairs Canada, and Indigenous Services Canada.</p><p>The Department of Crown-Indigenous Relations and Northern Affairs oversees Indigenous-government relations, including matters pertaining to treaty rights and self-government, and Northern affairs. The Department of Indigenous Services works toward improving the quality of services delivered to Indigenous Peoples, with the eventual goal of having many, if not all, of these services delivered by Indigenous nations rather than the Crown. The federal government described the restructuring as a &ldquo;next step&rdquo; to abolishing the <em>Indian Act</em>.</p>":
 				"<p>En août 2017, le gouvernement met en œuvre une des recommandations de la Commission royale sur les peuples autochtones (1996) et dissout le ministère afin d’en créer deux nouveaux : Relations Couronne-Autochtones et Affaires du Nord et Services aux Autochtones Canada.</p><p>Le ministère des Relations Couronne-Autochtones supervisera les relations entre les Autochtones et le gouvernement, y compris les questions des droits découlant des traités et de l’autonomie gouvernementale ainsi que les affaires du Nord. Le ministère des Services aux Autochtones Canada a pour mandat d’améliorer les services fournis aux peuples autochtones, et de travailler à ce qu’un jour, les peuples autochtones, et non la Couronne, offrent eux-mêmes une grande partie, voire l’intégralité de ces services. Selon le gouvernement fédéral, la restructuration est un pas de plus vers l’abolition de la Loi sur les Indiens.</p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
@@ -2188,10 +2188,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":3,
 			"title": (Utils.lang === "en")?
-				"Agreement-in-Principle in Sixties Scoop litigation":
+				"Agreement in principle in Sixties Scoop litigation":
 				"L’entente de principe concernant la rafle des années 1960",
 			"content": (Utils.lang === "en")?	
-				"<p>Honourable Carolyn Bennett, Minister of Crown-Indigenous Relations and Northern Affairs, together with Marcia Brown Martel, Stewart Garnett, Priscilla Meeches Catriona Charlie, Peter Van Name, Sarah Tanchak, and Jessica Riddle, announced on October 6, 2017, that an agreement-in-principle aimed at resolving Sixties Scoop litigation had been reached. The agreement-in-principle includes the establishment of a foundation that will focus on healing, wellness, language, culture, and commemoration. The structure of the foundation will be negotiated directly with representatives of the plaintiffs, their counsel, and representatives of the Government of Canada. The agreement-in-principle also includes individual compensation.</p><p>*This agreement does not include Métis children who were taken from their homes and placed in foster care; decisions for Métis children are still pending.</p>":
+				"<p>Various class proceedings had been initiated on behalf of survivors of the Sixties Scoop, which from the 1960s to the 1980s removed thousands of Indigenous children from their homes for fostering or adoption in predominantly white families. </p><p>On October 6, 2017, Canada’s Minister of Crown-Indigenous Relations and Northern Affairs, Carolyn Bennett, joined with Marcia Brown Martel, Stewart Garnett, Priscilla Meeches, Catriona Charlie, Peter Van Name, Sarah Tanchak, and Jessica Riddle (plaintiffs in the proceedings) to announce achievement of an agreement in principle aimed at resolving Sixties Scoop litigation.</p><p>The agreement in principle provided for the establishment of a foundation focusing on healing, wellness, language, culture and commemoration. The structure of the foundation would be negotiated directly with representatives of the plaintiffs, their counsel and representatives of the Government of Canada. The agreement in principle also provided for individual compensation. This agreement did not include Métis children who were taken from their homes and placed in foster care. Decisions for Métis children are still pending.</p>":
 				"<p>L’honorable Carolyn Bennett, ministre des Relations Couronne-Autochtones et des Affaires du Nord, en collaboration avec Marcia Brown Martel, Stewart Garnett, Priscilla Meeches, Catriona Charlie, Peter Van Name, Sarah Tanchak et Jessica Riddle, annonce le 6 octobre 2017 qu’une entente de principe est conclue afin de trouver une solution au litige relatif à la rafle des années 1960.</p><p>L’entente de principe prévoit la création d’une fondation qui mettra l’accent sur la guérison, le bien-être, la langue, la culture et la commémoration. La structure exacte de la fondation sera négociée directement avec les représentants des plaignants, leurs avocats et les représentants du Canada. L’entente de principe prévoit aussi le versement d’indemnités individuelles. * Cette entente ne comprend pas les enfants métis qui ont été retirés de leur foyer et placés en famille d’accueil; la décision à leur sujet n’a pas encore été prise.</p>",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
@@ -2201,10 +2201,10 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":3,
 			"title": (Utils.lang === "en")?
-				"National Inquiry into Missing and Murdered Indigenous Women and Girls Interim Report":
+				"National Inquiry into Missing and Murdered Indigenous Women and Girls&nbsp;&ndash;&nbsp;interim report":
 				"Le rapport provisoire de l’enquête nationale sur les femmes et les filles autochtones disparues et assassinées",
 			"content": (Utils.lang === "en")?	
-				"<p>The commissioners of the National Inquiry into Missing and Murdered Indigenous Women and Girls (<abbr>MMIWG</abbr>) released a 118-page interim >report</a> on November 1, 2017, entitled Our Women and Girls are Sacred. The report outlines what the National Inquiry-<abbr>MMIWG</abbr> has accomplished to date, acknowledges challenges in establishing a unique and unprecedented national inquiry of this nature, and makes some recommendations for immediate support to assist families that wish to participate in the process, including a call to extend the timelines. </p><p><a href='#' class='external' data-ext='ext-wb-56'>National Inquiry into Missing and Murdered Indigenous Women and Girls Interim Report</a></p>":
+				"<p>On November 1, 2017, the commissioners of the National Inquiry into Missing and Murdered Indigenous Women and Girls released a 120-page <a href=\"#\" class=\"external\" data-ext=\"ext-wb-133\">interim report</a>, entitled Our Women and Girls Are Sacred. The report outlined what the National Inquiry had accomplished to that date, and acknowledged challenges in establishing a unique and unprecedented national inquiry of this nature. It also made some recommendations for immediate support to assist families wishing to participate in the process, including an extension of the timelines.</p>":
 				"<p>Le 1er novembre 2017, les commissaires de l’enquête nationale sur les femmes et les filles autochtones disparues et assassinées publient un rapport provisoire de 120 pages intitulé Nos femmes et nos filles sont sacrées. Le rapport fait état de ce qui a été accompli dans le cadre de l’enquête et de la difficulté d’établir une telle enquête nationale, unique en son genre et sans précédent. Les auteurs font aussi des recommandations afin d’apporter une aide immédiate aux familles qui souhaitent prendre part au processus, y compris un appel pour prolonger les délais.</p><p><a href='#' class='external' data-ext='ext-wb-56'>Rapport provisoire de l’enquête nationale sur les femmes et les filles autochtones disparues et assassinées</a></p>",
 			"imagesrc":"121-2017",
 			"imagealt": (Utils.lang === "en")?
@@ -2219,12 +2219,40 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":3,
 			"title": (Utils.lang === "en")?
-				"Apology to Residential School Survivors of Newfoundland and Labrador":
+				"Apology to Residential School survivors of Newfoundland and Labrador":
 				"La présentation d’excuses aux survivants des pensionnats indiens de Terre-Neuve-et-Labrador",
 			"content": (Utils.lang === "en")?	
-				"<p>Prime Minister Justin Trudeau delivered an apology on November 24, 2017, to former students of Newfoundland and Labrador residential schools and their families in Happy Valley-Goose Bay. The 2008 apology to residential school survivors given by then-Prime Minister Stephen Harper excluded students from provincially-run residential schools in Newfoundland and Labrador. </p>":
+				"<p>On November 24, 2017, Prime Minister Justin Trudeau apologized to former students of Newfoundland and Labrador Residential Schools and their families in Happy Valley - Goose Bay. In 2008, Stephen Harper, who was then Prime Minister, delivered an apology to Residential School survivors, but it excluded students from provincially run Residential Schools in Newfoundland and Labrador.</p>":
 				"<p>Le 24 novembre 2017, à Happy Valley-Goose Bay, le premier ministre Justin Trudeau présente des excuses aux anciens élèves des pensionnats indiens de Terre Neuve et Labrador et à leur famille. L’ancien premier ministre Stephen Harper avait déjà présenté des excuses aux survivants des pensionnats indiens en 2008, mais il avait exclu les élèves des pensionnats administrés par la province de Terre-Neuve-et-Labrador.</p>",
 			/*"imagesrc":"122-2017",*/
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"2017",
+			"anchor":false,
+			"period":3,
+			"title": (Utils.lang === "en")?
+				"First Indigenous leader of a provincial political party":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>In September 2017, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-134\">Wabanakwut (Wab) Kinew</a> was named leader of the Manitoba New Democratic Party. Before entering politics, he was a hip hop artist, broadcaster, university administrator and author. An Ojibwa activist and public intellectual, Wab Kinew began his career as a musician and rapper with the hip hop group Dead Indians. He gained national attention through his radio and television journalism for the CBC, including <em>8th Fire</em>, a television series on Indigenous issues. Kinew’s 2015 memoir, <em.The Reason You Walk</em>, was a national bestseller and finalist for the RBC Taylor Prize. Kinew was elected to the Manitoba legislature in 2016.</p>":
+				"<p></p>",
+
+			"wrap": false,
+			"fr": (Utils.lang === "en")? false: true
+		},
+        {
+			"date":"2019",
+			"anchor":false,
+			"period":3,
+			"title": (Utils.lang === "en")?
+				"National Inquiry into Missing and Murdered Indigenous Women and Girls—final report":
+				"",
+			"content": (Utils.lang === "en")?
+				"<p>On June 3, 2019, the commissioners of the National Inquiry into Missing and Murdered Indigenous Women and Girls released their <a href=\"#\" class=\"external\" data-ext=\"ext-wb-125\">final report</a>, entitled <em>Reclaiming Power and Place</em>. The report documented the stories of 2,380 family members, survivors of violence, experts and knowledge keepers, which were shared during two years of cross-country public hearings and evidence gathering. It also presented 231 distinct calls to justice, for the attention of governments, institutions, social services providers, industry and all Canadians. In particular, the report called for a national action plan with Indigenous people at the table to address violence against Indigenous women, girls and people of all gender orientations. </p>":
+				"<p></p>",
+
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		}
