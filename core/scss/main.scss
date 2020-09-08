@@ -1,9 +1,12 @@
 @charset 'utf-8';
 
 //import whatever settings file theme there is
-@import "_settings";
+@import "../../common/scss/settings/_settings";
+@import "../../theme/scss/_settings";
+
 //import whatever vars file theme there is
-@import "_vars";
+@import "layout/_vars";
+@import "../../theme/scss/_vars";
 
 @import "../../common/scss/utils/_utils";
 
