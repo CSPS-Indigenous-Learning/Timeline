@@ -1651,4 +1651,8 @@ body.wb-modal > footer, body.wb-modal summary {
   position: absolute !important;
 }
 
+nav .backnext {
+  display: none;
+}
+
 /*# sourceMappingURL=theme.css.map */
