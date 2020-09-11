@@ -1251,7 +1251,6 @@ html[lang=fr] #navAnchors {
   font-size: 4.25em;
   margin-bottom: 0;
   line-height: 0.75em;
-  margin-left: -10px;
 }
 .overlay-def.it-map-popup .modal-body h2, .overlay-def.it-event-popup .modal-body h2 {
   font-size: 2.5em;

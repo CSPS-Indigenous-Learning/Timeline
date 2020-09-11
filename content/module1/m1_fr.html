@@ -71,4 +71,26 @@
 		}
 	}
 
+    $('.lbx').magnificPopup({
+        removalDelay: 500,
+        callbacks: {
+            beforeOpen: function() {
+               this.st.mainClass = this.st.el.attr('data-effect');
+            }
+        },
+        midClick: true
+    });
+
+    $(window).on('timeline:eventsLoaded', function(){
+        $(".it-events ul li.it-event a.external").each(function(){
+            $(this).replaceWith($(this).html());
+        });
+
+        $(".it-event-popup .it-event-popup-detail h1").each(function(){
+            if($(this).html().charAt(0) == "1"){
+                $(this).css({marginLeft: "-10px"});
+            }
+        });
+    });
+
 </script>
