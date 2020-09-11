@@ -7,6 +7,8 @@ define(function() {
         //base url to lookup files
         baseUrl: 'core/js',
 
+		//add timestamp to force no-cache
+		urlArgs: "bust=" + (new Date()).getTime(),
         //To get timely, correct error triggers in IE, force a define/shim exports
         enforceDefine: true,
 
@@ -23,7 +25,9 @@ define(function() {
             },
             history: {
                 exports: 'History'
-            }
+            },
+            "../../../../js/plugins/ckeditor/ckeditor": { "exports": "CKEDITOR" },
+			// "plugins/nestable/jquery.nestable": { "exports": "NESTABLE" }
         },
         //shorten path for easier usage
         paths: {

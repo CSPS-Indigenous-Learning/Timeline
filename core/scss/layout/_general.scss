@@ -24,7 +24,7 @@
 	top: 0;
 	left: 0;
 	z-index: 9999;
-	background-image: url('../../theme/base/spinner.svg');
+	background-image: url('base/spinner.svg');
 	background-repeat: no-repeat;
 	background-size: 60px;
 	background-position: center;
@@ -44,5 +44,5 @@ main {
 //IE doesn't support SVG animation straight up, without adding JS.
 //Simple gif will do.
 .ie10 .spinner, .ie11 .spinner {
-	background-image: url('../../theme/base/spinner.gif') !important;
+	background-image: url('base/spinner.gif') !important;
 }

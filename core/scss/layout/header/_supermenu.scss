@@ -91,7 +91,7 @@
 			&.home {
 			  margin-left: 15px;
 			  min-width: 30px;
-			  background: url(../../theme/base/smallhome.png) no-repeat 0px -5px;
+			  background: url(base/smallhome.png) no-repeat 0px -5px;
 			  height: 25px;
 			  padding-right: 5px !important;
 			  border-right: 1px solid;
@@ -180,6 +180,10 @@ ul.mb-sm > li > a {
 		}
 		&.viewed:before{
 			content:'\e013';
+		}
+		&.locked:before{
+			content:'\e033';
+			
 		}
 		
 	}

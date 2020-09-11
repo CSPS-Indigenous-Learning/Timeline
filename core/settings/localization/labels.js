@@ -82,8 +82,8 @@ define(['utils'], function (Utils) {
 					"Sitemap":
 					"Plan de site",
 			"togglefav": (Utils.lang === "en")?
-				"Add/remove from favorites":
-				"Ajouter/enlever des favorits",
+				"Add/remove from favourites":
+				"Ajouter/enlever des favoris",
 			"toolboxInstr": (Utils.lang === "en")?
 				"Press down to open":
 				"Appuyez sur la flèche vers le bas pour ouvrir",

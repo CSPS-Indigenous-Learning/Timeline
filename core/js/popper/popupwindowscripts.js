@@ -5,7 +5,7 @@ define(['settings-core', 'labels'], function(CoreSettings, labels) {
 	
 	//used only for launch page button
 	function launchPop(target) {
-			if (popup !== undefined) {
+		if (popup !== undefined) {
 			try {
 				if (popup.parent) {
 					popup.parent.focus();

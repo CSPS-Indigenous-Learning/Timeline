@@ -25,7 +25,7 @@ ul.mod-list > li.mod-progress {
 .progress-bar { background-color: $progressBar-color; }
 //IE10 fix
 //CSPS-KR: IE10, IE11 interpretes backwards the progressbar colors
-.ie10 .progress-bar, .ie11 .progress-bar { color: $progressBar-color; background: url(../../theme/base/progressbarbg.png); }
+.ie10 .progress-bar, .ie11 .progress-bar { color: $progressBar-color; background: url(base/progressbarbg.png); }
 
 progress {
   /* Turns off styling - not usually needed, but good to know. */
@@ -68,7 +68,7 @@ progress {
     background: $progressBar-color;
   }
   &[value]::-webkit-progress-bar {
-    background: url('../../theme/base/progressbarbg.png');
+    background: url('base/progressbarbg.png');
   }
   &[aria-valuenow]:before {
     background: $progressBar-color;

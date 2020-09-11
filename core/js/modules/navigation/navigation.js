@@ -78,17 +78,17 @@ define([
 								  : CoreSettings.enableLockingSystem
 								  ? this.lockingSystem.isLockedIn(currentSub.aPosition)
 								  : null;
-			//make sure we are not at the last page
-			if (nextObj) {
-				isLocked = CoreSettings.enableLockingSystem ? this.lockingSystem.isLocked(nextObj.aPosition) : null;
-				locked = isLocked || isLockedIn;
-				$(".next").toggleClass("disabled", locked);
-			}
-			//make sure we are not at the first page
-			if (prevObj) {
-				isLocked = CoreSettings.enableLockingSystem ? this.lockingSystem.isLocked(prevObj.aPosition) : null;
-				locked = isLocked || isLockedIn;
-				$(".back").toggleClass("disabled", locked);
+			if (CoreSettings.enableLockingSystem){
+				if (nextObj) {
+					isLocked = CoreSettings.enableLockingSystem ? this.lockingSystem.isLocked(nextObj.aPosition) : null;
+					locked = isLocked || isLockedIn;
+					$(".next").toggleClass("disabled", locked);
+				}
+				if (prevObj) {
+					isLocked = CoreSettings.enableLockingSystem ? this.lockingSystem.isLocked(prevObj.aPosition) : null;
+					locked = isLocked || isLockedIn;
+					$(".back").toggleClass("disabled", locked);
+				}
 			}
 		},
 
@@ -157,7 +157,11 @@ define([
 
 			_.each(_.keys(settingsButtonsMap), function(key, index) {
 				if (!CoreSettings[key]) {
-					$topMenu.find(settingsButtonsMap[key]).parent().remove();
+					if(CoreSettings.editMode){
+						$topMenu.find(settingsButtonsMap[key]).parent().hide();
+					}else{
+						$topMenu.find(settingsButtonsMap[key]).parent().remove();
+					}
 				} else {
 					$topMenu.find(settingsButtonsMap[key]).removeClass("hide");
 				}

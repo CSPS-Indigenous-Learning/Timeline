@@ -1313,3 +1313,8 @@ body.wb-modal > footer, body.wb-modal summary {
     background-size: 70%;
 	border-radius: 50%;
 }
+
+/*---------------- BLord - 2020-09-11 - Fixes for update to Snap! --------------*/
+#navAnchors-overlay header{
+    position: absolute!important;
+}

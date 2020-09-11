@@ -29,7 +29,7 @@ div.collapsible-box {
     bottom: 0px;
     height: 60px;
     text-align: center;
-    background: url(../../theme/base/collapsible-fade.png) repeat-x;
+    background: url(base/collapsible-fade.png) repeat-x;
     margin: 0;
     > span {
       position: absolute;
@@ -43,7 +43,7 @@ div.collapsible-box {
       a {
         width: 36px;
         height: 36px;
-        background: url(../../theme/base/collapsible-handle.png) no-repeat;
+        background: url(base/collapsible-handle.png) no-repeat;
         display: block;
         text-decoration: none;
         &:hover,&:focus {
