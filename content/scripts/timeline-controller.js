@@ -107,7 +107,7 @@ define([
     },
     eventsLoaded:function(){      
       var that = this;
-      //masterStructure.resources.scan();
+      masterStructure.resourcesManager.scan();
       window[ "wb-filter" ] = {
 
 		/*
