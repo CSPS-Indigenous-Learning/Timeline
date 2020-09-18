@@ -41,7 +41,7 @@ define([
 			link.setAttribute("aria-aspopup", "true"); 
 			link.setAttribute("data-ext", this.id); 
 			link.setAttribute("class", "external"); 
-			link.textContent=$el.text();
+			link.innerHTML=$el.html();
 			this.replaceInstance($el,link);
 			return false;
 		},

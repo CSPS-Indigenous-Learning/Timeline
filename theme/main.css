@@ -120,6 +120,7 @@ a.external::after {
   color: transparent;
   display: inline-block;
   margin-left: 3px;
+  text-indent: 1000px;
 }
 html[lang=fr] a.external::after {
   content: "(Ce contenu ouvrira dans une nouvelle fenêtre)";
