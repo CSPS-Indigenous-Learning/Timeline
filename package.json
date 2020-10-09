@@ -5,7 +5,8 @@
   "main": "main.js",
   "scripts": {
     "build-css": "sass --update core/scss/:theme/ theme/scss:theme/ common/scss/",
-	"watch-css": "sass --watch core/scss/:theme/ theme/scss:theme/ common/scss/"
+	"watch-css": "sass --watch core/scss/:theme/ theme/scss:theme/ common/scss/",
+    "package": "tar --exclude=*.zip -acf IL-timeline_%date%_en.zip * && powershell -Command \"(gc imsmanifest.xml) -replace '_en', '_fr' | Out-File -encoding ASCII imsmanifest.xml\" && tar --exclude=*.zip -acf IL-timeline_%date%_fr.zip * && echo packages created!"
   },
   "author": "CSPS",
   "license": "ISC",
