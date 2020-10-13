@@ -74,6 +74,10 @@ define(['utils'], function (Utils) {
 			"region St-Lauwence River - New Brunswick/Quebec":
 			"la région du Fleuve Saint-Laurent - Nouveau Brunswick/Québec",
 			"mapFR":true,
+            "imagesrc":"5-1534",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -218,6 +222,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?
 				"<p>The growth of the fur trade required close relations between the First Nations who were trapping the furs and the European traders who wished to acquire them. These interactions led to personal relationships and the birth of children with shared European and First Nations ancestry. European authorities and trading companies tried to discourage the relationships, but they continued to be formed and children continued to be born.</p><p>Over time, people who did not identify as European or First Nations joined together to form communities of their own, and the Métis came into being. The Métis possess a distinct socio-cultural identity and heritage, and a sense of self-identification. Numerous well-known towns and cities were originally settled by Métis, including Detroit, Sault Ste. Marie and Chicago.</p>":
 				"<p>La croissance du commerce de la fourrure nécessitait des relations étroites entre les Premières Nations qui trappaient les fourrures et les commerçants européens qui voulaient les acquérir. Ces interactions ont mené à la naissance d’enfants ayant une ascendance européenne et autochtone. Malgré les efforts des autorités européennes et des compagnies de traite de limiter ces relations, des enfants ont continué à naître.</p><p>Au fil du temps, les gens qui ne s’identifiaient totalement aux Européens ni aux Premières Nations se sont unis pour créer leurs propres communautés, les Métis étaient nés. Les Métis possèdent une identité socioculturelle distincte, un patrimoine et une volonté d’auto-identification. De nombreuses villes et villages bien connus ont d’abord été fondés par des Métis, incluant Detroit, Sault-Sainte-Marie et Chicago.</p>",
+            "imagesrc":"12-1670",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -294,7 +302,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The Indian Department was established to oversee the relationship between the British colonies and Indigenous Peoples. The British were desperate for military assistance; they wanted to strengthen alliances with the Iroquois Confederacy. To do that, they needed to calm their allies’ fears of fraud and abuses on the part of colonists against First Nations people and their lands along the frontier.</p>":
 				"<p>Le ministère des Indiens est mis en place pour superviser les relations entre les nations britanniques et autochtones. En guerre constante avec la France pour la domination de l’Amérique du Nord, les Britanniques ont désespérément besoin d’une aide militaire; ils doivent renforcer leurs alliances avec la Confédération iroquoise et calmer les craintes de fraude coloniale et d’abus contre les Premières Nations et les terres coloniales limitrophes des terres autochtones.</p>",
-			"wrap": false,
+		  	"imagesrc":"18-1755",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
         {
@@ -536,6 +548,10 @@ define(['utils'], function (Utils) {
 			"Vancouver Island":
 			"l'Île de Vancouver",
 			"mapFR":true,
+            "imagesrc":"33-1850",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -932,6 +948,10 @@ define(['utils'], function (Utils) {
 			"Williams Treaties - Ontario, region between Georgian Bay, Ottawa River, Lake Simcoe and the lands west of Bay or Quinte":
 			"Traités Williams - Ontario, région entre Baie Georgienne, Rivière des Outaouais, Lac Simcoe et les terres à l'Ouest de Bay or Quinte",
 			"mapFR":true,
+            "imagesrc":"46-1923",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -962,7 +982,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The <em>Indian Act</em> was amended, preventing anyone from soliciting funds to represent First Nations. This effectively prevented Indigenous Peoples from initiating legal action and finding representation for many decades.</p>":
 				"<p>Ces modifications empêchent toute personne de solliciter des fonds pour représenter les Premières Nations. Pendant plusieurs décennies, ces modifications empêchent les Premières Nations d’engager des poursuites judiciaires et de faire appel à un avocat.</p>",
-			"wrap": false,
+			"imagesrc":"48-1927",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -994,6 +1018,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>At least 3,000 Status (Treaty) Indians&ThinSpace;&ndash;&ThinSpace;including 72 women&ThinSpace;&ndash;&ThinSpace;enlisted in the Canadian Forces during the Second World War, as well as an unknown number of Inuit, Métis and other First Nations. The actual numbers were no doubt much higher. At least 17 decorations for bravery in action were earned. Just as in the First World War, many veterans returned to find that they had lost their Indian status and were denied the benefits provided to other Canadian veterans. The war also brought further incursions into the Arctic, as military posts were established along the Eastern Arctic to facilitate flying routes from North America to Europe. Military posts were built in northern Quebec at Fort Chimo, and on Baffin Island at Frobisher Bay (present-day Iqaluit).</p>":
 				"<p>Au moins 3&ThinSpace;000 Indiens inscrits (visés par un traité), dont 72 femmes, ainsi que des Inuits, des Métis et des membres d’autres Premières Nations dont le nombre reste inconnu, se sont enrôlés dans les Forces canadiennes pendant la Seconde Guerre mondiale. Leur nombre était sans doute beaucoup plus élevé. Au moins 17 d’entre eux ont reçu des médailles pour des actes de bravoure au combat. Tout comme après la Première Guerre mondiale, de nombreux anciens combattants des Premières Nations découvrent en rentrant chez eux qu’ils ont perdu leur statut d’Indien, qu’ils n’ont plus le droit de vivre dans une réserve et qu’on leur refuse les avantages dont bénéficieront les autres combattants canadiens. La guerre entraîne également d’autres incursions en Arctique, lorsque les Alliés établissent des postes militaires sur l’est de l’Arctique pour ouvrir des liaisons aériennes entre l’Amérique du Nord et l’Europe. Les postes militaires sont construits dans le Nord-du-Québec, à Fort Chimo, et sur l’île de Baffin, à Frobisher Bay (actuellement Iqaluit).</p>",
+            "imagesrc":"50-1939",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1201,6 +1229,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>A series of court decisions, most notably the <em>Calder</em> decision along with <em>Malouf</em> and <em>Paulette</em>, recognized ongoing and existing Aboriginal rights in many parts of Canada. This led to the establishment of the Government of Canada’s Comprehensive Claims Policy, the beginning of modern treaty negotiations over new land settlements, and eventually the signing of self-government agreements. From 1973 to 2020, Canada and its negotiating partners have signed 26 comprehensive land claims and 4 self-government agreements. Of the 26 signed agreements, 18 included provisions related to self-government. The settlements have provided the following:</p><ul><li>Aboriginal ownership over 600,000 square kilometres of land (almost the size of Manitoba)</li><li>capital transfers of over $3.2 billion</li><li>protection of traditional ways of life</li><li>access to resource development opportunities</li><li>participation in land and resource management decisions</li><li>certainty with respect to Aboriginal land rights in approximately 40 percent of Canada’s land mass</li><li>associated self-government rights and political recognition</li></ul>":
 				"<p>Une série de décisions judiciaires, notamment la décision <em>Calder</em>, ainsi que les décisions <em>Malouf</em> et <em>Paulette</em>, reconnaissent les droits existants et ancestraux des Autochtones dans de nombreuses régions du Canada. Le gouvernement du Canada a par la suite adopté sa Politique sur les revendications territoriales globales et entamé des négociations sur les traités modernes relativement aux nouvelles revendications territoriales, qui comportera plus tard des ententes sur l’autonomie gouvernementale. Depuis 1973, le Canada et ses partenaires ont conclu 26 accords de règlement des revendications territoriales globales et quatre accords d’autonomie gouvernementale. De ces 26 accords de règlement, 18 contiennent des dispositions sur l’autonomie gouvernementale. Ces accords contiennent les éléments suivants&nbsp;:</p><ul><li>des droits de propriété aux Autochtones sur plus de 600&nbsp;000 kilomètres carrés de territoire (presque la superficie du Manitoba);</li><li>des transferts de capitaux de plus de 3,2 milliards de dollars;</li><li>la protection des modes de vie traditionnels;</li><li>l’accès aux possibilités d’exploitation des ressources;</li><li>la participation aux décisions sur la gestion des terres et des ressources;</li><li>des certitudes concernant les droits fonciers des Autochtones sur environ 40&ThinSpace;% de la masse terrestre du Canada;</li><li>des droits connexes en matière d’autonomie gouvernementale et une reconnaissance politique.</li></ul>",
+            "imagesrc":"63-1973",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+			"imgFR":true,
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1278,6 +1311,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The Government of Canada introduced a program to provide funding for the creation of Indigenous radio and television content in the Territories and the northern regions of seven provinces. This move followed decades of limited or no broadcasting services in Northern and remote communities, as well as the recent introduction of satellite technology that enabled wider distribution of signals. The program helped spawn the creation of Television Northern Canada in 1992, followed by a national service, the Aboriginal Peoples Television Network, which began broadcasting in 1999.</p>":
 				"<p>Le gouvernement du Canada établit un programme visant à fournir un soutien financier en vue de créer du contenu radiophonique et télévisuel dans les territoires et régions du nord du Canada (dans les collectivités nordiques des provinces et des territoires). Cette démarche fait suite à des décennies d’absence de services de diffusion ou à des services limités dans les collectivités nordiques et éloignées, et à la mise en place récente de satellites permettant une meilleure diffusion des signaux. L’existence du programme pavera la voie pour Television Northern Canada en 1991. Puis, le Réseau national de télévision des peuples autochtones entrera en ondes en 1999.</p>",
+            "imagesrc":"68-1983",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1322,6 +1359,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>Bill C-31 was drafted in response to the 1981 decision of the United Nations Human Rights Commission in the case of Sandra Lovelace Nicholas. The intent of the bill was to bring the <em>Indian Act</em> into line with the <em>Canadian Charter of Rights and Freedoms</em>. The bill amended the <em>Indian Act</em>, restoring Indian status to First Nations women who had lost it due to marriage to someone other than another Status Indian. It also granted Indian status to the children of those women. Since 1985, more than 174,500 people have either been reinstated or gained Indian status.</p>":
 				"<p>Le projet de loi C-31 est rédigé pour donner suite à la décision de la Commission des droits de l’homme des Nations Unies dans l’affaire <em>Sandra Lovelace Nicholas</em> (1981). Ce projet de loi visait à harmoniser la <em>Loi sur les Indiens</em> à la <em>Charte canadienne des droits et libertés</em>. Il est présenté afin de modifier la <em>Loi sur les Indiens</em> pour rendre le statut d’Indien aux femmes qui l’avaient perdu en raison d’un mariage à une personne n’ayant pas le statut d’Indien ou à un homme non autochtone, ainsi que pour accorder ce statut à leurs enfants. Depuis 1985, plus de 174&nbsp;500 personnes ont vu leur statut rétabli ou ont obtenu le statut d’Indien.</p>",
+            "imagesrc":"71-1985",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "imgFR":true,
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1340,6 +1382,10 @@ define(['utils'], function (Utils) {
 			"New Brunswick and Nova Scotia":
 			"le Nouveau-Brunswick la Nouvelle-Écosse",
 			"mapFR":true,
+            "imagesrc":"72-1985",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1447,6 +1493,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The <em>Constitution Act, 1982</em> did not settle all matters concerning Canadian Confederation, particularly for Quebec; and questions also remained about the rights of Indigenous Peoples. Talks between the different levels of government continued into the 1990s. Indigenous leaders carried on their fight to be included in the talks and to clarify Indigenous rights, specifically in regard to the exercise of self-government.</p><p>Two major opportunities for change presented themselves: the 1987 Meech Lake Accord and then the 1992 Charlottetown Accord. The exclusion of Indigenous Peoples from the Meech Lake Accord discussions produced strong protests and ultimately contributed to the Accord’s defeat. This happened when the Manitoba Legislative Assembly failed to meet the deadline for ratification because of a filibuster by one of its members: Elijah Harper, a First Nations politician. Indigenous Peoples’ concerns received greater attention in the Charlottetown Accord, which addressed self-government as well as Indigenous representation in Parliament. However, Canadians rejected the Accord in a national referendum in 1992.</p>":
 				"<p>La <em>Loi constitutionnelle de 1982</em> était loin de régler les questions constitutionnelles canadiennes, particulièrement au Québec. Des questions subsistaient également relativement à la clarté des droits des peuples autochtones. Les pourparlers entre les ordres de gouvernement se sont poursuivis jusqu’aux années 1990 et les chefs autochtones continuaient de se battre pour pouvoir y participer et pour que leurs droits soient clarifiés, particulièrement à l’égard du droit à l’autonomie gouvernementale.</p><p>Deux importantes occasions d’effectuer des changements se présentent&nbsp;: la première, lors de l’Accord du lac Meech (1987) et la deuxième lors de l’Accord de Charlottetown (1992). L’exclusion des peuples autochtones des discussions de l’Accord du lac Meech se traduit par une forte opposition qui contribue au rejet de l’Accord. En effet, les autorités législatives du Manitoba n’ont pas réussi à ratifier l’Accord avant la date limite, car le député autochtone du Manitoba Elijah Harper fait obstruction dans le but d’empêcher la tenue du vote. L’Accord de Charlottetown accorde plus d’attention aux préoccupations des peuples autochtones, puisqu’il aborde la question du droit à l’autonomie gouvernementale et de la représentation des Autochtones au Parlement. L’Accord est toutefois rejeté en 1992 lors d’un référendum national.</p>",
+            "imagesrc":"79-1990",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1477,6 +1527,10 @@ define(['utils'], function (Utils) {
 			"mapAlt": (Utils.lang === "en")?
 			"Nunavut":
 			"le Nunavut",
+            "imagesrc":"81-1993",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1512,6 +1566,10 @@ define(['utils'], function (Utils) {
 			"Punnichy, Saskatchewan":
 			"Punnichy, en Saskatchewan",
 			"mapFR":true,
+            "imagesrc":"83-1995",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1538,6 +1596,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>In 1991, the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-110\">Royal Commission on Aboriginal Peoples</a> was established. The four Aboriginal and three non-Aboriginal commissioners were mandated to investigate and report back to the Government of Canada on one overriding question: What are the foundations of a fair and honourable relationship between the Aboriginal and non-Aboriginal people of Canada? The Commission held 178 days of public hearings, visited 96 communities, consulted dozens of experts, commissioned scores of research studies, and reviewed numerous past inquiries and reports. In 1996, Indian and Northern Affairs Canada published their report. The five-volume report provided the most in-depth look at Indigenous–Canada relations, past and present, ever produced. Its 440 recommendations called for sweeping changes in the relationship, many of which remain pertinent today.</p>":
 				"<p>En 1991, la Commission royale sur les peuples autochtones</a> est créée. Quatre Autochtones et trois allochtones ont été chargés d’enquêter et de remettre au gouvernement du Canada leur rapport sur une question primordiale&nbsp;: quels sont les fondements d’une relation équitable et honorable entre Autochtones et allochtones au Canada? La <a href=\"#\" class=\"external\" data-ext=\"ext-wb-110\">Commission</a> tiendra 178 jours d’audiences publiques, se rendra dans 96 collectivités, consultera des dizaines d’experts, commandera quantité d’études et examinera de nombreux rapports et enquêtes passés. En 1996, le ministère des Affaires autochtones et du Nord publie son rapport. Le rapport de cinq volumes offre l’examen le plus approfondi jamais effectué sur les relations passées et actuelles entre les Autochtones et le Canada. Les 440 recommandations formulées préconisent d’importants changements dans les relations, desquelles plusieurs sont encore pertinentes aujourd’hui à bien des égards.</p>",
+            "imagesrc":"85-1996",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1568,6 +1630,10 @@ define(['utils'], function (Utils) {
 			"mapAlt": (Utils.lang === "en")?
 			"Punnichy, Saskatchewan":
 			"Punnichy, en Saskatchewan",
+            "imagesrc":"87-1996",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1585,6 +1651,10 @@ define(['utils'], function (Utils) {
 			"mapAlt": (Utils.lang === "en")?
 			"Skeena-Buckley area in British Columbia":
 			"la région de Skeena-Buckley, en Colombie Britannique",
+            "imagesrc":"88-1997",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1638,6 +1708,10 @@ define(['utils'], function (Utils) {
 			"mapAlt": (Utils.lang === "en")?
 			"Antigonish, Nova Scotia":
 			"Antigonish, en Nouvelle-Écosse",
+            "imagesrc":"91-1999",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1704,6 +1778,10 @@ define(['utils'], function (Utils) {
 			"mapAlt": (Utils.lang === "en")?
 			"Sault Ste. Marie Ontario":
 			"Sault Ste. Marie, en Ontario",
+            "imagesrc":"95-2003",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1717,6 +1795,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>In November 2004, the Supreme Court of Canada released its decisions in <em>Haida Nation</em> and <em>Taku River Tlingit</em>, two important cases that dealt with Aboriginal consultation and accommodation obligations related to resource development. The two decisions provided greater clarity regarding the roles and responsibilities of government, Aboriginal groups and industry in consultations with and accommodation of Aboriginal communities. </p><p>The Court confirmed that the Crown has a duty to consult Aboriginal peoples prior to proof of rights or title claims, as well as a duty to accommodate their concerns. In <a href=\"#\" class=\"external\" data-ext=\"ext-wb-115\">guidelines for federal officials on the duty to consult</a>, Indigenous and Northern Affairs Canada stated, &ldquo;The primary goal of accommodation is to avoid, eliminate, or minimize the adverse impacts on potential or established Aboriginal or Treaty rights, and when this is not possible, to compensate the Aboriginal community for those adverse impacts. In some circumstances, appropriate accommodation may be a decision not to proceed with the proposed activity.&rdquo;</p><p>The Court also confirmed that the Honour of the Crown cannot be interpreted narrowly or technically, but must be given full effect in order to promote the process of reconciliation between the Crown and Aboriginal peoples, as mandated by section 35(1) of the <em>Constitution Act, 1982</em>.</p>":
 				"<p>En novembre 2004, la Cour suprême du Canada rend ses décisions concernant la nation haïda et la nation tlingit de <span lang=\"en\">Taku River</span>, deux affaires importantes portant sur les obligations de consulter et d’accommoder les Autochtones en ce qui a trait au développement des ressources. Les deux décisions énoncent clairement le rôle et les responsabilités du gouvernement, des groupes autochtones et de l’industrie en matière de consultation des communautés autochtones et d’accommodement des Autochtones. </p><p>La Cour confirme l’obligation de la Couronne de consulter les peuples autochtones avant que ne soit été tranchée une revendication de droits ou de titres, et de prendre des mesures d’adaptation à l’égard de leurs préoccupations. Dans les <a href=\"#\" class=\"external\" data-ext=\"ext-wb-115\">lignes directrices à l’intention des fonctionnaires fédéraux sur l’obligation de consulter</a>, Affaires autochtones et du Nord Canada énonce que «&ThinSpace;le principal objectif de l’accommodement est d’éviter, d’éliminer ou de minimiser les effets préjudiciables sur les droits ancestraux ou issus de traités, établis ou potentiels, et, lorsque ce n’est pas possible, d’indemniser la collectivité autochtone pour ces effets préjudiciables. Dans certains cas, l’accommodement approprié peut consister en une décision de ne pas poursuivre l’activité proposée.&ThinSpace;»</p><p>La Cour confirme aussi que le principe de l’honneur de la Couronne ne peut recevoir une interprétation étroite ou formaliste, mais qu’il faut lui donner plein effet afin de promouvoir le processus de conciliation prescrit par le paragraphe 35(1) de la <em>Loi constitutionnelle de 1982</em>.</p>",
+            "imagesrc":"96-2004",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1735,6 +1817,10 @@ define(['utils'], function (Utils) {
 			"Wood Buffalo National Park":
 			"le parc national de Wood Buffalo",
 			"mapFR":true,
+            "imagesrc":"97-2005",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1748,6 +1834,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The Kelowna Accord was the result of an 18-month consultative process involving the federal, provincial and territorial governments, as well as five national Aboriginal organizations. The Accord was a 10-year plan, including a five-year, $5-billion commitment aimed at significantly improving Aboriginal health, education, housing and infrastructure, economic opportunities, and accountability, as well as relationships between Aboriginal communities and the federal government. The Accord remains significant to many for its collaborative and consultative process, involving representatives of all Indigenous Peoples in Canada along with the provinces and territories. With a change in national government in 2006, the deal was never implemented.</p>":
 				"<p>L’Accord de Kelowna est le fruit d’un processus consultatif de 18 mois auquel ont pris part le gouvernement fédéral, les gouvernements provinciaux et territoriaux ainsi que cinq organisations autochtones nationales. L’Accord implique un plan sur dix ans, avec des investissements de cinq milliards de dollars sur une période de cinq ans, destiné à améliorer la santé, l’éducation, le logement et l’infrastructure, les possibilités économiques, la reddition de comptes des communautés autochtones, ainsi que leurs relations avec le gouvernement fédéral. Le dossier est important pour de nombreuses personnes en raison de son processus de collaboration et de consultation auquel ont pris part les représentants de tous les peuples autochtones du Canada ainsi que des provinces et des territoires. L’Accord n’est jamais adopté en raison du changement de gouvernement fédéral en 2006.</p>",
+            "imagesrc":"98-2005",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1774,7 +1864,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>Starting in the 1980s, former Residential School students began seeking legal redress for the abuses they had suffered while at Residential Schools. The largest class-action settlement in Canadian history to date, the Indian Residential Schools Settlement Agreement acknowledged the damage inflicted by Residential Schools and established a multi-billion-dollar fund to help former students in their recovery. The Agreement came into effect in September 2007. It has five main components:</p><ul><li>Common Experience Payment</li><li>Independent Assessment Process</li><li>Truth and Reconciliation Commission</li><li>Commemoration</li><li>Health and Healing Services</li></ul></p>":
 				"<p>Au début des années 1980, d’anciens élèves de pensionnats entreprennent un recours en justice pour les maltraitances subies lorsqu’ils étaient pensionnaires. La Convention de règlement relative aux pensionnats indiens, sans conteste le règlement de recours collectif le plus important dans l’histoire du Canada, reconnaît les torts infligés par les pensionnats et établit un fonds de plusieurs milliards de dollars afin d’aider les anciens élèves à guérir les blessures de leur enfance. Entrée en vigueur en septembre 2007, la Convention comporte cinq grands volets&nbsp;:</p><ul><li>le paiement d’expérience commune;</li><li>le processus d’évaluation indépendant;</li><li>la Commission de vérité et réconciliation;</li><li>la commémoration;</li><li>la création de la Fondation autochtone de guérison.</li><ul>",
-			"wrap": false,
+			"imagesrc":"100-2007",
+			"imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -1787,7 +1881,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>In a solemn ceremony in Parliament, Prime Minister Stephen Harper offered an <a href=\"#\" class=\"external\" data-ext=\"ext-wb-116\">official statement of apology for the abuse and suffering of Residential School survivors</a>. Even more significant than the apology was the recognition that the schools’ primary objective was &ldquo;to kill the Indian in the child.&rdquo;</p><p>Mr. Harper declared, &ldquo;Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country.&rdquo;</p>":
 				"<p>Lors d’une cérémonie solennelle au Parlement, le premier ministre du Canada présente des <a href=\"#\" class=\"external\" data-ext=\"ext-wb-116\">excuses officielles pour les sévices et les souffrances infligés aux survivants des pensionnats indiens</a>. La reconnaissance que le premier objectif des pensionnats était de «&ThinSpace;tuer l’Indien dans l’enfant&ThinSpace;» est encore plus importante que les excuses.</p><p>«&ThinSpace;Aujourd’hui, nous reconnaissons que cette politique d’assimilation était erronée, qu’elle a fait beaucoup de mal et qu’elle n’a aucune place dans notre pays.&ThinSpace;», déclare M. Harper.</p>",
-			"wrap": false,
+			"imagesrc":"101-2008",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -1804,6 +1902,10 @@ define(['utils'], function (Utils) {
 			"mapAlt": (Utils.lang === "en")?
 			"Inukjuak, Nunavik":
 			"Inukjuak, au Nunavik",
+            "imagesrc":"102-2010",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1890,6 +1992,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The Supreme Court of Canada ruled in the <em>Manitoba Métis Federation</em> case that the original allotment of land for Métis children as promised in the 1870 <em>Manitoba Act</em> was performed improperly. The decision led to new discussions between Canada and the Manitoba Métis Federation about how to address outstanding land and rights issues in the province.</p>":
 				"<p>La Cour suprême du Canada détermine dans l’affaire Manitoba Metis Federation (Fédération métisse du Manitoba) que les terres promises aux enfants métis aux termes de la <em>Loi de 1870 sur le Manitoba</em> n’ont pas initialement été attribuées dans les règles. La décision conduit à de nouvelles discussions entre le Canada et la Fédération sur la façon de régler les revendications territoriales et les questions de droits non résolues dans la province.</p>",
+            "imagesrc":"108-2013",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1908,6 +2014,10 @@ define(['utils'], function (Utils) {
 			"Tsilhqot'in Nation, British Columbia":
 			"la Nation Tsilhqot'in, en Colombie Britannique",
 			"mapFR":true,
+            "imagesrc":"109-2014",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1963,7 +2073,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>For the first time in Canadian history, the mandate letters of federal government ministers were made public by the Prime Minister. In addition to specific commitments, every letter emphasized the government’s goal of a renewed &ldquo;nation-to-nation relationship with Indigenous Peoples, based on recognition of rights, respect, co-operation, and partnership.&rdquo;</p>":
 				"<p>Pour la première fois dans l’histoire du Canada, le premier ministre divulgue publiquement les lettres de mandat des ministres fédéraux. En plus de présenter les engagements des ministres, chaque lettre de mandat souligne l’objectif du gouvernement&nbsp;: «&ThinSpace;renouveler la situation de nation à nation avec les peuples autochtones pour qu’elle soit fondée sur la reconnaissance des droits, le respect, la collaboration et le partenariat&ThinSpace;».</p>",
-			"wrap": false,
+			"imagesrc":"111-2015",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		/*{
@@ -1987,7 +2101,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The Canadian Human Rights Tribunal ruled that the federal government had violated <a href=\"#\" class=\"external\" data-ext=\"ext-wb-122\">Jordan’s Principle</a> and discriminated against First Nations children on reserves by failing to provide the same level of child welfare services that existed elsewhere. The Tribunal’s decision stated that the government must &ldquo;cease the discriminatory practice and take measures to redress and prevent it.&rdquo; It called for the redesign of the child welfare system and its funding model, urging the use of experts to ensure that First Nations received &ldquo;culturally appropriate services.&rdquo;</p>":
 				"<p>Le Tribunal canadien des droits de la personne détermine que le gouvernement a violé le <a href=\"#\" class=\"external\" data-ext=\"ext-wb-122\">principe de Jordan</a> et défavorisé les enfants des Premières Nations qui vivent dans les réserves en ne leur offrant pas des services de protection de l’enfance d’un niveau similaire à celui offert ailleurs au Canada. La décision du Tribunal précise que le gouvernement doit «&ThinSpace;mettre fin à l’acte discriminatoire et prendre des mesures pour corriger la situation et pour empêcher qu’elle se reproduise&ThinSpace;». Elle exige que le système de protection de l’enfance ainsi que son modèle de financement soient repensés, et réclame le recours à des spécialistes pour s’assurer que les Premières Nations reçoivent des services adaptés à leur culture.</p>",
-			"wrap": false,
+			"imagesrc":"112-2016",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -2000,7 +2118,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>The Federal Court of Appeal overturned a permit for the Northern Gateway Pipeline project, finding that the Government of Canada failed in its duty to consult affected Indigenous communities prior to issuing approval.</p>":
 				"<p>La Cour d’appel fédérale annule un permis accordé dans le cadre du projet de pipeline <span lang=\"en\">Northern Gateway</span>, indiquant que le gouvernement du Canada n’a pas rempli son obligation de consulter les collectivités autochtones concernées avant de donner son approbation.</p>",
-			"wrap": false,
+			"imagesrc":"113-2016",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -2039,7 +2161,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>In 2015, the federal Minister of Indigenous and Northern Affairs appointed a Special Representative on Reconciliation with Métis. The following year, the Special Representative <a href=\"#\" class=\"external\" data-ext=\"ext-wb-123\">released a report calling on the federal government to address Métis rights</a>. The report made 17 recommendations to the government, including the following:</p><ul><li>creation of a framework for negotiating and addressing Métis rights </li><li>establishment of a Métis-specific claims process </li><li>a review of existing laws and policies dealing with Métis people</li> <li>provision of long-term, stable funding for some of the country’s largest Métis organizations</li></ul>":
 				"<p>En 2015, le ministre des Affaires autochtones et du Nord a nommé un représentant spécial sur la réconciliation avec les Métis. L’année suivante, le représentant spécial <a href=\"#\" class=\"external\" data-ext=\"ext-wb-123\">publie un rapport appelant le Canada à se pencher sur les droits des Métis</a>. Le rapport formule 17 recommandations au gouvernement, dont&nbsp;:</p><ul><li>la création d’un cadre pour la négociation et le règlement des droits des Métis;</li><li>la mise en place d’un processus de revendications destiné uniquement aux Métis;</li><li>un examen des lois et des politiques existantes qui concernent les Métis;</li><li>un financement stable et à long terme pour certaines des plus grandes organisations métisses du pays.</li></ul>",
-			"wrap": false,
+			"imagesrc":"116-2016",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -2088,7 +2214,12 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>In its August 2015 decision on <em>Descheneaux v. Canada</em>, the Quebec Superior Court held that several provisions of the <em>Indian Act</em> concerning who is considered a Status Indian violated the principles of equality protected by section 15 of the <em>Canadian Charter of Rights and Freedoms</em>. In particular, men and women could not transfer their Indian status equally to their children and grandchildren. On July 28, 2016, the Government of Canada responded to the decision by announcing a two-staged approach to address these inequities. Extensive consultations were held across the country and amendments to the <em>Indian Act</em> have been proposed. Final approval of the changes is still pending.</p>":
 				"<p>En août 2015, dans la décision <em>Descheneaux c. Canada</em>, la Cour supérieure du Québec soutient que plusieurs dispositions de la <em>Loi sur les Indiens</em> portant sur l’inscription au statut d’indien violent les droits à l’égalité conférés par l’article 15 de la <em>Charte canadienne des droits et libertés</em>. C’est particulièrement vrai pour ce qui est du traitement différentiel entre les lignées maternelles et paternelles en matière d’acquisition et de transmission du statut d’Indien, qui touche les cousins germains de la même famille et les frères et sœurs.</p><p>On met aussi en évidence une autre iniquité fondée sur le sexe entourant le statut d’indien. Elle concerne les enfants mineurs nés de parents membres d’une Première Nation ou d’une mère membre d’une Première Nation, mais dont le nom a été omis ou retranché du registre des Indiens parce que leur mère avait épousé un non-Indien après leur naissance, avant 1985.</p><p>Le 28 juillet 2016, le gouvernement canadien répond à la décision avec une approche en deux temps visant à éliminer les inégalités. Des consultations sont organisées partout au Canada et des modifications législatives à la <em>Loi sur les Indiens</em> sont proposées. Ces changements n’ont pas encore été approuvés.</p>",
-			"wrap": false,
+            "imagesrc":"119-2016",
+			"imagealt": (Utils.lang === "en")?
+			"":
+			"",
+			"imgFR":true,
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -2101,6 +2232,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>To better serve Indigenous Peoples in the important work of advancing self-government and greater self-determination, the federal government created permanent bilateral mechanisms with First Nations, Inuit and the Métis Nation, The purpose was to facilitate Crown-Indigenous cooperation on annual priority-setting and joint policy development. The 2017 and 2018 federal budgets provided for increased and ongoing support for the permanent bilateral mechanisms.</p><p>Individual agreements were reached by the Government of Canada with each of the three Indigenous groups, reflecting their specific priorities:</p><ul><li><a href=\"#\" class=\"external\" data-ext=\"ext-wb-127\">Inuit Nunangat Declaration on Inuit-Crown Partnership</a>, February 2017</li><li><a href=\"#\" class=\"external\" data-ext=\"ext-wb-128\">Canada–Métis Nation Accord</a>, June 2017</li><li><a href=\"#\" class=\"external\" data-ext=\"ext-wb-129\">Assembly of First Nations–Canada Memorandum of Understanding</a>, June 2017</li></ul>":
 				"<p>Afin de mieux servir les peuples autochtones qui se livrent à d’importants travaux visant à faire progresser l’autonomie gouvernementale et l’autodétermination, le gouvernement fédéral crée des mécanismes bilatéraux permanents avec les Premières Nations, les Inuits et les Métis. Ces mécanismes facilitent la collaboration entre la Couronne et les peuples autochtones sur l’établissement annuel des priorités et l’élaboration conjointe des politiques. Dans ses budgets fédéraux 2017 et 2018, le gouvernement accorde un soutien continu aux mécanismes bilatéraux permanents.</p><p>Chaque accord traduit les priorités communes établies par le gouvernement du Canada et par chacune des trois organisations autochtones.</p><ul><li><a href=\"#\" class=\"external\" data-ext=\"ext-wb-127\">Déclaration de l’Inuit Nunangat sur le partenariat entre les Inuits et la Couronne</a> - février 2017</li><li><a href=\"#\" class=\"external\" data-ext=\"ext-wb-128\">Accord Canada-Nation métisse - avril 2017</a></li><li>Assemblée des Premières Nations-Canada, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-129\">Protocole d’entente concernant les priorités communes</a> - juin 2017</li></ul>",
+            "imagesrc":"120-2017",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2132,7 +2267,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>On June 15, 2017, Carolyn Bennett, federal Minister of Indigenous and Northern Affairs, and Rebecca Kudloo, President of Pauktuutit Inuit Women of Canada, signed a memorandum of understanding to establish a whole-of-government relationship for the purpose of addressing issues of common concern that directly affect the well-being and safety of Inuit women and children across Canada.</p><p>Ms. Kudloo explained, &ldquo;We have had a long and important working relationship with Indigenous and Northern Affairs Canada. This agreement will give us both a solid foundation to move forward on our mutual priorities in the interests of reconciliation and the government’s commitment to the equality of all women in Canada that is inclusive of us as Inuit women and citizens of Canada.&rdquo;</p>":
 				"<p>Le 15 juin 2017, Carolyn Bennett, ministre des Affaires autochtones et du Nord, au nom du gouvernement du Canada, et Rebecca Kudloo, présidente de <span lang=\"en\">Pauktuutit Inuit Women of Canada</span>, signent un protocole d’entente visant l’établissement d’un partenariat pangouvernemental afin de s’attaquer à des questions d’intérêt commun qui touchent directement le bien-être et la sécurité des femmes et des enfants inuits partout au Canada.</p><p>«&ThinSpace;Nous entretenons depuis longtemps une importante relation de travail avec Affaires autochtones et du nord Canada, explique madame Kudloo. Cette entente donnera aux deux parties une assise solide sur laquelle se baser pour s’attaquer aux priorités communes, et ce, afin de promouvoir la réconciliation et l’engagement du gouvernement à l’égard de l’égalité pour toutes les femmes au Canada, dont les femmes inuites, en tant que citoyennes canadiennes.&ThinSpace;»</p>",
-			"wrap": false,
+			"imagesrc":"122-2017",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -2145,7 +2284,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>On June 21, 2017, the Prime Minister announced that a new space for Indigenous Peoples would be established at 100 Wellington Street in the National Capital Region, on the ancestral land of the Algonquin people. Creating a space for Indigenous Peoples directly across from Parliament Hill symbolizes a turning point in Canada’s relationship with Indigenous Peoples. This location will provide a concrete marker of the importance of Indigenous Peoples to this country’s past, present and future. The government will work in partnership with representatives of the Assembly of First Nations, Inuit Tapiriit Kanatami and the Métis National Council on next steps in the design and redevelopment of 100 Wellington.</p>":
 				"<p>Le 21 juin 2017, le premier ministre annonce qu’un nouvel espace consacré aux peuples autochtones sera établi au 100, rue Wellington, dans la Cité parlementaire, dans la région de la capitale nationale, sur les terres ancestrales des Algonquins. Créer un lieu pour les peuples autochtones en face de la Colline du Parlement symbolise un virage dans la relation qui existe entre le Canada et les peuples autochtones. Cet emplacement illustre concrètement le rôle important des peuples autochtones dans le passé, le présent et l’avenir de notre pays. Le gouvernement travaille en partenariat avec des représentants de l’Assemblée des Premières Nations, de l’Inuit Tapiriit Kanatami et du Ralliement national des Métis pour décider des prochaines étapes de la conception et du réaménagement du 100, rue Wellington.</p>",
-			/*"imagesrc":"116-2017",*/
+			"imagesrc":"123-2017",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2159,7 +2301,11 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>On June 15, 2017, Métis Nation President Clément Chartier, Assembly of First Nations National Chief Perry Bellegarde and Inuit Tapiriit Kanatami President Natan Obed joined with Heritage Minister Mélanie Joly and Indigenous Affairs Minister Carolyn Bennett to announce their intention to co-develop legislation aimed at revitalizing and promoting Indigenous languages.</p><p>&ldquo;Today marks another step in the right direction in building the nation-to-nation relationship between Canada and the Métis Nation, and demonstrates that this government is serious about its partnerships with Indigenous Peoples,&rdquo; said Mr. Chartier. &ldquo;Canada’s commitment to co-developing Indigenous language legislation in a concentrated and collaborative manner speaks to the commitment of the parties to get things done. I am looking forward to working with Minister Joly, National Chief Bellegarde, and President Obed in developing meaningful and effective Indigenous language legislation.&rdquo;</p><p>The <a href=\"#\" class=\"external\" data-ext=\"ext-wb-131\"><em>Indigenous Languages Act</em></a> received Royal Assent in 2019.</p>":
 				"<p>Le 15 juin 2017, Clément Chartier, président de la nation métisse, Perry Bellegarde, chef national de l’Assemblée des Premières Nations, et Natan Obed, président de l’Inuit Tapiriit Kanatami, se joignent à Mélanie Joly, ministre du Patrimoine canadien, et à Carolyn Bennett, ministre des Affaires autochtones et du Nord, pour annoncer leur intention de préparer en commun une loi visant à revitaliser les langues autochtones et à en faire la promotion.</p><p>«&ThinSpace;Nous faisons aujourd’hui un autre pas dans la bonne direction afin d’établir une relation de nation à nation entre le Canada et la nation métisse. Cela montre que le gouvernement prend au sérieux son partenariat avec les peuples autochtones, déclare M. Chartier. L’engagement du Canada dans la préparation en commun d’une loi sur les langues de manière concentrée et collaborative traduit la volonté des parties à faire avancer les choses. J’ai hâte de travailler avec la ministre Joly, le chef national Bellegarde et le président Obed pour élaborer une loi sur les langues autochtones qui sera utile et efficace.&ThinSpace;». La <a href=\"#\" class=\"external\" data-ext=\"ext-wb-131\"><em>Loi sur les langues autochtones</em></a> a reçu la sanction royale en 2019.</p>",
-			"wrap": false,
+			"imagesrc":"124-2017",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
+            "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -2172,7 +2318,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>On August 16, 2017, the Government of Canada and 23 Anishinabek First Nations signed a historic self-government agreement on education. Achieved after over 20 years of negotiations, the <a href=\"#\" class=\"external\" data-ext=\"ext-wb-132\">Anishinabek Nation Education Agreement</a> recognizes First Nations control over education from junior kindergarten to Grade 12, both on and off reserve. The Agreement is the first of its kind in Ontario and it is the largest education-related self-government agreement in Canada, reflecting the large number of First Nations involved. The Agreement supports the Anishinabek Nation’s vision of a high-quality Anishinabek Education System that promotes Anishinaabe culture and language, and improves education outcomes for Anishinabek students.</p>":
 				"<p>Le 16 août 2017, le gouvernement du Canada et 23 Premières Nations Anishinabeks signent une entente historique sur l’autonomie gouvernementale en matière d’éducation. Obtenue au terme de plus de 20 ans de négociations, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-132\">l’entente sur l’éducation de la nation Anishinabek</a> portant sur l’autonomie gouvernementale reconnaît aux Premières Nations le droit d’exercer leur plein pouvoir dans les salles de classe, de la maternelle au secondaire, tant sur les réserves qu’ailleurs. L’entente est la première de ce type en Ontario, et la plus importante entente sur l’autonomie gouvernementale en matière d’éducation jamais conclue au Canada compte tenu du nombre de Premières Nations concernées. Elle appuie la vision de la nation Anishinabek pour un système d’éducation de qualité qui fait la promotion de la culture et de la langue anishinabek et améliore les résultats éducatifs des élèves Anishinabeks.</p>",
-			/*"imagesrc":"118-2017",*/
+			"imagesrc":"125-2017",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2230,7 +2379,10 @@ define(['utils'], function (Utils) {
 			"content": (Utils.lang === "en")?	
 				"<p>On November 24, 2017, Prime Minister Justin Trudeau apologized to former students of Newfoundland and Labrador Residential Schools and their families in Happy Valley - Goose Bay. In 2008, Stephen Harper, who was then Prime Minister, delivered an apology to Residential School survivors, but it excluded students from provincially run Residential Schools in Newfoundland and Labrador.</p>":
 				"<p>Le 24 novembre 2017, à Happy Valley-Goose Bay, le premier ministre Justin Trudeau présente des excuses aux anciens élèves des pensionnats indiens de Terre-Neuve-et-Labrador et à leurs familles. En 2008, l’ancien premier ministre Stephen Harper avait déjà présenté des excuses aux survivants des pensionnats indiens, mais il avait exclu les élèves des pensionnats administrés par la province de Terre-Neuve-et-Labrador.</p>",
-			/*"imagesrc":"122-2017",*/
+			"imagesrc":"129-2017",
+            "imagealt": (Utils.lang === "en")?
+			"":
+			"",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
