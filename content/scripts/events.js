@@ -76,8 +76,8 @@ define(['utils'], function (Utils) {
 			"mapFR":true,
             "imagesrc":"5-1534",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Picture of Jacques Cartier":
+			"Image de Jacques Cartier",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -304,8 +304,8 @@ define(['utils'], function (Utils) {
 				"<p>Le ministère des Indiens est mis en place pour superviser les relations entre les nations britanniques et autochtones. En guerre constante avec la France pour la domination de l’Amérique du Nord, les Britanniques ont désespérément besoin d’une aide militaire; ils doivent renforcer leurs alliances avec la Confédération iroquoise et calmer les craintes de fraude coloniale et d’abus contre les Premières Nations et les terres coloniales limitrophes des terres autochtones.</p>",
 		  	"imagesrc":"18-1755",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Schematics for the building of the first indian department":
+			"Schéma pour le bâtiment du premier ministère de Indiens",
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -334,8 +334,8 @@ define(['utils'], function (Utils) {
 				"<p>La guerre Obwandiyag est la résistance la plus fructueuse des Premières Nations contre l’invasion européenne. À un certain moment, les forces d’Obwandiyag avaient le contrôle de neuf forts et a tenu le siège de Detroit pendant plusieurs mois. Bien qu’elle ne réussisse pas à évincer les Britanniques des territoires autochtones, elle impose à ces derniers le respect des droits des Autochtones. La portée des conséquences s’étend jusqu’à nos jours. L’origine de la guerre remonte au changement survenu dans les relations des Premières Nations avec les Blancs après la conquête de la Nouvelle-France par les Britanniques en 1763.</p><p>Les quelques missions et petits postes établis par les Français ont laissé peu de marques. Les Français ont appris les langues et les coutumes des Autochtones et se sont mariés avec eux, une attitude qui contraste fortement avec la condescendance hautaine du commandant en chef britannique, le général Jeffery Amherst. Ce dernier vend les terres autochtones de façon inconsidérée, écrase toute opposition et interdit la présentation de cadeaux, geste qui revêt une importance symbolique pour les Premières Nations.</p>",
 			"imagesrc":"20-1762",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Picture of Obwandiyag (Pontiac)":
+			"Image de Obwandiyag (Pontiac)",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -361,7 +361,7 @@ define(['utils'], function (Utils) {
 			"anchor":false,
 			"period":1,
 			"title": (Utils.lang === "en")?
-				"The first land surrender treaties—Mississauga and Upper Canada Treaties":
+				"The first land surrender treaties&ThinSpace;&ndash;&ThinSpace;Mississauga and Upper Canada Treaties":
 				"Les premiers traités de cession territoriale&ThinSpace;&ndash;&ThinSpace;les Mississaugas et le Haut-Canada",
 			"content": (Utils.lang === "en")?	
 				"<p>The first of the land surrender treaties was signed in 1764. When the Loyalists moved to what was then Quebec in the years after the American Revolution, the provisions of the Royal Proclamation were loosely applied in obtaining permission from the Mississauga peoples for the influx. The migration led to the division of Quebec into two jurisdictions: Lower Canada and Upper Canada. In some of the earliest agreements, it was understood that the Indian signatories would be allowed to continue to live, hunt and fish in the unsettled areas since the growth of settlement was slow. However, in the years following the War of 1812, settlement increased rapidly and the harvesting concerns of Indigenous groups were entered into the minutes of treaty negotiations.</p><p>Although the indigenous groups’ harvesting concerns were not reflected into future agreements until 1850, the courts have interpreted the minutes as part of the treaty and some of these first agreements now protect harvesting rights. By the mid-1830s, treaties covered most of the arable lands in Upper Canada. The treaties involved an initial distribution of goods and money, with promises of small annual payments. The idea that agreements should include the allocation of reserves developed only gradually.</p>":
@@ -404,8 +404,8 @@ define(['utils'], function (Utils) {
 				"<p>La guerre de 1812 est un conflit militaire qui oppose les États-Unis et la Grande-Bretagne. Près de 10&nbsp;000 guerriers des Premières Nations et soldats métis se battent aux côtés des troupes britanniques et de la milice canadienne contre l’invasion des forces américaines pendant la guerre de 1812.</p><p>Au Canada, cette guerre a contribué à accroître le sentiment d’identité nationale. Par contraste, les alliés autochtones des Britanniques et des Canadiens souffrent énormément en raison de cette guerre; ils perdent non seulement de nombreux guerriers, dont le grand Tecumseh, mais aussi l’espoir d’enrayer l’expansion américaine dans l’Ouest. D’ailleurs, leurs contributions sont rapidement reléguées aux oubliettes par leurs alliés britanniques et canadiens. Après la guerre de 1812, l’attitude des Britanniques à l’égard des Premières Nations commence à changer. Au lieu de les percevoir comme des alliés militaires de premier ordre, ils les perçoivent dorénavant comme des obstacles au développement de la colonie et les incitent à adopter le mode de vie agricole des Européens afin de les assimiler.</p>",
 			"imagesrc":"24-1812",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Studio portrait of the surviving Six Nations warriors who fought with the British in the War of 1812, Brantford, Ontario, July 1882":
+			"Portrait en studio des survivants des Six-Nations qui ont combattu aux côtés des Britanniques pendant la guerre de 1812, Brantford, en Ontario, juillet 1882",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -456,8 +456,8 @@ define(['utils'], function (Utils) {
 				"<p>Lors d’une expédition navale britannique dirigée par <a href=\"#\" class=\"external\" data-ext=\"ext-wb-79\">William Edward Parry</a>, la vie économique, sociale et religieuse des Inuits est décrite pour la première fois dans un compte rendu éclairé, favorable et bien documenté. Parry s’installe pendant plus de deux ans dans un endroit aujourd’hui appelé Igloolik.</p>",
 			"imagesrc":"28-1816",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A map of William Edward Parry's expedition":
+			"Une carte de l'expédition de William Edward Parry",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -550,8 +550,8 @@ define(['utils'], function (Utils) {
 			"mapFR":true,
             "imagesrc":"33-1850",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Picture of James Douglas":
+			"Image de James Douglas",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -881,8 +881,8 @@ define(['utils'], function (Utils) {
 				"<p>Alors que la participation du Canada à la Première Guerre mondiale ne fait pas l’unanimité au sein des Premières Nations, près de 4&nbsp;000 de leurs hommes s’engagent volontairement dans le Corps expéditionnaire canadien, même s’ils n’ont pas de droits de citoyenneté. Selon les estimations, un membre des Premières nations Canadien (homme) valide sur trois, en âge de servir dans l’armée, s’enrôle. Un nombre indéterminé de Métis s’enrôlent aussi, ainsi qu’au moins 15 Inuits du Labrador. Des femmes autochtones s’engagent, comme l’infirmière Edith Anderson, une Mohawk de la réserve des Six Nations de la rivière Grand, qui s’est joint à l’Army Nurse Corps de l’American Expeditionary Force et travaille dans un hôpital américain situé à Vittel, en France.</p><p>Le nombre exact d’Autochtones morts au combat est indéterminé. Au moins 50 d’entre eux sont décorés pour bravoure ou héroïsme. Malgré les rapports officiels élogieux sur l’enthousiasme des «&ThinSpace;Indiens&ThinSpace;» qui ont appuyé l’effort de guerre, la politique d’émancipation a eu un impact sur les soldats des Premières Nations qui rentrent au pays&nbsp;: non seulement perdent-ils leur statut d’Indien, l’accès à des programmes gouvernementaux à l’intention des peuples des Premières Nations et l’accès à des programmes destinés aux anciens combattants ce qui veut dire qu’ils ne reçoivent pas, après la guerre, les mêmes avantages ni le même soutien que leurs compagnons d’armes non autochtones.</p>",
 			"imagesrc":"42-1914",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A poster from the First World War encouraging to enlist in the Armed Forces":
+			"Une affiche de la Première Guerre mondiale incitant à s'inscrire dans les Forces Armées",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -911,8 +911,8 @@ define(['utils'], function (Utils) {
 				"<p>La Ligue des Indiens du Canada est créée par Frederick Ogilvie Loft, un Mohawk de la réserve des Six Nations de la rivière Grand, située près de Brantford, en Ontario. Ancien combattant de la Première Guerre mondiale, Loft avait combattu en France. La Ligue des Indiens du Canada est la première organisation politique nationale au Canada dont le principal objectif est de protéger les droits et d’améliorer les conditions de vie des Premières Nations. La Ligue propose de travailler avec le ministère des Affaires indiennes, mais elle essuie un refus.</p><p>La Ligue des Indiens du Canada et ses partisans parmi les anciens combattants n’ont pas accompli tout ce qu’ils auraient souhaité. Toutefois, on reconnaît à la Ligue le mérite d’avoir amélioré certains des éléments les plus oppressifs de la <em>Loi sur les Indiens</em>, après les années 1950. En 1951, le gouvernement lève les interdictions touchant l’organisation politique, certaines manifestations spirituelles traditionnelles ainsi que les restrictions touchant les déplacements hors réserve. En 1960, tous les Indiens inscrits du Canada obtiennent le droit de vote aux élections fédérales.</p>",
 			"imagesrc":"44-1919",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A newspaper extract about the foundation of the League of Indians of Canada":
+			"Un extrait de journal à propos de la fondation de la Ligue des Indiens du Canada",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -984,8 +984,8 @@ define(['utils'], function (Utils) {
 				"<p>Ces modifications empêchent toute personne de solliciter des fonds pour représenter les Premières Nations. Pendant plusieurs décennies, ces modifications empêchent les Premières Nations d’engager des poursuites judiciaires et de faire appel à un avocat.</p>",
 			"imagesrc":"48-1927",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A conference on the Indian Act":
+			"Une conférence sur la Loi sur les Indiens",
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1020,8 +1020,8 @@ define(['utils'], function (Utils) {
 				"<p>Au moins 3&ThinSpace;000 Indiens inscrits (visés par un traité), dont 72 femmes, ainsi que des Inuits, des Métis et des membres d’autres Premières Nations dont le nombre reste inconnu, se sont enrôlés dans les Forces canadiennes pendant la Seconde Guerre mondiale. Leur nombre était sans doute beaucoup plus élevé. Au moins 17 d’entre eux ont reçu des médailles pour des actes de bravoure au combat. Tout comme après la Première Guerre mondiale, de nombreux anciens combattants des Premières Nations découvrent en rentrant chez eux qu’ils ont perdu leur statut d’Indien, qu’ils n’ont plus le droit de vivre dans une réserve et qu’on leur refuse les avantages dont bénéficieront les autres combattants canadiens. La guerre entraîne également d’autres incursions en Arctique, lorsque les Alliés établissent des postes militaires sur l’est de l’Arctique pour ouvrir des liaisons aériennes entre l’Amérique du Nord et l’Europe. Les postes militaires sont construits dans le Nord-du-Québec, à Fort Chimo, et sur l’île de Baffin, à Frobisher Bay (actuellement Iqaluit).</p>",
             "imagesrc":"50-1939",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Soldiers during the Second World War":
+			"Des soldats durant la Seconde Guerre mondiale",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1112,8 +1112,8 @@ define(['utils'], function (Utils) {
 				"<p>En août 1953, sept ou huit familles inuites originaires d’Inukjuak (à l’époque Port Harrison), dans le Nord-du-Québec, sont transportées à Grise Fiord sur la pointe sud de l’île d’Ellesmere ainsi qu’à Resolute sur l’île Cornwallis. Le gouvernement verse à ces familles de l’aide gouvernementale et leur promet qu’elles trouveront un endroit idéal pour la chasse et une meilleure qualité de vie dans les nouvelles collectivités de l’Extrême-Arctique. L’explication officielle du gouvernement énonce que ces familles se sont portées volontaires. De plus, elles ont accepté de participer à un programme visant à réduire les zones du Nord-du-Québec qui semblent surpeuplées et où la chasse est mauvaise en vue de réduire leur dépendance envers l’aide du gouvernement et de reprendre leurs activités de subsistance.</p><p>Les Inuits n’offrent pas le même son de cloche. Ils déclarent que les délocalisations sont forcées et motivées par le désir de renforcer la souveraineté canadienne dans l’archipel arctique en y installant des collectivités.</p><p>C’est à bord du navire de patrouille de la garde côtière C.D. Howe en route vers l’Arctique de l’Est que les Inuits sont transportés vers les îles Cornwallis et d’Ellesmere (Resolute et Grise Fiord), deux grandes îles désertiques situées en plein Pôle Nord hostile. Sur le navire, les familles apprennent qu’elles ne vivront pas ensemble, mais séparément dans trois endroits différents. Dans un article intitulé <em>Out In The Cold</em>, (réinstallation dans l’Extrême-Arctique), Alan R. Marcus avance que la délocalisation des Inuits dans l’Extrême-Arctique a servi non seulement d’expérience, mais également de solution au «&ThinSpace;problème des Esquimaux&ThinSpace;».</p><p>De son côté, le gouvernement fédéral souligne que le «&ThinSpace;problème des Esquimaux&ThinSpace;» est lié à la réticence des Inuits à abandonner leur mode de vie nomade. Il va même jusqu’à fournir des récits détaillés de mauvaises saisons de chasse et de famine dans la région d’Inukjuak en raison de la surpopulation. Le gouvernement fédéral sait pourtant que la région en question était au milieu d’une basse saison pour le trappage en raison de la fin du cycle de quatre ans des renards.</p>",
 			"imagesrc":"55-1953",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Houses in Resolute Bay, in 1956":
+			"Des maisons à Resolute Bay, en 1956",
 			"mapUrl":"content/medias/images/maps/22map_1953.jpg",
 			"mapAlt": (Utils.lang === "en")?
 			"Grise Fiord on the southern tip of Ellesmere Island and to Resolute on Cornwallis Island":
@@ -1163,8 +1163,8 @@ define(['utils'], function (Utils) {
 				"<p>La <em>Loi sur les Indiens</em> et la <em>Loi électorale du Canada</em> sont modifiées pour accorder aux Indiens inscrits le plein droit de vote, et par conséquent, la citoyenneté canadienne complète. Les Métis ont toujours eu le droit de vote. Le droit de vote est étendu aux Inuits en 1948, mais avant le début des années 1960, peu d’efforts sont faits pour s’assurer que leurs votes sont recueillis.</p>",
 			"imagesrc":"58-1960",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"The first votes cast since the right to vote was extended all status indians, in the Rice Lake band near Peterborough, Ontario"
+			"Les premiers votes enregistrés après l'obtention du droit de vote par les Premières Nations, dans la bande de Rice Lake, près de Peterborough, en Ontario",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1231,8 +1231,8 @@ define(['utils'], function (Utils) {
 				"<p>Une série de décisions judiciaires, notamment la décision <em>Calder</em>, ainsi que les décisions <em>Malouf</em> et <em>Paulette</em>, reconnaissent les droits existants et ancestraux des Autochtones dans de nombreuses régions du Canada. Le gouvernement du Canada a par la suite adopté sa Politique sur les revendications territoriales globales et entamé des négociations sur les traités modernes relativement aux nouvelles revendications territoriales, qui comportera plus tard des ententes sur l’autonomie gouvernementale. Depuis 1973, le Canada et ses partenaires ont conclu 26 accords de règlement des revendications territoriales globales et quatre accords d’autonomie gouvernementale. De ces 26 accords de règlement, 18 contiennent des dispositions sur l’autonomie gouvernementale. Ces accords contiennent les éléments suivants&nbsp;:</p><ul><li>des droits de propriété aux Autochtones sur plus de 600&nbsp;000 kilomètres carrés de territoire (presque la superficie du Manitoba);</li><li>des transferts de capitaux de plus de 3,2 milliards de dollars;</li><li>la protection des modes de vie traditionnels;</li><li>l’accès aux possibilités d’exploitation des ressources;</li><li>la participation aux décisions sur la gestion des terres et des ressources;</li><li>des certitudes concernant les droits fonciers des Autochtones sur environ 40&ThinSpace;% de la masse terrestre du Canada;</li><li>des droits connexes en matière d’autonomie gouvernementale et une reconnaissance politique.</li></ul>",
             "imagesrc":"63-1973",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A map representing the modern treaties":
+			"Une carte représentant les traités modernes",
 			"imgFR":true,
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
@@ -1265,8 +1265,8 @@ define(['utils'], function (Utils) {
 			"la Baie James et le Nord du Québec",
 			"imagesrc":"65-1975",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A map representing the territories impacted by the James Bay and Northern Quebec Agreement":
+			"Uen carte représentant les territoires touchés par la Convention de la baie James et du Nord québécois",
 			"mapFR":true,
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
@@ -1313,8 +1313,8 @@ define(['utils'], function (Utils) {
 				"<p>Le gouvernement du Canada établit un programme visant à fournir un soutien financier en vue de créer du contenu radiophonique et télévisuel dans les territoires et régions du nord du Canada (dans les collectivités nordiques des provinces et des territoires). Cette démarche fait suite à des décennies d’absence de services de diffusion ou à des services limités dans les collectivités nordiques et éloignées, et à la mise en place récente de satellites permettant une meilleure diffusion des signaux. L’existence du programme pavera la voie pour Television Northern Canada en 1991. Puis, le Réseau national de télévision des peuples autochtones entrera en ondes en 1999.</p>",
             "imagesrc":"68-1983",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Joe Keeper, 72-year-old Cree man from Norway House, Manitoba being interviewed by Rev. Keith Woollard for a CBC radio programme":
+			"Joe Keeper, un homme Cri de 72 ans de Norway House, au Manitoba interviewé par le Rev. Keith Woollard pour une émission de radio de CBC",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1361,8 +1361,8 @@ define(['utils'], function (Utils) {
 				"<p>Le projet de loi C-31 est rédigé pour donner suite à la décision de la Commission des droits de l’homme des Nations Unies dans l’affaire <em>Sandra Lovelace Nicholas</em> (1981). Ce projet de loi visait à harmoniser la <em>Loi sur les Indiens</em> à la <em>Charte canadienne des droits et libertés</em>. Il est présenté afin de modifier la <em>Loi sur les Indiens</em> pour rendre le statut d’Indien aux femmes qui l’avaient perdu en raison d’un mariage à une personne n’ayant pas le statut d’Indien ou à un homme non autochtone, ainsi que pour accorder ce statut à leurs enfants. Depuis 1985, plus de 174&nbsp;500 personnes ont vu leur statut rétabli ou ont obtenu le statut d’Indien.</p>",
             "imagesrc":"71-1985",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A graph showing the impacts of Bill C-31: Brother retains status under section 6(1), Brother's child retains status une section 6(1), Brother's grandchild retains status under section 6(2), Sister regains status under section 6(1), Sister's shild gains status uner section 6(2), Sister grandchild not entitled to status.":
+			"Un graphique montrant les impacts du projet de loi C-31 : Le frère conserve son statut en vertu du paragr. 6(1), L'enfant du frère conserve son statut en vertu du paragr. 6(1), le petit-enfant du frère conserve son statut en vertu du paragr. 6(2), la s&oelig;ur récupère son statut en vertu du paragr. 6(1), l'enfant de la s&oelig;ur acquiert le statut en vertu du paragr. 6(2), Le petit-enfant de la s&oelig;ur n'a pas le droit au statut",
             "imgFR":true,
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
@@ -1444,8 +1444,8 @@ define(['utils'], function (Utils) {
 			"Oka, au Québec",
 			"imagesrc":"76-1990",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A confrontation between a soldier and a Mohawk Protester during the Oka Crisis":
+			"Une confrontation entre un soldat et un manifestant Mohawk durant la Crise d'Oka",
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1495,8 +1495,8 @@ define(['utils'], function (Utils) {
 				"<p>La <em>Loi constitutionnelle de 1982</em> était loin de régler les questions constitutionnelles canadiennes, particulièrement au Québec. Des questions subsistaient également relativement à la clarté des droits des peuples autochtones. Les pourparlers entre les ordres de gouvernement se sont poursuivis jusqu’aux années 1990 et les chefs autochtones continuaient de se battre pour pouvoir y participer et pour que leurs droits soient clarifiés, particulièrement à l’égard du droit à l’autonomie gouvernementale.</p><p>Deux importantes occasions d’effectuer des changements se présentent&nbsp;: la première, lors de l’Accord du lac Meech (1987) et la deuxième lors de l’Accord de Charlottetown (1992). L’exclusion des peuples autochtones des discussions de l’Accord du lac Meech se traduit par une forte opposition qui contribue au rejet de l’Accord. En effet, les autorités législatives du Manitoba n’ont pas réussi à ratifier l’Accord avant la date limite, car le député autochtone du Manitoba Elijah Harper fait obstruction dans le but d’empêcher la tenue du vote. L’Accord de Charlottetown accorde plus d’attention aux préoccupations des peuples autochtones, puisqu’il aborde la question du droit à l’autonomie gouvernementale et de la représentation des Autochtones au Parlement. L’Accord est toutefois rejeté en 1992 lors d’un référendum national.</p>",
             "imagesrc":"79-1990",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Portrait of Elijah Harper":
+			"Portrait de Elijah Harper",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1568,8 +1568,8 @@ define(['utils'], function (Utils) {
 			"mapFR":true,
             "imagesrc":"83-1995",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A beach in Ipperwash":
+			"Une plage à Ipperwash",
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1598,8 +1598,8 @@ define(['utils'], function (Utils) {
 				"<p>En 1991, la Commission royale sur les peuples autochtones</a> est créée. Quatre Autochtones et trois allochtones ont été chargés d’enquêter et de remettre au gouvernement du Canada leur rapport sur une question primordiale&nbsp;: quels sont les fondements d’une relation équitable et honorable entre Autochtones et allochtones au Canada? La <a href=\"#\" class=\"external\" data-ext=\"ext-wb-110\">Commission</a> tiendra 178 jours d’audiences publiques, se rendra dans 96 collectivités, consultera des dizaines d’experts, commandera quantité d’études et examinera de nombreux rapports et enquêtes passés. En 1996, le ministère des Affaires autochtones et du Nord publie son rapport. Le rapport de cinq volumes offre l’examen le plus approfondi jamais effectué sur les relations passées et actuelles entre les Autochtones et le Canada. Les 440 recommandations formulées préconisent d’importants changements dans les relations, desquelles plusieurs sont encore pertinentes aujourd’hui à bien des égards.</p>",
             "imagesrc":"85-1996",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Logo of the Royal Commission on Aboriginal Peoples":
+			"Logo de la Commission royale sur les peuples autochtones",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1632,8 +1632,8 @@ define(['utils'], function (Utils) {
 			"Punnichy, en Saskatchewan",
             "imagesrc":"87-1996",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"The Mohawk Institute in Brantford, Ontario":
+			"Le Mohawk Institue à Brantford, en Ontario",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1653,8 +1653,8 @@ define(['utils'], function (Utils) {
 			"la région de Skeena-Buckley, en Colombie Britannique",
             "imagesrc":"88-1997",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Albert Tait, who was Delgamuukw, a Gitxsan title, when the case was launched":
+			"Albert Tait, qui était Delgamuukw, un titre Gitxsan, quand l'affaire a été lancée",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1710,8 +1710,8 @@ define(['utils'], function (Utils) {
 			"Antigonish, en Nouvelle-Écosse",
             "imagesrc":"91-1999",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Donald Marshall Jr., pictured with Governor-General Adrienne Clarkson":
+			"Donald Marshall Jr. photographié avec la gourverneure générale Adrienne Clarkson",
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1797,8 +1797,8 @@ define(['utils'], function (Utils) {
 				"<p>En novembre 2004, la Cour suprême du Canada rend ses décisions concernant la nation haïda et la nation tlingit de <span lang=\"en\">Taku River</span>, deux affaires importantes portant sur les obligations de consulter et d’accommoder les Autochtones en ce qui a trait au développement des ressources. Les deux décisions énoncent clairement le rôle et les responsabilités du gouvernement, des groupes autochtones et de l’industrie en matière de consultation des communautés autochtones et d’accommodement des Autochtones. </p><p>La Cour confirme l’obligation de la Couronne de consulter les peuples autochtones avant que ne soit été tranchée une revendication de droits ou de titres, et de prendre des mesures d’adaptation à l’égard de leurs préoccupations. Dans les <a href=\"#\" class=\"external\" data-ext=\"ext-wb-115\">lignes directrices à l’intention des fonctionnaires fédéraux sur l’obligation de consulter</a>, Affaires autochtones et du Nord Canada énonce que «&ThinSpace;le principal objectif de l’accommodement est d’éviter, d’éliminer ou de minimiser les effets préjudiciables sur les droits ancestraux ou issus de traités, établis ou potentiels, et, lorsque ce n’est pas possible, d’indemniser la collectivité autochtone pour ces effets préjudiciables. Dans certains cas, l’accommodement approprié peut consister en une décision de ne pas poursuivre l’activité proposée.&ThinSpace;»</p><p>La Cour confirme aussi que le principe de l’honneur de la Couronne ne peut recevoir une interprétation étroite ou formaliste, mais qu’il faut lui donner plein effet afin de promouvoir le processus de conciliation prescrit par le paragraphe 35(1) de la <em>Loi constitutionnelle de 1982</em>.</p>",
             "imagesrc":"96-2004",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Aerial photo of Taku River":
+			"Photo aérienne de Taku River",
 			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1836,8 +1836,8 @@ define(['utils'], function (Utils) {
 				"<p>L’Accord de Kelowna est le fruit d’un processus consultatif de 18 mois auquel ont pris part le gouvernement fédéral, les gouvernements provinciaux et territoriaux ainsi que cinq organisations autochtones nationales. L’Accord implique un plan sur dix ans, avec des investissements de cinq milliards de dollars sur une période de cinq ans, destiné à améliorer la santé, l’éducation, le logement et l’infrastructure, les possibilités économiques, la reddition de comptes des communautés autochtones, ainsi que leurs relations avec le gouvernement fédéral. Le dossier est important pour de nombreuses personnes en raison de son processus de collaboration et de consultation auquel ont pris part les représentants de tous les peuples autochtones du Canada ainsi que des provinces et des territoires. L’Accord n’est jamais adopté en raison du changement de gouvernement fédéral en 2006.</p>",
             "imagesrc":"98-2005",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"An aerial photo of Kelowna, British Columbia":
+			"Une vue aérienne de Kelowna, en Colombie-Britannique",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1866,8 +1866,8 @@ define(['utils'], function (Utils) {
 				"<p>Au début des années 1980, d’anciens élèves de pensionnats entreprennent un recours en justice pour les maltraitances subies lorsqu’ils étaient pensionnaires. La Convention de règlement relative aux pensionnats indiens, sans conteste le règlement de recours collectif le plus important dans l’histoire du Canada, reconnaît les torts infligés par les pensionnats et établit un fonds de plusieurs milliards de dollars afin d’aider les anciens élèves à guérir les blessures de leur enfance. Entrée en vigueur en septembre 2007, la Convention comporte cinq grands volets&nbsp;:</p><ul><li>le paiement d’expérience commune;</li><li>le processus d’évaluation indépendant;</li><li>la Commission de vérité et réconciliation;</li><li>la commémoration;</li><li>la création de la Fondation autochtone de guérison.</li><ul>",
 			"imagesrc":"100-2007",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"An abandoned Indian Residential School in Alert Bay, British Columbia":
+			"Un pensionnat indien abandonné à Alert Bay, en Colombie-Britannique",
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1883,8 +1883,8 @@ define(['utils'], function (Utils) {
 				"<p>Lors d’une cérémonie solennelle au Parlement, le premier ministre du Canada présente des <a href=\"#\" class=\"external\" data-ext=\"ext-wb-116\">excuses officielles pour les sévices et les souffrances infligés aux survivants des pensionnats indiens</a>. La reconnaissance que le premier objectif des pensionnats était de «&ThinSpace;tuer l’Indien dans l’enfant&ThinSpace;» est encore plus importante que les excuses.</p><p>«&ThinSpace;Aujourd’hui, nous reconnaissons que cette politique d’assimilation était erronée, qu’elle a fait beaucoup de mal et qu’elle n’a aucune place dans notre pays.&ThinSpace;», déclare M. Harper.</p>",
 			"imagesrc":"101-2008",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Prime Minister Stephen Harper offering an official statement of apology for the abuse and suffering of Residential School survivors":
+			"Le premier ministre Stephen Harper présentant des excuses officielles pour les sévices et les souffrances infligés aux survivants des pensionnats indiens",
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -1994,8 +1994,8 @@ define(['utils'], function (Utils) {
 				"<p>La Cour suprême du Canada détermine dans l’affaire Manitoba Metis Federation (Fédération métisse du Manitoba) que les terres promises aux enfants métis aux termes de la <em>Loi de 1870 sur le Manitoba</em> n’ont pas initialement été attribuées dans les règles. La décision conduit à de nouvelles discussions entre le Canada et la Fédération sur la façon de régler les revendications territoriales et les questions de droits non résolues dans la province.</p>",
             "imagesrc":"108-2013",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Logo of the Manitoba Metis Federation":
+			"Logo de la Manitoba Metis Federation",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2016,8 +2016,8 @@ define(['utils'], function (Utils) {
 			"mapFR":true,
             "imagesrc":"109-2014",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A map showing the Tsilhqot'in territory in British Columbia":
+			"Une carte montrant le territoire Tsilhqot'in en Colombie-Britannique",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2103,8 +2103,8 @@ define(['utils'], function (Utils) {
 				"<p>Le Tribunal canadien des droits de la personne détermine que le gouvernement a violé le <a href=\"#\" class=\"external\" data-ext=\"ext-wb-122\">principe de Jordan</a> et défavorisé les enfants des Premières Nations qui vivent dans les réserves en ne leur offrant pas des services de protection de l’enfance d’un niveau similaire à celui offert ailleurs au Canada. La décision du Tribunal précise que le gouvernement doit «&ThinSpace;mettre fin à l’acte discriminatoire et prendre des mesures pour corriger la situation et pour empêcher qu’elle se reproduise&ThinSpace;». Elle exige que le système de protection de l’enfance ainsi que son modèle de financement soient repensés, et réclame le recours à des spécialistes pour s’assurer que les Premières Nations reçoivent des services adaptés à leur culture.</p>",
 			"imagesrc":"112-2016",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"The logo of Jordan's Principle":
+			"Le logo du principe de Jordan",
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2163,8 +2163,8 @@ define(['utils'], function (Utils) {
 				"<p>En 2015, le ministre des Affaires autochtones et du Nord a nommé un représentant spécial sur la réconciliation avec les Métis. L’année suivante, le représentant spécial <a href=\"#\" class=\"external\" data-ext=\"ext-wb-123\">publie un rapport appelant le Canada à se pencher sur les droits des Métis</a>. Le rapport formule 17 recommandations au gouvernement, dont&nbsp;:</p><ul><li>la création d’un cadre pour la négociation et le règlement des droits des Métis;</li><li>la mise en place d’un processus de revendications destiné uniquement aux Métis;</li><li>un examen des lois et des politiques existantes qui concernent les Métis;</li><li>un financement stable et à long terme pour certaines des plus grandes organisations métisses du pays.</li></ul>",
 			"imagesrc":"116-2016",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Prime Minister Justin Trudeau and Métis Nation President Clément Chartier meet in Ottawa in April 2017":
+			"Le premier ministre Justin Trudeau et le président de la Nation Métis Clément Chartier lors d'une rencontre en avril 2017",
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2216,8 +2216,8 @@ define(['utils'], function (Utils) {
 				"<p>En août 2015, dans la décision <em>Descheneaux c. Canada</em>, la Cour supérieure du Québec soutient que plusieurs dispositions de la <em>Loi sur les Indiens</em> portant sur l’inscription au statut d’indien violent les droits à l’égalité conférés par l’article 15 de la <em>Charte canadienne des droits et libertés</em>. C’est particulièrement vrai pour ce qui est du traitement différentiel entre les lignées maternelles et paternelles en matière d’acquisition et de transmission du statut d’Indien, qui touche les cousins germains de la même famille et les frères et sœurs.</p><p>On met aussi en évidence une autre iniquité fondée sur le sexe entourant le statut d’indien. Elle concerne les enfants mineurs nés de parents membres d’une Première Nation ou d’une mère membre d’une Première Nation, mais dont le nom a été omis ou retranché du registre des Indiens parce que leur mère avait épousé un non-Indien après leur naissance, avant 1985.</p><p>Le 28 juillet 2016, le gouvernement canadien répond à la décision avec une approche en deux temps visant à éliminer les inégalités. Des consultations sont organisées partout au Canada et des modifications législatives à la <em>Loi sur les Indiens</em> sont proposées. Ces changements n’ont pas encore été approuvés.</p>",
             "imagesrc":"119-2016",
 			"imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"The Canadian Charter of Rights and Freedoms":
+			"La Charte canadienne des droits et libertés",
 			"imgFR":true,
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
@@ -2234,8 +2234,8 @@ define(['utils'], function (Utils) {
 				"<p>Afin de mieux servir les peuples autochtones qui se livrent à d’importants travaux visant à faire progresser l’autonomie gouvernementale et l’autodétermination, le gouvernement fédéral crée des mécanismes bilatéraux permanents avec les Premières Nations, les Inuits et les Métis. Ces mécanismes facilitent la collaboration entre la Couronne et les peuples autochtones sur l’établissement annuel des priorités et l’élaboration conjointe des politiques. Dans ses budgets fédéraux 2017 et 2018, le gouvernement accorde un soutien continu aux mécanismes bilatéraux permanents.</p><p>Chaque accord traduit les priorités communes établies par le gouvernement du Canada et par chacune des trois organisations autochtones.</p><ul><li><a href=\"#\" class=\"external\" data-ext=\"ext-wb-127\">Déclaration de l’Inuit Nunangat sur le partenariat entre les Inuits et la Couronne</a> - février 2017</li><li><a href=\"#\" class=\"external\" data-ext=\"ext-wb-128\">Accord Canada-Nation métisse - avril 2017</a></li><li>Assemblée des Premières Nations-Canada, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-129\">Protocole d’entente concernant les priorités communes</a> - juin 2017</li></ul>",
             "imagesrc":"120-2017",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Prime Minister Justin Trudeau and the National Chief of the Assembly of First Nations Perry Bellegarde, signing a Memorandum of Understanding on shared priorities":
+			"Le premier ministre Justin Trudeau et le chef national de l’Assemblée des Premières Nations Perry Bellegarde signent un protocole d’entente sur des priorités communes",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2286,8 +2286,8 @@ define(['utils'], function (Utils) {
 				"<p>Le 21 juin 2017, le premier ministre annonce qu’un nouvel espace consacré aux peuples autochtones sera établi au 100, rue Wellington, dans la Cité parlementaire, dans la région de la capitale nationale, sur les terres ancestrales des Algonquins. Créer un lieu pour les peuples autochtones en face de la Colline du Parlement symbolise un virage dans la relation qui existe entre le Canada et les peuples autochtones. Cet emplacement illustre concrètement le rôle important des peuples autochtones dans le passé, le présent et l’avenir de notre pays. Le gouvernement travaille en partenariat avec des représentants de l’Assemblée des Premières Nations, de l’Inuit Tapiriit Kanatami et du Ralliement national des Métis pour décider des prochaines étapes de la conception et du réaménagement du 100, rue Wellington.</p>",
 			"imagesrc":"123-2017",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Prime Minister Justin Trudeau speaks during an event announcing the creation of a new space for Indigenous Peoples at 100 Wellington Street, across from Parliament Hill, in Ottawa":
+			"Le premier ministre Justin Trudeau parle lors d'un événement pour annoncer qu’un nouvel espace consacré aux peuples autochtones sera établi au 100, rue Wellington, en face de la Colline du Parlement, à Ottawa",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2303,8 +2303,8 @@ define(['utils'], function (Utils) {
 				"<p>Le 15 juin 2017, Clément Chartier, président de la nation métisse, Perry Bellegarde, chef national de l’Assemblée des Premières Nations, et Natan Obed, président de l’Inuit Tapiriit Kanatami, se joignent à Mélanie Joly, ministre du Patrimoine canadien, et à Carolyn Bennett, ministre des Affaires autochtones et du Nord, pour annoncer leur intention de préparer en commun une loi visant à revitaliser les langues autochtones et à en faire la promotion.</p><p>«&ThinSpace;Nous faisons aujourd’hui un autre pas dans la bonne direction afin d’établir une relation de nation à nation entre le Canada et la nation métisse. Cela montre que le gouvernement prend au sérieux son partenariat avec les peuples autochtones, déclare M. Chartier. L’engagement du Canada dans la préparation en commun d’une loi sur les langues de manière concentrée et collaborative traduit la volonté des parties à faire avancer les choses. J’ai hâte de travailler avec la ministre Joly, le chef national Bellegarde et le président Obed pour élaborer une loi sur les langues autochtones qui sera utile et efficace.&ThinSpace;». La <a href=\"#\" class=\"external\" data-ext=\"ext-wb-131\"><em>Loi sur les langues autochtones</em></a> a reçu la sanction royale en 2019.</p>",
 			"imagesrc":"124-2017",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A welcome sign in Pangnirtung, Nunavut written in English, French and Inuktitut":
+			"Un panneau de bienvenue à Pangnirtung, au Nunavut écrit en anglais, en français et en Inuktitut",
             "wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2320,8 +2320,8 @@ define(['utils'], function (Utils) {
 				"<p>Le 16 août 2017, le gouvernement du Canada et 23 Premières Nations Anishinabeks signent une entente historique sur l’autonomie gouvernementale en matière d’éducation. Obtenue au terme de plus de 20 ans de négociations, <a href=\"#\" class=\"external\" data-ext=\"ext-wb-132\">l’entente sur l’éducation de la nation Anishinabek</a> portant sur l’autonomie gouvernementale reconnaît aux Premières Nations le droit d’exercer leur plein pouvoir dans les salles de classe, de la maternelle au secondaire, tant sur les réserves qu’ailleurs. L’entente est la première de ce type en Ontario, et la plus importante entente sur l’autonomie gouvernementale en matière d’éducation jamais conclue au Canada compte tenu du nombre de Premières Nations concernées. Elle appuie la vision de la nation Anishinabek pour un système d’éducation de qualité qui fait la promotion de la culture et de la langue anishinabek et améliore les résultats éducatifs des élèves Anishinabeks.</p>",
 			"imagesrc":"125-2017",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"A map illustrating the 23 Anishinabek First Nations that comprise the Anishinabek Education System":
+			"Une carte illustrant les 23 Premières Nations Anishinabek comprises dans le système d'éducation Anishinabek",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
@@ -2381,8 +2381,8 @@ define(['utils'], function (Utils) {
 				"<p>Le 24 novembre 2017, à Happy Valley-Goose Bay, le premier ministre Justin Trudeau présente des excuses aux anciens élèves des pensionnats indiens de Terre-Neuve-et-Labrador et à leurs familles. En 2008, l’ancien premier ministre Stephen Harper avait déjà présenté des excuses aux survivants des pensionnats indiens, mais il avait exclu les élèves des pensionnats administrés par la province de Terre-Neuve-et-Labrador.</p>",
 			"imagesrc":"129-2017",
             "imagealt": (Utils.lang === "en")?
-			"":
-			"",
+			"Saint John's Indian Residential School in Chapleau, Ontario in June 1941":
+			"Le pensionnat indien Saint John's à Chapleau, Ontario en juin 1941",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
