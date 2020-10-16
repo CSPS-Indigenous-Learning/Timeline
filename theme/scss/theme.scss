@@ -876,10 +876,11 @@ html[lang=fr] #navAnchors{
 					
 				}
 				 img{
-					max-height:300px;
+					max-width: 500px;
+                    max-height: 300px;
 					box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.41);
 					float:left;
-					height: 100%;
+					height: auto;
 					width: auto;
 
 					@include breakpoint-lt(medium){					    

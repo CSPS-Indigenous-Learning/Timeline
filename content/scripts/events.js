@@ -375,7 +375,7 @@ define(['utils'], function (Utils) {
 			"Lower Canada and Upper Canada":
 			"le Bas-Canada et le Haut-Canada",
 			"mapFR":true,
-			"wrap": true,
+			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
         {
@@ -406,7 +406,7 @@ define(['utils'], function (Utils) {
 			"imagealt": (Utils.lang === "en")?
 			"":
 			"",
-			"wrap": true,
+			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -724,7 +724,7 @@ define(['utils'], function (Utils) {
 			"The Numbered Treaties":
 			"Les traités numérotés",
 			/*"imgFR":true,*/
-			"wrap": false,
+			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		/*{
@@ -1570,7 +1570,7 @@ define(['utils'], function (Utils) {
             "imagealt": (Utils.lang === "en")?
 			"":
 			"",
-			"wrap": false,
+			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
@@ -1712,7 +1712,7 @@ define(['utils'], function (Utils) {
             "imagealt": (Utils.lang === "en")?
 			"":
 			"",
-			"wrap": false,
+			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
 
@@ -1799,7 +1799,7 @@ define(['utils'], function (Utils) {
             "imagealt": (Utils.lang === "en")?
 			"":
 			"",
-			"wrap": false,
+			"wrap": true,
 			"fr": (Utils.lang === "en")? false: true
 		},
 		{
