@@ -1163,7 +1163,7 @@ define(['utils'], function (Utils) {
 				"<p>La <em>Loi sur les Indiens</em> et la <em>Loi électorale du Canada</em> sont modifiées pour accorder aux Indiens inscrits le plein droit de vote, et par conséquent, la citoyenneté canadienne complète. Les Métis ont toujours eu le droit de vote. Le droit de vote est étendu aux Inuits en 1948, mais avant le début des années 1960, peu d’efforts sont faits pour s’assurer que leurs votes sont recueillis.</p>",
 			"imagesrc":"58-1960",
 			"imagealt": (Utils.lang === "en")?
-			"The first votes cast since the right to vote was extended all status indians, in the Rice Lake band near Peterborough, Ontario"
+			"The first votes cast since the right to vote was extended all status indians, in the Rice Lake band near Peterborough, Ontario":
 			"Les premiers votes enregistrés après l'obtention du droit de vote par les Premières Nations, dans la bande de Rice Lake, près de Peterborough, en Ontario",
 			"wrap": false,
 			"fr": (Utils.lang === "en")? false: true
